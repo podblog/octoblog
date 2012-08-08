@@ -8,7 +8,7 @@ footer: true
 ---
 
 <p>The best way to get ahold of me is the old standby, email.</p>
-<p>dan at dan-vidal dot com</p>.
+<p>dan at dan-vidal dot com</p>
 
 <p>However, I grudgingly admit social networking has a use beyond stroking one's ego.</p>
 <p>FB fan page - <a href="http://facebook.com/dvdigital">facebook.com/dvdigital</a></p>

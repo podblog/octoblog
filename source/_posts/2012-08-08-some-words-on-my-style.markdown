@@ -22,6 +22,9 @@ Basically, there's a lot of light around if you know how to use it. Nightclubs a
 
 Of course, working with the light that is there presents some challenges. Invariably you are operating at a very shallow depth-of-field, a slow shutter speed, a high ISO, or all three. I won't get into it in this post, but all three can be compensated for, especially high ISO. High ISO is the easiest to compensate for, actually. Flat out accept the noise. It's there, use it and move on. ISO 6400 on a modern DSLR is actually more usable than ISO 1600 on a roll of Fujicolor from the 1990s, even without noise reduction.
 
-So basically, my style is the result of the environment I generally shoot in, and my ethos of blending in with the crowd rather than being the focus of it. 
+So basically, my style is the result of the environment I generally shoot in, and my ethos of blending in with the crowd rather than being the focus of it.
+{% img https://s3.amazonaws.com/dvblog/tort-9712.jpg 640 960 'Work it.' %} 
+
+Use the light that's there, you might surprise yourself.
 
 (Oh, and this is only a test - I'll add photos in a bit)
