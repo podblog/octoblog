@@ -15,8 +15,9 @@ footer: true
 <p>Twitter - <a href="http://twitter.com/pod_miami">twitter.com/pod_miami</a></p>
 <p>Instagram - @pod_gram</p>
 <p>Google Plus - <a href="http://gplus.to/podmiami">gplus.to/podmiami</a></p>
+<p>Tumblr - old blog - <a href="http://dvdigital.tumblr.com/">dvdigital.tumblr.com</a></p>
 
-<p>I don't bother with Foursquare, sorry.</p>
+<p>I don't bother with Foursquare, sorry. You don't need to know where I am.</p>
 
 
 
