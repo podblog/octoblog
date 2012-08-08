@@ -10,3 +10,5 @@ categories: [Testing, randomness, derangement]
 <!-- more -->
 <p>Then they click and come here and see the full post.</p>
 <img src="http://gentle-sierra-7932.herokuapp.com/img/tort-9921.jpg">
+
+<img src="https://s3.amazonaws.com/dvblog/logo270.png">
