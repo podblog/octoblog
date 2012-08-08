@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: randomness | DV Digital]]></title>
-  <link href="http://www.dan-vidal.com//blog/categories/randomness/atom.xml" rel="self"/>
+  <title><![CDATA[Category: photo | DV Digital]]></title>
+  <link href="http://www.dan-vidal.com//blog/categories/photo/atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
   <updated>2012-08-08T16:57:17-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
@@ -36,26 +36,6 @@
 <p>So basically, my style is the result of the environment I generally shoot in, and my ethos of blending in with the crowd rather than being the focus of it.</p>
 
 <p>(Oh, and this is only a test - I'll add photos in a bit)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Octopress might be what the doctor ordered]]></title>
-    <link href="http://www.dan-vidal.com//blog/2012/08/08/octopress-might-be-what-the-doctor-ordered/"/>
-    <updated>2012-08-08T02:44:00-04:00</updated>
-    <id>http://www.dan-vidal.com//blog/2012/08/08/octopress-might-be-what-the-doctor-ordered</id>
-    <content type="html"><![CDATA[<p>This is the first post. There will be many more like it. Hopefully this works. I don't want to use a canned blog engine.</p>
-
-
-<!-- more -->
-
-
-<p>Then they click and come here and see the full post.</p>
-
-
-<p><img src="http://gentle-sierra-7932.herokuapp.com/img/tort-9921.jpg"></p>
-
-<p><img src="https://s3.amazonaws.com/dvblog/logo270.png"></p>
 ]]></content>
   </entry>
   
