@@ -1,18 +1,15 @@
 ---
 layout: page
-title: "support-this-site"
+title: "Wherein I ask for your help..."
 date: 2012-08-09 01:21
 comments: true
 sharing: true
 footer: true
 ---
 
-I do what I do because I like to do it, not for any financial reward. While I enjoy the finer things in life that may cost a dollar or two, there is an operational expense incurred in my activities. What I'm getting at is the bills don't pay themselves, basically. And it's considered bad form to take L-series lenses and not pay for them. I hear they arrest you for that sort of thing. 
-
-And the finer things in life that I enjoy keep me less cranky. And those who know me, know that I'm not such a bad guy when I'm not being cranky. 
+I do what I do because I like to do it, not for any financial reward. You can't take it with you, after all. Even if you could, half the fun is building it up all over again in the next life. Don't take that as an endorsement of reincarnation or anything. But, there is an operational expense in bringing to you my small body of visual works, my occasional diatribes, and frequent random brain droppings. So, if you can, please consider purchasing a printed copy of one of my images, or commissioning me to produce something specifically for your needs. And yes, I'll confess to enjoying a few of the finer things in life too. But we all have our vices.
 
 So, if you are of a mind, you can purchase some of my more thoughtful works, and some of my less thoughtful ones, too. Link action starts now.
-
 
 Purchase landscapes and scenic prints via my print provider, <a href="http://dan-vidal.fineartamerica.com/">Fine Art America.</a> Several sizes and finishes are available, and the turnaround time is very reasonable. The pieces featured make a fantastic addition to anyone's home or office. These prints are produced to last a lifetime, so consider it as a worthwhile investment into independent art.
 
