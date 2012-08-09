@@ -11,6 +11,7 @@ footer: true
 <p>dan at dan-vidal dot com</p>
 
 <p>However, I grudgingly admit social networking has a use beyond stroking one's ego.</p>
+<p>Vimeo - <a href="http://vimeo.com/dvdigital">vimeo.com/dvdigital</a></p>
 <p>FB fan page - <a href="http://facebook.com/dvdigital">facebook.com/dvdigital</a></p>
 <p>Twitter - <a href="http://twitter.com/pod_miami">twitter.com/pod_miami</a></p>
 <p>Instagram - @pod_gram</p>
