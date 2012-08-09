@@ -43,4 +43,4 @@ motion.
 Someone less kind than me could have taken exception to that, actually. This is Miami, after all. The kid on the Vespa is damn lucky in that
 regard. 
 
-Scooter riders, scoot all you want, but realize it's a two-way street. You're on a motor vehicle too. 
+Scooter riders, scoot all you want, but realize it's a two-way street. You're on a motor vehicle too. It's a scooter, not a Hayabusa.
