@@ -4,7 +4,7 @@ title: "On the audacity of scooter riders."
 date: 2012-08-09 16:37
 comments: true
 sharing: true
-categories: [Testing, rants, randomness] 
+categories: [Testing, rants, randomness, chmaks] 
 ---
 {% img https://s3.amazonaws.com/dvblog/scoot2.jpg 960 640 'Scoot' %}
 
@@ -32,7 +32,7 @@ chapter of the Hell's Angels.
 Worse yet, your average scooter rider will blame you for any of their indiscretions on the road. 
 
 Case in point. Yesterday, I was leaving the Publix complex on Fifth and Alton. As I eased on to Lenox Avenue into the flow of traffic, 
-a kid on a Vespa was closing in on me rather fast. Now, the light ahead of me was red, so myself and the drivers in front of me clearly could not
+a kid, dare I say a *chmak*, on a Vespa was closing in on me rather fast. Now, the light ahead of me was red, so myself and the drivers in front of me clearly could not
 move. The scooter rider, rather than stop and join the flow of traffic as he would have been required to do, swerved to the *right* of me and
 the rest of the cars in the lane, choosing to wedge his noisy lawn-mower-sounding contraption between all of us and the sidewalk. My outraged
 fellow car drivers honked in protest as he wedged through, only to be met by a stream of incoherent curses and curiously random gestures which 
