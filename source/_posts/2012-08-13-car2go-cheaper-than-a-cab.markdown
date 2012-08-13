@@ -7,7 +7,7 @@ categories: [car2go, miami, randomness,]
 sharing: true 
 ---
 
-{% img center https://s3.amazonaws.com/dvblog/c2g_0603_.jpg 960 640 '210 and Smart' %}
+{% img center https://s3.amazonaws.com/dvblog/210smart.jpg 960 640 '210 and Smart' %}
 
 
 I love my current car. The W210 Mercedes-Benz E320 is a solid performer. A cruiser if you will, it's built for cruising the highways at speed. I'm not gonna beat an SLS off the line in acceleration, but I can easily cruise at 85+ MPH in the express lanes on I-95 without difficulty. 
