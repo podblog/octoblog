@@ -18,6 +18,8 @@ So, when I go out to shoot, I usually take the cab, or the bus. Living just off 
 
 Both those options have negatives though. 
 
+<!-- more --> 
+
 __The Cab__ - The cab costs money. From my place to say, <a href="http://clubspace.com/">Space</a>, for example, is $11 plus tip (you do remember to tip your driver, don't you?) on average. Also, cabs may not be immediately available during peak times, whether you stand outside or dial 305-888-8888. 
 
 __The Bus__ - The 3 bus, while cheap, only runs once a hour after 11 PM. And, the arrival time at your stop, though listed at say, 1:35 AM, can vary up to 20 minutes. Not fun when it's warm out and there's some of the local characters coming out of the Motel South Pacific. I'm not threatened by them, of course, but it can give one pause. 
@@ -30,4 +32,27 @@ So, with this in mind, I decided to try a little experiment.
 
 I was schedule to shoot at Space this past Saturday, much like every other Saturday for the past decade or so. Usually, I would take a cab or the bus for the reasons I mentioned above. However, this time, I decided to try out my new C2G membership for a real task rather than just an excuse to test a Smart car out. Using C2G's handy iOS app, I found a car about a block from my apartment. 
 
-{% img center https://s3.amazonaws.com/dvblog/c2g_0603_.jpg 640 960 'iOS Car 2 Go' %}
+{% img center https://s3.amazonaws.com/dvblog/c2g.png 640 960 'iOS Car 2 Go' %}
+
+Yes, it was 3:40 in the morning. I had a friend's going-away party prior, so sue me.
+
+As you can see, there was one 90 meters and change away from me. So, I slung my goodie bag onto my back, and walked to the vehicle. 
+
+After I boarded, I did the usual login procedures, and checked the time. 
+
+{% img center http://distilleryimage0.instagram.com/6bd181b4e45111e1ae7122000a1e86bb_7.jpg 612 612 'Onboard Insta' %}
+
+I drove down Biscayne Boulevard at a reasonable speed and arrived at an empty City parking spot a block from Space around 7 minutes later.
+
+Car 2 Go charges you 38 cents a minute to drive. There's no membership fee or paying for parking or gas. If you need gas there's a Wright Fleet fuel card inside. I think they give you credits if you have to stop and put gas in, even. So, .38 x 7 = 2.66, give or take a minute or so. 
+
+A cab, like I mentioned, is $11.00 plus tip. The bus is $2.00 flat but you have to kind of estimate when it's going to show up. 
+
+So, for this situation, Car 2 Go was a clear winner. 
+
+Of course, this only works if you live in the City of Miami, and there's a vehicle near you. Also, for me it was a 1-way trip, since I left Space around 9 AM, and I had had a few drinks. Obviously with C2G, you have to obey all the normal rules of the road! A kind friend who works at Space was nice enough to drive me home, so my total transport bill for the evening was $2.66. Even if I took a cab home, I would have still come out ahead. 
+
+I can definitely recommend Car 2 Go. Besides, even though the Smart drives like an angry golf cart, it's kind of fun to drive when you flip it over to manual. 
+
+Check 'em out at <a href="http://miami.car2go.com/">car2go.com</a>.
+
