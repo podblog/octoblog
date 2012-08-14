@@ -19,5 +19,9 @@ And in no particular order, so guys, don't fight. Actually, fight, it'd be humor
 
 <a href="http://deepsleepstudio.com/">**Deepsleep**</a> - Alex Martinez, graphic designer of top-notchedness. He did the fancy logo you see up top. He'll do a fancy logo for you too if you ask nicely and pay him. The results are worth it.
 
+<a href="http://soulofmiami.org/">**James Echols - Soul of Miami**</a> - James was another person whom provided leverage for me to get off my ass and start a blog. I'm hideously late to the game but here we are, and thanks! Oh, and his blog's pretty useful if you want to know what's going on aside from club events in Miami. 
+
+There's other cool helpful people, of course, but they don't have blogs or sites per se really, and linking to their social media profiles doesn't do much since they are private. But you all know who you are. Thanks!
+
 
 
