@@ -3,7 +3,8 @@ layout: post
 title: "We can't make art from air."
 date: 2012-08-13 22:44
 comments: true
-categories: [rants, photo, video,] 
+categories: [rants, photo, video,]
+sharing: true 
 ---
 
 {% img center http://distilleryimage8.instagram.com/5ba9a3d8e32611e1a4431231381407ca_7.jpg 612 612 'Gear and girl' %}
@@ -34,4 +35,4 @@ Understandably, the dynamics of the digital economy have changed things, but pho
 What's even worse is the lack of understanding of licensing and rights, as well. Very few businesses understand this. They treat all photographic work for them as work-for-hire, with unlimited use. To them, once the photo is taken, it is theirs. It doesn't work that way. Licensing and sale is one of the only ways a photographer can stand a chance of making a reasonable living nowadays, especially in the situations I've described above. And very few photographers understand it as well as they should. It took me awhile to get a handle on it, but once one understands the ins and outs of it, it's easy to figure out.
 In this case, Google is your friend. Search for "editorial photography rate guidelines" and go from there. I'm not being lazy, there is just a huge amount of information on pricing your work accordingly. FYI, it's why a decent-sized print of mine will run you a few hundred dollars or more at <a href="http://dan-vidal.fineartamerica.com/">my Fine Art America</a> page. 
 
-Again, we're in this because we love to do it, not because we're seeking a route to glorious riches and untold glory. All anyone behind the lens asks for is just compensation to cover the costs of doing business, and enjoy life while we're at it. I don't think there's many photographers out there whom are greedy and driven by dollar signs. Even we like to put the camera down sometimes and take a little vacation somewhere. With a smaller camera of course. 
+Again, we're in this because we love to do it, not because we're seeking a route to glorious riches and untold glory. All anyone behind the lens asks for is just compensation to cover the costs of doing business, and enjoy life while we're at it. I don't think there's many photographers out there whom are greedy and driven by dollar signs. Even we like to put the camera down sometimes and take a little vacation somewhere. With a smaller camera of course, we might see something interesting along the way.  
