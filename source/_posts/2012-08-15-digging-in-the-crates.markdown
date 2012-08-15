@@ -26,6 +26,10 @@ Which begs the question, in the photo world, is it possible to effectively learn
 
 In the real world, there are plenty of shooters out there who make a living of it, and have never touched film or learned the formalities. They shoot via the Golden BB method, hoping that if they spray enough projectiles in the air, one will hit the target. Personally, it seems like a waste, even in the digital realm. Plus I feel you don't really learn if you depend on getting that one lucky photo in a session. I would much rather analyze the situation, set up accordingly, and push the shutter button once. I guess, in military terms, I'd be a sniper. One shot, one kill. I'm not in a hurry.
 
+{% img center http://seenightlife.com/photos/2008/original_dannyhowells001.jpg 640 427 'Danny Howells at Space' %}
+
+Photos like the above weren't composed with the Golden BB method. You only had a finite amount of frames to work with, and none could be deleted and reused. Each shot had to count, for the most part.
+
 It's a more efficient and elegant workflow anyhow. Each image counts, rather than just one throwaway amongst many. 
 
 The benefits of digital technology on photography have been enormous, with digital sensors objectively outperforming film in almost all aspects. However, along the way, certain techniques and refinements have been lost. The Golden BB method is sadly prevalent, unfortunately. 
