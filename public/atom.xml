@@ -4,7 +4,7 @@
   <title><![CDATA[DV Digital]]></title>
   <link href="http://www.dan-vidal.com//atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-08-15T17:41:07-04:00</updated>
+  <updated>2012-08-17T16:33:08-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My first inbound link.]]></title>
+    <link href="http://www.dan-vidal.com//blog/2012/08/17/my-first-inbound-link/"/>
+    <updated>2012-08-17T16:19:00-04:00</updated>
+    <id>http://www.dan-vidal.com//blog/2012/08/17/my-first-inbound-link</id>
+    <content type="html"><![CDATA[<p><img class="center" src="https://s3.amazonaws.com/dvblog/car2go.png" width="512" height="369" title="'car 2 go'" ></p>
+
+<p>Looks like Car 2 Go heard the noise I was making&#8230;</p>
+
+<!-- more -->
+
+
+<p>I don&#8217;t do advertorial or paid postings, it defeats the purpose of this blog, in my mind. Anything I talk about or endorse here is based on personal experience and not because someone paid me off. If I think something is useful or quality, I&#8217;ll post about it here. <a href="http://miami.car2go.com/">Car 2 Go</a> is definitely a great service and worth what I pay for it. Keep up the good work guys.</p>
+
+<p>I&#8217;ve been through the advertorial wringer before. It&#8217;s fun for a few minutes while you get paid, but after awhile, if you are posing as a legitimate news source, it does get tiring after awhile if you have any sort of humanity.</p>
+
+<p>The sad thing is, advertisers and companies have come to expect advertorial as a standard practice these days. I&#8217;ve been around plenty of people and corporations when the question of the media and coverage for their product/brand/event comes up, and a notable amount of the discussion does center on the advertorial side of things. What&#8217;s even worse, is when you see what appear to be respectable news outlets going along for the advertorial ride.</p>
+
+<p>Listen, as far as pure journalism goes, it&#8217;s a tough world out there now. Ad sales have dried up, and obviously it costs money to operate and maintain a decent news outlet. However, there are ways to cut costs and still maintain standards of ethical and journalistic integrity. A lot of &#8220;fat&#8221; can be cut on the infrastructure side of things, for example. This very blog is an example. While I don&#8217;t have it configured for true high-availability, I know I could scale it up as such where having this blog as an HA app wouldn&#8217;t break the bank. A little knowledge goes a long way.</p>
+
+<p>I think, at the end of the day, journalists and news organizations should embrace being a bit multi-talented, enabling them to continue delivering unbiased news, without having to resort to deceptive advertorial processes.</p>
+
+<p>And yes, I know the guilty parties in the advertorial game. Let&#8217;s just say it&#8217;s not too surprising. I&#8217;ll keep my own counsel for now.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Digging in the crates.]]></title>
