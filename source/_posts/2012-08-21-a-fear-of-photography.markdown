@@ -14,6 +14,8 @@ A lot of people have a fear of photography. And I really can't figure out why. S
 
 It certainly isn't deliberate on my part though. Whatever transgressions you may be committing, that's your problem and not mine. I'm not out to ruin your life, since it appears that you're quite capable of doing that on your own. And no, I won't delete it. You are a noisy red smear at the bottom of the frame. And you probably shouldn't be cheating on your pretty wife in front of thousands of people and about that many cameras.
 
+<!-- more --> 
+
 But, that's just with crackheads in nightclubs, which, fortunately, form a small minority of our population. 
 
 The real head-scratcher is the people who get worked up over photography in public places. If you can see it from a public location, you can shoot it, it's that simple. I don't buy the national security bit or anything of that nature. If I take a photo of the refinery near Fort Lauderdale airport, the photo, other than a creative piece, tells me nothing. It's a collection of pipes. It won't aid a terrorist in planning to blow it up. And, if a terrorist wants to blow up the refinery, a photo isn't going to hinder or help him or her too much. It's not like in the movies where they can deduce where the 2-meter wide exhaust vent is from a cell phone photo.
