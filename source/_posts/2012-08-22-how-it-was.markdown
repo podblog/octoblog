@@ -10,7 +10,7 @@ sharing: true
 
 Telnet, Gopher, Lynx. 
 
-This is how was way back when. The Web was in it's infancy, and the Internet was still largely the province of academia and large corporations. 
+This is how was way back when. The Web was in it's infancy, and the Internet was still largely the province of academia, the government, and disinterested large corporations. 
 
 And it was great.
 
