@@ -10,7 +10,7 @@ sharing: true
 
 Apparently there's a hurricane on the way. Or a tropical storm at the most. It's the usual subdued panic in South Florida. Yes, I'm aware that even a tropical storm can cause damage, and it's always better to be safe than sorry, but if the news media is to be believed, Armageddon is upon us. 
 
-It made for a very subdued Friday night, that's for sure. And today is shaping up to be more of the same. 
+It made for a very low-key Friday night, that's for sure. And today is shaping up to be more of the same. 
 
 <!-- more -->
 
