@@ -7,7 +7,7 @@ categories: [hurricanes, miami, randomness]
 sharing: true
 ---
 
-{% img center http://distilleryimage3.instagram.com/f5fd5778f09f11e18ed022000a1d03b6_7.jpg 'Isaac Weekend' %}
+{% img center https://s3.amazonaws.com/dvblog/isaacgram.jpg 612 612 'Isaac Weekend' %}
 
 I think this past weekend was a good example of what I've heard some people refer to as a "South Florida Snow Day"...
 
