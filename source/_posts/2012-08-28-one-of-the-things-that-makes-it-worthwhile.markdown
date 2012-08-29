@@ -7,7 +7,7 @@ categories: [sappy, randomness, photo]
 sharing: true
 ---
 
-{% img center https://s3.amazonaws.com/dvblog/thanx.jpg 258 280 'Thanks!' %}
+{% img center https://s3.amazonaws.com/dvblog/thanx.png 258 280 'Thanks!' %}
 
 Like I've stated before. I don't really do what I do with the end-goal of money in my sights. Having money is nice, and certainly has it's benefits in today's society, but I've found along the way that if your driving force is solely the acquisition of it, and the conspicuous consumption of it, it will corrupt. I've seen some really good people turn into _raging assholes_ because of it. Or just plain old douchebags. Pardon my language.
 
