@@ -37,19 +37,19 @@ Around 7:30 PM or so, I started getting to what I consider the "fertile" photo-o
 
 {% img center https://s3.amazonaws.com/dvblog/ohmy.jpg 612 612 'Oh my' %}
 
-I saw the colors and cloud formations, and oddly enough I was very close to the site of my last great landscape piece at the Yellow Shark Channel. Now, unlike that fortuitous encounter in April, the parking area at Yellow Shark was packed with people, all in the long-weekend frame of mind. However, no one seemed to mind that I was setting up a bunch of photo equipment. Even a park ranger/Fish and Wildlife cop could care less, it seemed. 
+I saw the colors and cloud formations, and oddly enough I was very close to the site of my last great landscape piece at the Indian Key Channel. Now, unlike that fortuitous encounter in April, the parking area at Indian Key was packed with people, all in the long-weekend frame of mind. However, no one seemed to mind that I was setting up a bunch of photo equipment. Even a park ranger/Fish and Wildlife cop could care less, it seemed. 
 
 I had to work fast though. This was a random stop, yes, but I was here to shoot something. So, I set up, and got to it. The sun was rapidly descending. I know one of the rules of landscape and scenic photography is to get on-site hours beforehand, but sometimes you can't make that happen. So, you have to work with what you got. 
 
 {% img center https://s3.amazonaws.com/dvblog/keys-4623.jpg 960 640 'Pylons - they go south' %}
 
-There was no wind threatening to carry me off into the sea, so I had a nice stable platform with which to compose. Definitely more "colorful" than my last visit. I think I'm gonna make a little "project" out of the Yellow Shark channel at different times of the year.
+There was no wind threatening to carry me off into the sea, so I had a nice stable platform with which to compose. Definitely more "colorful" than my last visit. I think I'm gonna make a little "project" out of the Indian Key channel at different times of the year.
 
 Then, finally, I think I nailed it. I moved to the eastern side of "that bridge", and everything just sort of came together. The sun was below the horizon, but still, there was enough light to make the sky interesting, and the bridge became a jagged shadow across the frame. I saw it. One shot, one kill, as it were. 
 
 {% img center https://s3.amazonaws.com/dvblog/keys-4648.jpg 960 1440 'Fire away' %}
 
-This one frame made the whole trip worth the effort. They say you know you have a good photo even before you process it, and right there, I knew it. Yellow Shark Channel is officially "my spot" now. FYI, the piece above will be for sale later today at <a href="http://dan-vidal.fineartamerica.com/">my Fine Art America</a>site.
+This one frame made the whole trip worth the effort. They say you know you have a good photo even before you process it, and right there, I knew it. Yellow Shark Channel is officially "my spot" now. FYI, the piece above will be for sale later today at <a href="http://dan-vidal.fineartamerica.com/">my Fine Art America</a> site.
 
 I didn't end the day there though. I figured I was already most of the way down the highway, so I proceeded on to Key West proper.
 
