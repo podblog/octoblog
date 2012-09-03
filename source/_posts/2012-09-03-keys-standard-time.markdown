@@ -1,0 +1,69 @@
+---
+layout: post
+title: "Keys Standard Time."
+date: 2012-09-03 13:28
+comments: true
+categories: [key west, scenics, photo]
+sharing: true 
+---
+
+{% img center https://s3.amazonaws.com/dvblog/keys-4648_blog.jpg 960 308 'Yellow Shark Channel' %}
+
+I've always liked going down to the Keys, especially the Lower Keys and Key West.
+
+It is one of the few places I've been to in the US where things are truly running at a different pace. No one's concerned about their latest Facebook status, what Justin Bieber said on Twitter, or what their Klout score (a rigged and meaningless metric by the way) is. 
+
+<!-- more -->
+
+It's removed from the mainland as it were, by geography, but it's not a pig-ignorant backwater of the Ozarks populated by people who are poised to vote for Romney this coming November. You can go to Key West, relax, but not feel like you are in a premillenial timewarp. They are connected down there, they just choose not to make a big deal of it. That's actually the way I think they feel down there, "don't make a big deal of it".
+
+After a fairly interesting morning of shooting photos of the Labor Day Weekend event at Space, featuring DJs AN21, Robert Dietz, and Reboot (aka Frank...I always call DJs by their real names), I decided to call it off around 8 AM, get some rest, and actually go out and _produce_ something photographically that day. I hadn't generated much other than nightlife-related material over the preceding few weeks, so I figured I should get to it and find an interesting slice of land to document. 
+
+So, I figured why not head south? I've had good photo experiences there before, and I've always made mental notes on stopping points on the way down. So around 4 PM after some much-needed rest, I jumped in the 210 and headed to the Turnpike southbound. 
+
+{% img center https://s3.amazonaws.com/dvblog/tipover.jpg 612 612 'Tip Over' %}
+
+I like driving the Homestead Extension to the Florida Turnpike. It's fairly new so the pavement hasn't succumbed to the elements as of yet, and it's never so congested that you are reduced to driving at a crawl. You can easily cruise at 85 MPH (keep your eyes open!) and not have to fuss with slowing down. 
+
+After a quick fill-up in Florida City ($4.29 a gallon for premium...), I got to the Overseas Highway proper. 
+
+{% img center https://s3.amazonaws.com/dvblog/overseas.jpg 612 612 'Blaue' %}
+
+Now, if you want to talk about minor driving frustrations, the Overseas Highway is it. One lane, with a few passing zones, and a lot of people have a nasty habit of going below the speed limit. I'm not a speed demon, but I do like to keep up a good pace, ya know? 
+
+Anyways, things were progressing swimmingly. And it being Labor Day weekend, the whole stretch of the Keys was abuzz with activity. People were out boating, barbecuing, RVing, and just having a grand old time.
+
+Around 7:30 PM or so, I started getting to what I consider the "fertile" photo-opportunity grounds of the Islamorada area of the Keys. I've shot there before, but this time around, the sky was extremely cooperative. 
+
+{% img center https://s3.amazonaws.com/dvblog/ohmy.jpg 612 612 'Oh my' %}
+
+I saw the colors and cloud formations, and oddly enough I was very close to the site of my last great landscape piece at the Yellow Shark Channel. Now, unlike that fortuitous encounter in April, the parking area at Yellow Shark was packed with people, all in the long-weekend frame of mind. However, no one seemed to mind that I was setting up a bunch of photo equipment. Even a park ranger/Fish and Wildlife cop could care less, it seemed. 
+
+I had to work fast though. This was a random stop, yes, but I was here to shoot something. So, I set up, and got to it. The sun was rapidly descending. I know one of the rules of landscape and scenic photography is to get on-site hours beforehand, but sometimes you can't make that happen. So, you have to work with what you got. 
+
+{% img center https://s3.amazonaws.com/dvblog/keys-4623.jpg 960 640 'Pylons - they go south' %}
+
+There was no wind threatening to carry me off into the sea, so I had a nice stable platform with which to compose. Definitely more "colorful" than my last visit. I think I'm gonna make a little "project" out of the Yellow Shark channel at different times of the year.
+
+Then, finally, I think I nailed it. I moved to the eastern side of "that bridge", and everything just sort of came together. The sun was below the horizon, but still, there was enough light to make the sky interesting, and the bridge became a jagged shadow across the frame. I saw it. One shot, one kill, as it were. 
+
+{% img center https://s3.amazonaws.com/dvblog/keys-4648.jpg 960 1440 'Fire away' %}
+
+This one frame made the whole trip worth the effort. They say you know you have a good photo even before you process it, and right there, I knew it. Yellow Shark Channel is officially "my spot" now. FYI, the piece above will be for sale later today at <a href="http://dan-vidal.fineartamerica.com/">my Fine Art America</a>site.
+
+I didn't end the day there though. I figured I was already most of the way down the highway, so I proceeded on to Key West proper.
+
+{% img center https://s3.amazonaws.com/dvblog/doppler.jpg 612 612 'Doppler' %}
+
+I made it Key West around 10 PM. The scene was in full swing, so I parked and decided to go walkabout, as it were, and take things in. I like Key West itself. It's a modern resort town, but the whole atmosphere encourages me to relax. I'm seriously thinking about figuring out how to maintain a residence down there. It's just a different way of life, really. You can just live your life at your own pace, and not worry about the petty bullshit which seemingly consumes Americans these days. No worrying about keeping up with the Joneses, as it were. And again, it's not a cradle of ignorance. The whole area is connected and part of the world, they just choose not to get caught up in the "rat race". Maybe in my old (not that old!) age I'm turning into a bum, I don't know. 
+
+I did grab a few street scene images, and also scoped out a few potential "Residence B" places. I'd actually be into a timeshare arrangement if the circumstances I have in mind worked out. Eventually I suppose I'll become a burnout and just live there. It'd be kinda nice. Me, a bungalow, and a boat. Though that bungalow would be pretty high-tech. I do love my toys. And I'd get one of those covers for the 210 so it's nice and safe from the seagulls and parrots. 
+
+{% img center https://s3.amazonaws.com/dvblog/sloppy.jpg 960 960 'sloppy' %}
+
+There's just a certain allure to it, you know? You can just kind of be there, do what you need to in order to provide shelter and the essentials of life, and not get caught up in the petty antics of society. Like I said at the start of this article, everyone, whether they are tourists or locals, seems to be just fine with letting things be. They're not caught up in the rat race of wealth accumulation, and are just about enjoying life, and not rotting away flying a desk somewhere. Hey, if flying a desk is your thing, go for it, but I personally have other things in mind. 
+
+Maybe they're on to something down there. I'll be back more often, for sure. 
+
+
+
