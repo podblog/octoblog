@@ -4,7 +4,7 @@
   <title><![CDATA[DV Digital]]></title>
   <link href="http://www.dan-vidal.com//atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-09-11T12:48:48-04:00</updated>
+  <updated>2012-09-11T12:55:05-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -30,8 +30,9 @@
 <p class='instagram-comment-holder'><a href='https://instagram.com/oauth/authorize/?client_id=082223ce4af44db2a4b0440fd98957c9&redirect_uri=http://www.dan-vidal.com/#access_token=31120127.082223c.33c03a5584f54c3494027e191a8d7b73}&response_type=token&scope=likes+comments' id='277852496720953575_31120127' class='instagram-comment-link'>Sign in with Instagram to view Likes and Comments</a></p>
 
 
-<p>
-Definitely not working.</p>
+<p></p>
+
+<p>Works in a way. I have to retrieve the media_id for each Instagram photo. It&#8217;s not implicit in the URL. Hi Jacque.</p>
 
 <p>Hopefully this works.</p>
 

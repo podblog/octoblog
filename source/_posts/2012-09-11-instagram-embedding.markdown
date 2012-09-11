@@ -7,7 +7,8 @@ categories: [testing, photo,]
 sharing: true
 ---
 {% instagram 277852496720953575_31120127 %} 
-Definitely not working.
+
+Works in a way. I have to retrieve the media_id for each Instagram photo. It's not implicit in the URL. Hi Jacque. 
 
 Hopefully this works.
 
