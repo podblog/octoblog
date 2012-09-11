@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photo | DV Digital]]></title>
   <link href="http://www.dan-vidal.com//blog/categories/photo/atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-09-11T00:52:20-04:00</updated>
+  <updated>2012-09-11T12:14:02-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -12,6 +12,142 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Instagram Embedding.]]></title>
+    <link href="http://www.dan-vidal.com//blog/2012/09/11/instagram-embedding/"/>
+    <updated>2012-09-11T11:59:00-04:00</updated>
+    <id>http://www.dan-vidal.com//blog/2012/09/11/instagram-embedding</id>
+    <content type="html"><![CDATA[<p>Liquid error: 743: unexpected token at '<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="hl-en not-logged-in ">
+<head>
+    <meta charset="UTF-8" />
+    <title>Page Not Found &bull; Instagram</title>
+
+    <link rel="Shortcut Icon" type="image/x-icon" href="//d36xtkk24g8jdx.cloudfront.net/bluebar/ea90379/images/favicon.ico" />
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    
+
+    
+        <script type="text/javascript" src="//d36xtkk24g8jdx.cloudfront.net/bluebar/ea90379/scripts/html5.js"></script>
+        <script type="text/javascript" src="//d36xtkk24g8jdx.cloudfront.net/bluebar/ea90379/scripts/jquery.js"></script>
+        <script type="text/javascript" src="//d36xtkk24g8jdx.cloudfront.net/bluebar/ea90379/scripts/bluebar.js"></script>
+        <script type="text/javascript" src="//d36xtkk24g8jdx.cloudfront.net/bluebar/ea90379/scripts/bluebar_desktop.js"></script>
+    
+
+    
+
+    
+    <link rel="stylesheet" type="text/css" href="//d36xtkk24g8jdx.cloudfront.net/bluebar/ea90379/cache/distillery/dialog-main.css"/>
+
+
+</head>
+<body class=" p-error dialog-404">
+
+<div class="root">
+
+
+    <div class="page">
+        
+        <header class="top-bar">
+            <div class="wrapper">
+                <hgroup>
+                    <h1 class="logo"><a href="/">Instagram</a></h1>
+                    
+                </hgroup>
+
+                
+
+                <div class="account-state">
+                    <ul class="actions">
+                        
+                        
+                        <li id="link_profile" class="link-signin">
+                                <a href="/accounts/login/?next=">
+                                <i></i>
+                                <strong>Login</strong>
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </header> <!-- .top-bar -->
+        
+
+        
+        <div class="main">
+            
+	<div class="error-container">
+	
+
+	<h2>Page Not Found</h2>
+
+	<p>This page could not be found.<br />You might have followed an incorrect link.</p>
+
+
+	</div>
+
+        </div> <!-- .main -->
+        
+
+    </div> <!-- .page -->
+
+    
+    <footer class="page-footer">
+        <div class="wrapper">
+            <nav>
+                <ul>
+                    <li><a href="/accounts/edit/">Your Account</a></li>
+                    <li><a href="/about/us/">About us</a></li>
+                    <li><a href="http://help.instagram.com/">Support</a></li>
+                    <li><a href="http://blog.instagram.com/">Blog</a></li>
+                    <li><a href="/developer/">API</a></li>
+                    <li><a href="/about/jobs/">Jobs</a></li>
+                    <li><a href="/about/legal/privacy/">Privacy</a></li>
+                    <li><a href="/about/legal/terms/">Terms</a></li>
+                </ul>
+            </nav>
+
+            <p class="copyright">&copy; 2012 Instagram, Inc.</p>
+        </div>
+    </footer>
+    
+
+
+</div> <!-- .root -->
+
+
+
+
+
+
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18105282-1']);
+    _gaq.push(['_setDomainName', 'none']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+</body>
+</html>'</p>
+
+<p>Hopefully this works.</p>
+
+<p>Access token needed.</p>
+
+<p>Tokens.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Wynwood Artwalk Too Hot To Handle?]]></title>
@@ -184,38 +320,6 @@
 <p>There's just a certain allure to it, you know? You can just kind of be there, do what you need to in order to provide shelter and the essentials of life, and not get caught up in the petty antics of society. Like I said at the start of this article, everyone, whether they are tourists or locals, seems to be just fine with letting things be. They're not caught up in the rat race of wealth accumulation, and are just about enjoying life, and not rotting away flying a desk somewhere. Hey, if flying a desk is your thing, go for it, but I personally have other things in mind.</p>
 
 <p>Maybe they're on to something down there. I'll be back more often, for sure.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[One of the things that makes it worthwhile.]]></title>
-    <link href="http://www.dan-vidal.com//blog/2012/08/28/one-of-the-things-that-makes-it-worthwhile/"/>
-    <updated>2012-08-28T21:50:00-04:00</updated>
-    <id>http://www.dan-vidal.com//blog/2012/08/28/one-of-the-things-that-makes-it-worthwhile</id>
-    <content type="html"><![CDATA[<p><img class="center" src="https://s3.amazonaws.com/dvblog/thanx.png" width="258" height="280" title="'Thanks!'" ></p>
-
-<p>Like I've stated before. I don't really do what I do with the end-goal of money in my sights. Having money is nice, and certainly has it's benefits in today's society, but I've found along the way that if your driving force is solely the acquisition of it, and the conspicuous consumption of it, it will corrupt. I've seen some really good people turn into <em>raging assholes</em> because of it. Or just plain old douchebags. Pardon my language.</p>
-
-<p>I do what I do because I really love to do it. Photo work, video work, and the occasional web project keep me happy and put food on the table, and allow for a balance in my life to spend with friends and family. I don't expect any sort of accolade or reward.</p>
-
-<p>But occasionally they do come in.</p>
-
-<!-- more -->
-
-
-<p>I tend to laugh off social networking as a diversion and, at the business level, a potential waste of resources. The most successful businesspeople in the world that I personally know and know of didn't build their empires by posting Facebook posts and ads, but they did it pretty much by turning out a good product or service. Yes, you gotta get the word out, but the business will come to you after that initial push.</p>
-
-<p>But, anyways, I was talking about social networking, not business. Oh, by the way, I don't have much in the way of business acumen. I can tell you what camera or computer to buy, but beyond that, you're on your own.</p>
-
-<p>Social networking, right. Yes, it's mostly a diversion and a front for large-scale data mining that would make the KGB envious, but sometimes it does have it's moments.</p>
-
-<p>Like tonight. The person in the Facebook chat window above friend-requested me earlier this evening. Now, I didn't quite recognize this person off the bat, but we had enough mutual known friends for me to theorize that we had met at some point in the past. So, I figured I would "clear" this person and take it from there. If they proved to be a spammer or an unscrupulous promoter, it would take all of five seconds to screen them. Facebook does do things right on occasion.</p>
-
-<p>About a few minutes later, the above message came through. I was out on a run and unfortunately the person was offline by the time I got back, so realtime communication wasn't possible. However, at the risk of being sappy, that did make my night. Again, I don't expect awards or accolades for my work, but when they come in completely unsolicited, it does make my day.</p>
-
-<p>Thank you kind semi-stranger. You made my night.</p>
-
-<p>OK, back to my scheduled ranting and raving.</p>
 ]]></content>
   </entry>
   

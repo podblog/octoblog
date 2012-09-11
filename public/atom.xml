@@ -4,7 +4,7 @@
   <title><![CDATA[DV Digital]]></title>
   <link href="http://www.dan-vidal.com//atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-09-11T00:52:20-04:00</updated>
+  <updated>2012-09-11T12:14:02-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -12,6 +12,141 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Instagram Embedding.]]></title>
+    <link href="http://www.dan-vidal.com//blog/2012/09/11/instagram-embedding/"/>
+    <updated>2012-09-11T11:59:00-04:00</updated>
+    <id>http://www.dan-vidal.com//blog/2012/09/11/instagram-embedding</id>
+    <content type="html"><![CDATA[<p>Liquid error: 743: unexpected token at &#8216;&lt;!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="hl-en not-logged-in ">
+<head></p>
+
+<pre><code>&lt;meta charset="UTF-8" /&gt;
+&lt;title&gt;Page Not Found &amp;bull; Instagram&lt;/title&gt;
+
+&lt;link rel="Shortcut Icon" type="image/x-icon" href="http://www.dan-vidal.com///d36xtkk24g8jdx.cloudfront.net/bluebar/ea90379/images/favicon.ico" /&gt;
+
+
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" /&gt;
+
+
+
+    &lt;script type="text/javascript" src="http://www.dan-vidal.com///d36xtkk24g8jdx.cloudfront.net/bluebar/ea90379/scripts/html5.js"&gt;&lt;/script&gt;
+    &lt;script type="text/javascript" src="http://www.dan-vidal.com///d36xtkk24g8jdx.cloudfront.net/bluebar/ea90379/scripts/jquery.js"&gt;&lt;/script&gt;
+    &lt;script type="text/javascript" src="http://www.dan-vidal.com///d36xtkk24g8jdx.cloudfront.net/bluebar/ea90379/scripts/bluebar.js"&gt;&lt;/script&gt;
+    &lt;script type="text/javascript" src="http://www.dan-vidal.com///d36xtkk24g8jdx.cloudfront.net/bluebar/ea90379/scripts/bluebar_desktop.js"&gt;&lt;/script&gt;
+
+
+
+
+
+&lt;link rel="stylesheet" type="text/css" href="http://www.dan-vidal.com///d36xtkk24g8jdx.cloudfront.net/bluebar/ea90379/cache/distillery/dialog-main.css"/&gt;
+</code></pre>
+
+<p></head>
+<body class=" p-error dialog-404"></p>
+
+<div class="root">
+
+
+    <div class="page">
+        
+        <header class="top-bar">
+            <div class="wrapper">
+                <hgroup>
+                    <h1 class="logo"><a href="http://www.dan-vidal.com//">Instagram</a></h1>
+                    
+                </hgroup>
+
+                
+
+                <div class="account-state">
+                    <ul class="actions">
+                        
+                        
+                        <li id="link_profile" class="link-signin">
+                                <a href="http://www.dan-vidal.com//accounts/login/?next=">
+                                <i></i>
+                                <strong>Login</strong>
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </header> <!-- .top-bar -->
+        
+
+        
+        <div class="main">
+            
+    <div class="error-container">
+    
+
+    <h2>Page Not Found</h2>
+
+    <p>This page could not be found.<br />You might have followed an incorrect link.</p>
+
+
+    </div>
+
+        </div> <!-- .main -->
+        
+
+    </div> <!-- .page -->
+
+    
+    <footer class="page-footer">
+        <div class="wrapper">
+            <nav>
+                <ul>
+                    <li><a href="http://www.dan-vidal.com//accounts/edit/">Your Account</a></li>
+                    <li><a href="http://www.dan-vidal.com//about/us/">About us</a></li>
+                    <li><a href="http://help.instagram.com/">Support</a></li>
+                    <li><a href="http://blog.instagram.com/">Blog</a></li>
+                    <li><a href="http://www.dan-vidal.com//developer/">API</a></li>
+                    <li><a href="http://www.dan-vidal.com//about/jobs/">Jobs</a></li>
+                    <li><a href="http://www.dan-vidal.com//about/legal/privacy/">Privacy</a></li>
+                    <li><a href="http://www.dan-vidal.com//about/legal/terms/">Terms</a></li>
+                </ul>
+            </nav>
+
+            <p class="copyright">&copy; 2012 Instagram, Inc.</p>
+        </div>
+    </footer>
+    
+
+
+</div>
+
+
+<p> <!-- .root --></p>
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18105282-1']);
+    _gaq.push(['_setDomainName', 'none']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+
+<p></body>
+</html>&#8216;</p>
+
+<p>Hopefully this works.</p>
+
+<p>Access token needed.</p>
+
+<p>Tokens.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The free flow of opinion.]]></title>
@@ -763,55 +898,6 @@ In this case, Google is your friend. Search for &#8220;editorial photography rat
 <p>The rise of photo gear rental house over the past decade has been phenomenal. All major cities have photo and video gear rental houses, such as <a href="http://aperturepro.com/"><strong>Aperture</strong></a> here in Miami, and online outlets such as <a href="http://lensrentals.com/"><strong>Lensrentals.com</strong></a> can ship just about any type of lens, camera body, lighting instrument, or accessory to your location overnight, and the rental rates are fiercely competitive. You can rent a $10,000 lens for a few hundred dollars a week. It&#8217;s perfect for the one gig that requires it, or just plain old experimentation. I occasionally rent specialized lenses outside of my work just for experimentation. Sometimes I find a commercial use for it and end up purchasing it, as I did with the 50 1.2 L. I rented it repeatedly, and I ended up purchasing it as part of my permanent arsenal. It&#8217;s also obviously a great way to audition gear you intend to buy.</p>
 
 <p>And in the end, especially in these days when it&#8217;s harder and harder for photographers and video pros to get a reasonable paycheck, every dollar saved counts.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[On the audacity of scooter riders.]]></title>
-    <link href="http://www.dan-vidal.com//blog/2012/08/09/on-the-audacity-of-scooter-riders/"/>
-    <updated>2012-08-09T16:37:00-04:00</updated>
-    <id>http://www.dan-vidal.com//blog/2012/08/09/on-the-audacity-of-scooter-riders</id>
-    <content type="html"><![CDATA[<p><img src="https://s3.amazonaws.com/dvblog/scoot2.jpg" width="960" height="640" title="'Scoot'" ></p>
-
-<p>One of my pet peeves since moving here ages ago has been the scooter rider.</p>
-
-<p>Now, I recognize the utility of the scooter. It&#8217;s light, efficient, and you can stow it almost
-anywhere when not in use. Plus, you don&#8217;t need insurance, and LEOs tend to leave you be.</p>
-
-<p>It is probably the last one which makes scooter riders so obnoxious&#8230;</p>
-
-<!-- more -->
-
-
-<p></p>
-
-<p>Before I acquired my current mode of personal transport, I would either take public transit, or on occasion, have
-the use of a friend&#8217;s scooter. They&#8217;re fun to ride, and useful for getting around the Beach and the Downtown area.
-However, being that there&#8217;s nothing between you and the road but your clothes, I tended to ride cautiously, knowing that
-I&#8217;m not as visible as I would be in a car or truck. It was up to me to watch where I was going.</p>
-
-<p>However, most scooter riders do not. They ride like they own the road, and expect other motorists to watch out for them.
-Now, realistically, that is fair since they have the lighter and less powerful vehicle. But fair only if they are obeying the
-same rules of the road the rest of us try to do. For the most part, scooter riders around here tend to weave in and out of traffic
-with abandon, often in packs. You see the &#8216;pack&#8217; phenomenon on Memorial Day Weekend, when herds of tourists rent every available
-scooter on the Beach and troll Washington Avenue in packs of twenty or more, as if they were some sort of mentally-challenged
-chapter of the Hell&#8217;s Angels.</p>
-
-<p>Worse yet, your average scooter rider will blame you for any of their indiscretions on the road.</p>
-
-<p>Case in point. Yesterday, I was leaving the Publix complex on Fifth and Alton. As I eased on to Lenox Avenue into the flow of traffic,
-a kid, dare I say a <em>chmak</em>, on a Vespa was closing in on me rather fast. Now, the light ahead of me was red, so myself and the drivers in front of me clearly could not
-move. The scooter rider, rather than stop and join the flow of traffic as he would have been required to do, swerved to the <em>right</em> of me and
-the rest of the cars in the lane, choosing to wedge his noisy lawn-mower-sounding contraption between all of us and the sidewalk. My outraged
-fellow car drivers honked in protest as he wedged through, only to be met by a stream of incoherent curses and curiously random gestures which
-may have passed for obscene in some far-flung nation on the other side of the world. I suppose flailing your arms about and screaming could
-be considered an obscene gesture, somewhere. There&#8217;s a lot of people on this planet. All the while, this kid&#8217;s conveyance was still in forward
-motion.</p>
-
-<p>Someone less kind than me could have taken exception to that, actually. This is Miami, after all. The kid on the Vespa is damn lucky in that
-regard.</p>
-
-<p>Scooter riders, scoot all you want, but realize it&#8217;s a two-way street. You&#8217;re on a motor vehicle too. It&#8217;s a scooter, not a Hayabusa.</p>
 ]]></content>
   </entry>
   
