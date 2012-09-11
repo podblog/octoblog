@@ -61,7 +61,7 @@ module Jekyll
         output += "</p>"
       end
 
-      output += "<p class='instagram-comment-holder'><a href='https://instagram.com/oauth/authorize/?client_id=247b74fc2ed84d748e3297618fb88121&redirect_uri=http://lukelov.es#{post_url}&response_type=token&scope=likes+comments' id='#{id}' class='instagram-comment-link'>Sign in with Instagram to view Likes and Comments</a></p>"
+      output += "<p class='instagram-comment-holder'><a href='https://instagram.com/oauth/authorize/?client_id=082223ce4af44db2a4b0440fd98957c9&redirect_uri=http://www.dan-vidal.com/#access_token=31120127.082223c.33c03a5584f54c3494027e191a8d7b73}&response_type=token&scope=likes+comments' id='#{id}' class='instagram-comment-link'>Sign in with Instagram to view Likes and Comments</a></p>"
     end
 
     def get_cache_file_for(id)
