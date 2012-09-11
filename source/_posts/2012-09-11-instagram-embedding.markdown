@@ -3,7 +3,7 @@ layout: post
 title: "Instagram Embedding."
 date: 2012-09-11 11:59
 comments: true
-categories: [testing, photo,]
+categories: [testing, photo, earlybird, instagram,]
 sharing: true
 ---
 {% instagram 277852496720953575_31120127 %} 
