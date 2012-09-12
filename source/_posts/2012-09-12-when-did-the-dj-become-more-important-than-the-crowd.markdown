@@ -5,7 +5,7 @@ date: 2012-09-12 11:33
 comments: true
 categories: [rants, miami, photos, randomness,]
 ---
-{% img center https://s3.amazonaws.com/dvblog/pete-5312.png 960 640 'Thanks!' %}
+{% img center https://s3.amazonaws.com/dvblog/pete-5312.jpg 960 640 'Thanks!' %}
 
 A random blog post over at <a href="http://www.faithfanzine.com/?p=1590">Faith Fanzine</a> caught my eye today. One quote from the article summed it up:
 
