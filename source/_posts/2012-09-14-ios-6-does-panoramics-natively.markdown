@@ -3,7 +3,7 @@ layout: post
 title: "iOS 6 does panoramics natively."
 date: 2012-09-14 13:14
 comments: true
-categories: [photo, iphone, iOS, instagram] 
+categories: [photo, iphone, iOS, instagram, lord kelvin] 
 ---
 
 {% instagram 280366723205562841_31120127 %} 
