@@ -4,7 +4,7 @@
   <title><![CDATA[Category: instagram | DV Digital]]></title>
   <link href="http://www.dan-vidal.com//blog/categories/instagram/atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-09-12T12:07:20-04:00</updated>
+  <updated>2012-09-14T13:33:41-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[iOS 6 does panoramics natively.]]></title>
+    <link href="http://www.dan-vidal.com//blog/2012/09/14/ios-6-does-panoramics-natively/"/>
+    <updated>2012-09-14T13:14:00-04:00</updated>
+    <id>http://www.dan-vidal.com//blog/2012/09/14/ios-6-does-panoramics-natively</id>
+    <content type="html"><![CDATA[<p><p><a href='/blog/2012/09/14//' data-instagram-url='http://instagr.am/p/PkEAyfggHZ/' class='instagram-image'><img src='http://distilleryimage1.s3.amazonaws.com/68dd4ccafe8e11e1959322000a1e9e0c_7.jpg' alt='Pano espectacularrrrr. #ios6' height='612' width='612' /></a><br/>Filtered with <a href='/blog/categories/lord kelvin'>Lord Kelvin</a> through <a href='/blog/categories/instagram'>Instagram</a></p><!--more--><p><a href='http://maps.google.com?q=25.835181305,-80.182557106'><img border='0' src='http://maps.googleapis.com/maps/api/staticmap?center=25.835181305,-80.182557106&markers=25.835181305,-80.182557106&zoom=14&size=612x200&sensor=false' alt='Talk Nightlife' /></a><br/>Taken at Talk Nightlife</p><p class='instagram-comment-holder'><a href='https://instagram.com/oauth/authorize/?client_id=082223ce4af44db2a4b0440fd98957c9&redirect_uri=http://www.dan-vidal.com/#access_token=31120127.082223c.33c03a5584f54c3494027e191a8d7b73}&response_type=token&scope=likes+comments' id='280366723205562841_31120127' class='instagram-comment-link'>Sign in with Instagram to view Likes and Comments</a></p></p>
+
+<p>iOS 6 allows iPhone 4s and iPhone 5 users to take panoramas using the native Camera App. It's kinda cool.</p>
+
+<!-- more -->
+
+
+<p></p>
+
+<p>I'm actually very impressed with the results, considering it's generated with the camera inside of a phone. There's noise and so forth, but as a quick "live" panoramic tool, it is great.</p>
+
+<p>Yes, I'm aware apps exist that do this anyways on both iOS and Android, but this functionality baked in, as it were, is pretty nifty. It also allows for smoother integration in terms of sending out via email or social media.</p>
+
+<p>Now, even more so, the death of the pocket camera is imminent. An iPhone can take awesome images, as well as being a general-purpose pocket computer/communicator. The market in cameras will define itself by three tiers:</p>
+
+<p><blockquote><p>DSLRs</p></blockquote></p>
+
+<p>Pretty much what you see today. Digital still/video cameras with their roots in film SLRs, with the same accessories and lens systems.</p>
+
+<p><blockquote><p>Compact "rangefinder" style cameras.</p></blockquote></p>
+
+<p>Small bodies with or without interchangeable lenses with a large sensor. Think of the Sony NEX line or Canon's EOS-M. You'll see pros pick these up as a secondary or a "stealth" camera. And well-heeled hobbyists who want a nice system but without the bulk of a DSLR.</p>
+
+<p><blockquote><p>Cameras built into smartphones and tablets.</p></blockquote></p>
+
+<p>The iPhone 4s and the forthcoming iPhone 5 cameras are superb. Except for the flash function, it still sucks. But if you know what you are doing, who needs flash? There's apps that allow full manual control of the cameras, too. So there's your pocket camera solution.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Instagram Embedding.]]></title>
