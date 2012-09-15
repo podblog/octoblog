@@ -20,5 +20,5 @@ You have to think fourth-dimensionally. When shooting and when editing. You have
 
 And this is just on the video side. The audio side is a whole other ball of wax. I record with a basic Sennheiser stereo mic, though I do want to progress to one of their wireless kits where I take a feed straight from the FOH mixer at the bar. That is a $600 investment though, and I'm currently not shooting enough live music events to justify the outlay. It's an amazing widget regardless, though.
 
-Regardless, if you are a photographer getting into video, just remember to think fourth-dimensionally. 
+Regardless, if you are a photographer getting into video, just remember to think fourth-dimensionally. You are composing a project that exists not only in space, but in time.
 
