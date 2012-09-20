@@ -3,7 +3,7 @@ layout: post
 title: "Fall is almost here..."
 date: 2012-09-17 21:45
 comments: true
-categories: [photo, miami, randomness]
+categories: [photo, miami, randomness, normal]
 sharing: true 
 ---
 
