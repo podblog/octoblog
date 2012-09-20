@@ -37,7 +37,7 @@ Basically, I ask myself, _"Where does this noise exist in the color spectrum?"_
 
 In most cases, I find the noise exists in the red and magenta channels of the color spectrum. Which does make sense, since noise tends to be a function of heat and energy in a digital sensor system, and that energy conveys itself as a lower frequency "color" of sorts. Now, some people would suggest desaturating in the affected channels. Doesn't really work that way. If you do this, you are left with a muddled grey mess, which looks worse than the existing noise did. 
 
-So, what I do is I "cool" the image off a bit. Typically I'm only employing this technique in high-ISO nightclub images, which tend to not utilize flash and the skin tone of any human subjects in the frame is of little concern, i.e. they are already an odd color, so shifting it one way or the other won't destroy the idea of the image. Plus, in RAW you can adjust your other color bands to make up for any shift. Anyways, what I do is I bring our color temp down, until I see the "red" noise minimize itself somewhat.
+So, what I do is I "cool" the image off a bit. I bring down the color temperature slider, sometimes as low as 4000K. Typically I'm only employing this technique in high-ISO nightclub images, which tend to not utilize flash and the skin tone of any human subjects in the frame is of little concern, i.e. they are already an odd color, so shifting it one way or the other won't destroy the idea of the image. Plus, in RAW you can adjust your other color bands to make up for any shift. Anyways, what I do is I bring our color temp down, until I see the "red" noise minimize itself somewhat.
 
 {% img center https://s3.amazonaws.com/dvblog/lr1.png 444 230 'LR2' %}
 
