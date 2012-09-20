@@ -39,7 +39,7 @@ In most cases, I find the noise exists in the red and magenta channels of the co
 
 So, what I do is I "cool" the image off a bit. I bring down the color temperature slider, sometimes as low as 4000K. Typically I'm only employing this technique in high-ISO nightclub images, which tend to not utilize flash and the skin tone of any human subjects in the frame is of little concern, i.e. they are already an odd color, so shifting it one way or the other won't destroy the idea of the image. Plus, in RAW you can adjust your other color bands to make up for any shift. Anyways, what I do is I bring our color temp down, until I see the "red" noise minimize itself somewhat.
 
-{% img center https://s3.amazonaws.com/dvblog/lr1.png 444 230 'LR2' %}
+{% img center https://s3.amazonaws.com/dvblog/lr2.png 444 230 'LR2' %}
 
 And, if that is not sufficient for our needs, I'll turn down the luminance of the affected colors if possible. If this piece is really critical for something, I will actually do the above steps in Photoshop, rather than Lightroom, to allow for more fine control over segments of the image. 
 

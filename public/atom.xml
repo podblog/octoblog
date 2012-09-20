@@ -4,7 +4,7 @@
   <title><![CDATA[DV Digital]]></title>
   <link href="http://www.dan-vidal.com//atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-09-20T02:49:58-04:00</updated>
+  <updated>2012-09-20T02:51:27-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -51,7 +51,7 @@
 
 <p>So, what I do is I &#8220;cool&#8221; the image off a bit. I bring down the color temperature slider, sometimes as low as 4000K. Typically I&#8217;m only employing this technique in high-ISO nightclub images, which tend to not utilize flash and the skin tone of any human subjects in the frame is of little concern, i.e. they are already an odd color, so shifting it one way or the other won&#8217;t destroy the idea of the image. Plus, in RAW you can adjust your other color bands to make up for any shift. Anyways, what I do is I bring our color temp down, until I see the &#8220;red&#8221; noise minimize itself somewhat.</p>
 
-<p><img class="center" src="https://s3.amazonaws.com/dvblog/lr1.png" width="444" height="230" title="'LR2'" ></p>
+<p><img class="center" src="https://s3.amazonaws.com/dvblog/lr2.png" width="444" height="230" title="'LR2'" ></p>
 
 <p>And, if that is not sufficient for our needs, I&#8217;ll turn down the luminance of the affected colors if possible. If this piece is really critical for something, I will actually do the above steps in Photoshop, rather than Lightroom, to allow for more fine control over segments of the image.</p>
 
