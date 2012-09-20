@@ -4,7 +4,7 @@
   <title><![CDATA[DV Digital]]></title>
   <link href="http://www.dan-vidal.com//atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-09-20T02:06:47-04:00</updated>
+  <updated>2012-09-20T02:47:07-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -12,6 +12,58 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How I handle noise in a photo.]]></title>
+    <link href="http://www.dan-vidal.com//blog/2012/09/20/how-i-handle-noise-in-a-photo/"/>
+    <updated>2012-09-20T02:09:00-04:00</updated>
+    <id>http://www.dan-vidal.com//blog/2012/09/20/how-i-handle-noise-in-a-photo</id>
+    <content type="html"><![CDATA[<p><img class="center" src="https://s3.amazonaws.com/dvblog/rs-6346.jpg" width="960" height="640" title="'Space Crowd'" ></p>
+
+<p>OK, like I said I&#8217;ll try and pass on some know-how from time to time on here. I can document what I do, but it&#8217;s up to any of you guys who use it to know when and where to use it.</p>
+
+<p>But I&#8217;m not going to turn this into a lecture series or motivational speaker session. The world has enough of those.</p>
+
+<p>Anyways, the biggest question I get is, <em>&#8220;How the hell do you shoot at a high ISO and manage the noise?&#8221;</em></p>
+
+<p>Well, fact is, I don&#8217;t manage it really&#8230;</p>
+
+<!-- more -->
+
+
+<p>Hmm, well, maybe I do sometimes.</p>
+
+<p>Fact is, we&#8217;ve come a long way in terms of noise in digital imaging systems, and prior to that, the grain present in analog processes involving film. And even when there was noise and grain present, it was largely left alone or used as part of the composition as a whole. The important part was capturing the moment, and the noise was disregarded in favor of the subject as a whole. Which is what I tend to do. ISO 6400 isn&#8217;t really that bad. It&#8217;s actually less noisy/grainy than the ISO 400 film stock I &#8220;grew up&#8221; on.</p>
+
+<p>But, when I do want to deal with or minimize the noise, I don&#8217;t employ conventional noise reduction techniques as it were. Plugins are generally all over the place and time-consuming, and the built-in NR functions of popular imaging applications tends to make the end images too soft.</p>
+
+<p>So, what I keep in mind is my end result and intent. Despite the fact I shoot with a camera which has a 22-megapixel sensor, most of my images are downsized to 960 x 640. At that resolution, noise is generally hard to pick out. The image at the lead of this article is actually quite noisy in some respects. However, you can&#8217;t see much of it since it has been reduced in size by many multiples to be displayed on your monitor. And, unless you have a Retina display (and yes, you&#8217;ll probably have to forget a lot of what I just told you in that regard), there is really not a huge amount of detail present in the above image.</p>
+
+<p>Now, if that image were to go to print, I would usually insist on matte paper. Matte paper masks the noise wonderfully. The texture overrides a lot of the noisier characteristics of the image.</p>
+
+<p>If I&#8217;m forced into a glossy presentation, I then usually move on to &#8220;plan B&#8221;. Plan B doesn&#8217;t involve a lot of work, and doesn&#8217;t involve any noise reduction plugins or techniques. Note, this whole idea assumes you shot RAW. You are shooting RAW, right? Another assumption I&#8217;m making here is that I&#8217;ve probably already told you to use Lightroom. If not, the concepts carry over. Drop me a line if you need help in another package, maybe I can figure it out for you.</p>
+
+<p><img class="center" src="https://s3.amazonaws.com/dvblog/lr1.png" width="845" height="467" title="'LR'" ></p>
+
+<p>Basically, I ask myself, <em>&#8220;Where does this noise exist in the color spectrum?&#8221;</em></p>
+
+<p>In most cases, I find the noise exists in the red and magenta channels of the color spectrum. Which does make sense, since noise tends to be a function of heat and energy in a digital sensor system, and that energy conveys itself as a lower frequency &#8220;color&#8221; of sorts. Now, some people would suggest desaturating in the affected channels. Doesn&#8217;t really work that way. If you do this, you are left with a muddled grey mess, which looks worse than the existing noise did.</p>
+
+<p>So, what I do is I &#8220;cool&#8221; the image off a bit. Typically I&#8217;m only employing this technique in high-ISO nightclub images, which tend to not utilize flash and the skin tone of any human subjects in the frame is of little concern, i.e. they are already an odd color, so shifting it one way or the other won&#8217;t destroy the idea of the image. Plus, in RAW you can adjust your other color bands to make up for any shift. Anyways, what I do is I bring our color temp down, until I see the &#8220;red&#8221; noise minimize itself somewhat.</p>
+
+<p><img class="center" src="https://s3.amazonaws.com/dvblog/lr1.png" width="444" height="230" title="'LR2'" ></p>
+
+<p>And, if that is not sufficient for our needs, I&#8217;ll turn down the luminance of the affected colors if possible. If this piece is really critical for something, I will actually do the above steps in Photoshop, rather than Lightroom, to allow for more fine control over segments of the image.</p>
+
+<p>Basically, with these steps, I&#8217;m minimizing the noise by altering it&#8217;s appearance and luminosity in the image, which does not destroy the overall sharpness and focus characteristics of the image. Plus, the saturation of desired colors and areas is left alone.</p>
+
+<p>And that&#8217;s actually kind of it, ya know? I&#8217;m not too big into noise reduction. Much like it says on the back of any piece of electronics you own, I just &#8220;accept interference from other sources&#8221; in my image, and keep moving on to get the photos I want.</p>
+
+<p>Sidebar: Did you know your digital SLR is susceptible to the radio frequency noise present everywhere? And present in huge quantities in a nightclub? Think about it. There&#8217;s giant speakers with giant magnets mere feet from your camera body. There&#8217;s massive amounts of electrical energy flowing through poorly-shielded cables. There&#8217;s hundreds of people, each one with a cell phone on them. There&#8217;s security guys with radios. There&#8217;s Wi-Fi network signals, the list goes on. There&#8217;s a lot of noise pinging about in the club that makes it&#8217;s way into your camera&#8217;s guts. It&#8217;s a miracle it even works sometimes. So yeah, my real advice is to disregard this entire article and just keep shooting. But if you insist on dealing with the noise, I hope this helped. Also, every successive generation of digital SLR technology deals with the noise more effectively. Pretty soon, ISO 6400 will look like ISO 400 does today.</p>
+
+<p>Sidebar 2: I am not qualified in physics or electronic systems as of yet. I might be way off base on some of what is behind all this. I used some of the free knowledge available online to figure out the basics. However, my techniques produce the desired result. So there&#8217;s that.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[On passing on knowledge...]]></title>
@@ -789,38 +841,6 @@ Hm, maybe the community spirit is still around in a way. That&#8217;s something.
 <p>And yes, I know the irony is that I&#8217;m going to share this post on Facebook. I never said social networking was useless&#8230;</p>
 
 <p>To quote my friend <a href="http://facebook.com/playgroundlouis">Louis Diaz</a> - <strong>&#8220;Have Some Class!&#8221;</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A fear of photography?]]></title>
-    <link href="http://www.dan-vidal.com//blog/2012/08/21/a-fear-of-photography/"/>
-    <updated>2012-08-21T12:03:00-04:00</updated>
-    <id>http://www.dan-vidal.com//blog/2012/08/21/a-fear-of-photography</id>
-    <content type="html"><![CDATA[<p><img class="center" src="https://s3.amazonaws.com/dvblog/ferrer-2724.jpg" width="960" height="640" title="'I can seeeeee you!'" ></p>
-
-<p>Local photojournalist and all-around good guy <a href="http://www.pixiq.com/contributors/248">Carlos Miller</a> got me thinking recently after the last <a href="http://www.pixiq.com/article/four-cop-cars-get-called-on-us">photo protest</a> he staged in front of the Miami Herald building.</p>
-
-<p>A lot of people have a fear of photography. And I really can&#8217;t figure out why. Sure, for some people I can see it. They&#8217;re doing something they probably shouldn&#8217;t be, and there&#8217;s scads of photographic recording devices around them, which may or may not be recording their actions. I encounter it out in the clubs from time to time. I like to shoot wide, as you can see above, and I may inadvertently capture someone doing something (or someone, ba-dum-ching&#8230;) they shouldn&#8217;t be.</p>
-
-<p>It certainly isn&#8217;t deliberate on my part though. Whatever transgressions you may be committing, that&#8217;s your problem and not mine. I&#8217;m not out to ruin your life, since it appears that you&#8217;re quite capable of doing that on your own. And no, I won&#8217;t delete it. You are a noisy red smear at the bottom of the frame. And you probably shouldn&#8217;t be cheating on your pretty wife in front of thousands of people and about that many cameras.</p>
-
-<!-- more -->
-
-
-<p></p>
-
-<p>But, that&#8217;s just with crackheads in nightclubs, which, fortunately, form a small minority of our population.</p>
-
-<p>The real head-scratcher is the people who get worked up over photography in public places. If you can see it from a public location, you can shoot it, it&#8217;s that simple. I don&#8217;t buy the national security bit or anything of that nature. If I take a photo of the refinery near Fort Lauderdale airport, the photo, other than a creative piece, tells me nothing. It&#8217;s a collection of pipes. It won&#8217;t aid a terrorist in planning to blow it up. And, if a terrorist wants to blow up the refinery, a photo isn&#8217;t going to hinder or help him or her too much. It&#8217;s not like in the movies where they can deduce where the 2-meter wide exhaust vent is from a cell phone photo.</p>
-
-<p>Even more puzzling are the ordinary citizens who bring it upon themselves to get worked up over photos in public places. The photo protest I mentioned is a perfect example. In a nutshell, the ordinary citizen was a security guard, who took it upon himself to misquote the law, leading to the situation described in Carlos&#8217; blog entry. Now, a few words on that.</p>
-
-<p>A security guard is an ordinary citizen. He doesn&#8217;t have police powers. As a matter of fact, he&#8217;s even more restricted from certain actions in the course of his job than an ordinary citizen is. The industry&#8217;s slogan is &#8220;Observe and Report&#8221;. That&#8217;s about all they can do. Plus, from a pragmatic perspective, the pay scale isn&#8217;t high enough to justify more than that. If I was working the front desk at the Herald, I&#8217;d either ignore it and get back to my Youtube viewing, or just kick it upstairs and let the bureaucrats in facilities deal with it. Yes, I&#8217;m being totally lazy and &#8220;not dedicated&#8221;, but for $12/hr and no benefits, you&#8217;re only going to get so much out of me. I&#8217;d rather spend my effort on something more meaningful, ya know?</p>
-
-<p>Getting worked up about people shooting photos in public places is a complete waste of one&#8217;s energy. There&#8217;s so much more out there to expend effort on. Plus, if you think about it, the camera is ubiquitous now. If something is not recorded, that is an unusual set of circumstances indeed. In a society such as ours, there&#8217;s at least one camera recording the scene at all times in any given public location. The ethics of such ubiquitous recording? Well, that&#8217;s another debate entirely.</p>
-
-<p>But such recording shouldn&#8217;t be feared. If you don&#8217;t want it recorded, don&#8217;t put it in a public location.</p>
 ]]></content>
   </entry>
   

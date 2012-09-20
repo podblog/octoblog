@@ -4,7 +4,7 @@
   <title><![CDATA[Category: miami | DV Digital]]></title>
   <link href="http://www.dan-vidal.com//blog/categories/miami/atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-09-20T02:06:47-04:00</updated>
+  <updated>2012-09-20T02:47:07-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -12,6 +12,58 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How I handle noise in a photo.]]></title>
+    <link href="http://www.dan-vidal.com//blog/2012/09/20/how-i-handle-noise-in-a-photo/"/>
+    <updated>2012-09-20T02:09:00-04:00</updated>
+    <id>http://www.dan-vidal.com//blog/2012/09/20/how-i-handle-noise-in-a-photo</id>
+    <content type="html"><![CDATA[<p><img class="center" src="https://s3.amazonaws.com/dvblog/rs-6346.jpg" width="960" height="640" title="'Space Crowd'" ></p>
+
+<p>OK, like I said I'll try and pass on some know-how from time to time on here. I can document what I do, but it's up to any of you guys who use it to know when and where to use it.</p>
+
+<p>But I'm not going to turn this into a lecture series or motivational speaker session. The world has enough of those.</p>
+
+<p>Anyways, the biggest question I get is, <em>"How the hell do you shoot at a high ISO and manage the noise?"</em></p>
+
+<p>Well, fact is, I don't manage it really...</p>
+
+<!-- more -->
+
+
+<p>Hmm, well, maybe I do sometimes.</p>
+
+<p>Fact is, we've come a long way in terms of noise in digital imaging systems, and prior to that, the grain present in analog processes involving film. And even when there was noise and grain present, it was largely left alone or used as part of the composition as a whole. The important part was capturing the moment, and the noise was disregarded in favor of the subject as a whole. Which is what I tend to do. ISO 6400 isn't really that bad. It's actually less noisy/grainy than the ISO 400 film stock I "grew up" on.</p>
+
+<p>But, when I do want to deal with or minimize the noise, I don't employ conventional noise reduction techniques as it were. Plugins are generally all over the place and time-consuming, and the built-in NR functions of popular imaging applications tends to make the end images too soft.</p>
+
+<p>So, what I keep in mind is my end result and intent. Despite the fact I shoot with a camera which has a 22-megapixel sensor, most of my images are downsized to 960 x 640. At that resolution, noise is generally hard to pick out. The image at the lead of this article is actually quite noisy in some respects. However, you can't see much of it since it has been reduced in size by many multiples to be displayed on your monitor. And, unless you have a Retina display (and yes, you'll probably have to forget a lot of what I just told you in that regard), there is really not a huge amount of detail present in the above image.</p>
+
+<p>Now, if that image were to go to print, I would usually insist on matte paper. Matte paper masks the noise wonderfully. The texture overrides a lot of the noisier characteristics of the image.</p>
+
+<p>If I'm forced into a glossy presentation, I then usually move on to "plan B". Plan B doesn't involve a lot of work, and doesn't involve any noise reduction plugins or techniques. Note, this whole idea assumes you shot RAW. You are shooting RAW, right? Another assumption I'm making here is that I've probably already told you to use Lightroom. If not, the concepts carry over. Drop me a line if you need help in another package, maybe I can figure it out for you.</p>
+
+<p><img class="center" src="https://s3.amazonaws.com/dvblog/lr1.png" width="845" height="467" title="'LR'" ></p>
+
+<p>Basically, I ask myself, <em>"Where does this noise exist in the color spectrum?"</em></p>
+
+<p>In most cases, I find the noise exists in the red and magenta channels of the color spectrum. Which does make sense, since noise tends to be a function of heat and energy in a digital sensor system, and that energy conveys itself as a lower frequency "color" of sorts. Now, some people would suggest desaturating in the affected channels. Doesn't really work that way. If you do this, you are left with a muddled grey mess, which looks worse than the existing noise did.</p>
+
+<p>So, what I do is I "cool" the image off a bit. Typically I'm only employing this technique in high-ISO nightclub images, which tend to not utilize flash and the skin tone of any human subjects in the frame is of little concern, i.e. they are already an odd color, so shifting it one way or the other won't destroy the idea of the image. Plus, in RAW you can adjust your other color bands to make up for any shift. Anyways, what I do is I bring our color temp down, until I see the "red" noise minimize itself somewhat.</p>
+
+<p><img class="center" src="https://s3.amazonaws.com/dvblog/lr1.png" width="444" height="230" title="'LR2'" ></p>
+
+<p>And, if that is not sufficient for our needs, I'll turn down the luminance of the affected colors if possible. If this piece is really critical for something, I will actually do the above steps in Photoshop, rather than Lightroom, to allow for more fine control over segments of the image.</p>
+
+<p>Basically, with these steps, I'm minimizing the noise by altering it's appearance and luminosity in the image, which does not destroy the overall sharpness and focus characteristics of the image. Plus, the saturation of desired colors and areas is left alone.</p>
+
+<p>And that's actually kind of it, ya know? I'm not too big into noise reduction. Much like it says on the back of any piece of electronics you own, I just "accept interference from other sources" in my image, and keep moving on to get the photos I want.</p>
+
+<p>Sidebar: Did you know your digital SLR is susceptible to the radio frequency noise present everywhere? And present in huge quantities in a nightclub? Think about it. There's giant speakers with giant magnets mere feet from your camera body. There's massive amounts of electrical energy flowing through poorly-shielded cables. There's hundreds of people, each one with a cell phone on them. There's security guys with radios. There's Wi-Fi network signals, the list goes on. There's a lot of noise pinging about in the club that makes it's way into your camera's guts. It's a miracle it even works sometimes. So yeah, my real advice is to disregard this entire article and just keep shooting. But if you insist on dealing with the noise, I hope this helped. Also, every successive generation of digital SLR technology deals with the noise more effectively. Pretty soon, ISO 6400 will look like ISO 400 does today.</p>
+
+<p>Sidebar 2: I am not qualified in physics or electronic systems as of yet. I might be way off base on some of what is behind all this. I used some of the free knowledge available online to figure out the basics. However, my techniques produce the desired result. So there's that.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[On passing on knowledge...]]></title>
@@ -168,40 +220,6 @@
 <p>And this is just on the video side. The audio side is a whole other ball of wax. I record with a basic Sennheiser stereo mic, though I do want to progress to one of their wireless kits where I take a feed straight from the FOH mixer at the bar. That is a $600 investment though, and I'm currently not shooting enough live music events to justify the outlay. It's an amazing widget regardless, though.</p>
 
 <p>Regardless, if you are a photographer getting into video, just remember to think fourth-dimensionally. You are composing a project that exists not only in space, but in time.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[When did the DJ become more important than the crowd?]]></title>
-    <link href="http://www.dan-vidal.com//blog/2012/09/12/when-did-the-dj-become-more-important-than-the-crowd/"/>
-    <updated>2012-09-12T11:33:00-04:00</updated>
-    <id>http://www.dan-vidal.com//blog/2012/09/12/when-did-the-dj-become-more-important-than-the-crowd</id>
-    <content type="html"><![CDATA[<p><img class="center" src="https://s3.amazonaws.com/dvblog/pete-5312.jpg" width="960" height="640" title="'Thanks!'" ></p>
-
-<p>A random blog post over at <a href="http://www.faithfanzine.com/?p=1590">Faith Fanzine</a> caught my eye today. One quote from the article summed it up:</p>
-
-<p><blockquote><p>When did we start watching a DJ instead of dancing with our mates , why do we put up with idiotic people taking up the floor who are filming the DJ ,why is the best dance floors now being cut to ribbons to provide extra table space for naff VIP’s ( Pacha in Ibiza hang your head in shame ) ,people with more money than taste and who in some extreme situations in the US have had DJs thrown off the decks because they did not like the music .</p></blockquote></p>
-
-<p>Yes, when did we stop dancing?</p>
-
-<!-- more -->
-
-
-<p></p>
-
-<p>I can't dance, that's a given. I pop around and do monkey moves, get embarrassed, and then I shuffle off to the side. But in the end, I'm still interacting with the crowd and my friends, and squeezing in a few photo ops as I mix and mingle. I take a few (OK a lot in some cases!) photos of the DJ, but I'm not in the middle of the dancefloor gawking at the booth the entire night.</p>
-
-<p>It's actually part of the reason I prefer clubs to the current form of dance music experience, the festival/concert setup.</p>
-
-<p><img class="center" src="http://seenightlife.com/photos/5595/original_MIA-6086.jpg" width="427" height="640"></p>
-
-<p>In those setups, there is a stage, and a general admission "pit", much like a rock concert. The setup works well for rock concerts, since the whole point of a live musical act performing on stage is so you can see them work their instruments and sing. The act of a DJ mixing, no matter what tools they use, is generally a very passive act, and doesn't lend itself much to a rock-performance aesthetic, no matter how much jumping around and handwaving the DJ is doing. Anything more than that (I'm looking at you, Aoki), smacks of being too contrived and "trying too hard". Essentially the guy playing other people's music in the club has been placed in the center of a stage usually reserved for rockstars. And no matter how many pretty LED screens and image-mapped 3D renderings one throws up there, it comes down to that he's still up there playing back prerecorded sounds in a predetermined sequence. And a lot of DJs in concert situations don't even alter their playlists much from date to date. Zero musical flexibility. Might as well put an iPhone up there and play a prerecorded mix.</p>
-
-<p>Plus, the shows are often at capacity, so there is actually zero room for dancing, and certainly no room for social interaction, since everyone is either focused on the guy pressing play on their laptop, or has their head buried in their phone, stroking their ego on Facebook.</p>
-
-<p>I'm generally regarded as a borderline sociopathic personality. However, I do value social interaction when I'm out for a night of entertainment. It's why I value the few clubs left that actually encourage social discourse and interaction. Venues in town like Space, the Vagabond, and so forth, while they book DJ talent, don't rely on the DJ exclusively to drive their business. Some of my best nights out have been with the local guys on the decks, and I'm just there with my friends, having a good time. Some DJs still get it. <a href="http://seenightlife.com/users/pod/albums/pete-tong-at-space">Pete Tong</a> is a great example. This past weekend, he took to the decks at Space. No grandstanding, no tricks, he just played a great soundtrack to a night/morning out, and the crowd responded in kind. People were dancing, socializing, and having a good time, but not buried in their phones or gawking at the booth for hours on end. So there's hope...</p>
-
-<p>Let's save the rockstar setup for the rockstars.</p>
 ]]></content>
   </entry>
   
