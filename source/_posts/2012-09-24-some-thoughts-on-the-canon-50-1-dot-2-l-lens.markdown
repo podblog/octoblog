@@ -3,7 +3,7 @@ layout: post
 title: "Some thoughts on the Canon 50 1.2 L lens."
 date: 2012-09-24 22:16
 comments: true
-categories: [photo, canon, miami, hefe, normal, instagram]
+categories: [photo, canon, miami, hefe, normal, instagram, agalmic]
 sharing: true
 ---
 
