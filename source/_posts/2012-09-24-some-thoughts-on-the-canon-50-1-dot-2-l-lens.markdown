@@ -3,13 +3,13 @@ layout: post
 title: "Some thoughts on the Canon 50 1.2 L lens."
 date: 2012-09-24 22:16
 comments: true
-categories: [photo, canon, miami]
+categories: [photo, canon, miami, hefe, normal, instagram]
 sharing: true
 ---
 
 {% instagram 287884080866001505_31120127 %}
 
-Well, today was a bit contentious. But in a good way. My prior commentary on the <a href="http://edmsnob.com/">EDM Snob</a>revealing himself generated a fair amount of buzz, and also some direct emails to me. Some agreed with me, some didn't, but the magic was that they went through the trouble to email me and their replies were well-prepared and thought out. Even if you think I'm wrong, I always appreciate a well-crafted message. To quote my friend <a href="http://pingup.com/">Dade</a>, "It's the nuances I appreciate..."
+Well, today was a bit contentious. But in a good way. My prior commentary on the <a href="http://edmsnob.com/">EDM Snob</a> revealing himself generated a fair amount of buzz, and also some direct emails to me. Some agreed with me, some didn't, but the magic was that they went through the trouble to email me and their replies were well-prepared and thought out. Even if you think I'm wrong, I always appreciate a well-crafted message. To quote my friend <a href="http://pingup.com/">Dade</a>, "It's the nuances I appreciate..."
 
 That being said, I'm sure my benign lens review will generate far less controversy and commentary. I spew forth about the de-anonymizing of some guy in the dance music scene and it's game on. I post an educational piece and I get one reply. 
 
