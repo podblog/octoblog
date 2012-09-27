@@ -14,7 +14,7 @@ I took a little drive around last night to further test and experiment with my n
 
 This time, it was more to test the shallow depth-of-field characteristics at _f1.2_. Again, at that aperture, your zone of acceptable focus is quite shallow.
 
-{% img center https://s3.amazonaws.com/dvblog/dof-7868.jpg 640 960 'E320 W210 50 1.2 L' %}
+{% img center https://s3.amazonaws.com/dvblog/dof-7868.jpg 960 640 'E320 W210 50 1.2 L' %}
 
 As you can see here, the hood ornament on my W210 is only partially in focus. The central part of the left spoke is sharp, with the left circular part of the ornament fading into a rather pleasant blur. And the distant background exhibits the smooth bokeh this lens is known for. 
 
@@ -24,15 +24,15 @@ At such shallow depths-of-field, every movement counts. If you drift forwards or
 
 However, this is only noticeable to a great extent when one is doing closeup macro-style shots of objects. The tolerance is a little different at a longer range, as you can see here with this image I took of a <a href="http://miami.car2go.com/">Car2Go Miami</a> Smart Fortwo in Brickell. 
 
-{% img center https://s3.amazonaws.com/dvblog/dof-7865.jpg 640 960 'Car2Go Miami 50 1.2 L' %}
+{% img center https://s3.amazonaws.com/dvblog/dof-7865.jpg 960 640 'Car2Go Miami 50 1.2 L' %}
 
 Images like these, at a standoff range, can be done handheld, since the further away you are from your object, the less shallow your zone of critical focus becomes. You can do it handheld, that's for sure. That being said, sometimes it's not always practical to use a tripod. So, the best you can do in these situations is focus manually, and stay very still. Sounds simplistic, but in the case of street photography, you can't really overproduce a shot, in my mind.
 
-{% img center https://s3.amazonaws.com/dvblog/dof-7879.jpg 640 960 'Street Graffiti Design District Miami 50 1.2 L' %}
+{% img center https://s3.amazonaws.com/dvblog/dof-7879.jpg 960 640 'Street Graffiti Design District Miami 50 1.2 L' %}
 
 The advantage of digital, of course, is that you can take as many images as you need, to get the desired image. This photo below, I initially did with autofocus. Of course, the results were a little off. However, when I manually focused, crouched down, and took three shots in succession, I landed the one I wanted. Not "spray-and-pray" but a small three-frame burst to insure I got what I wanted. Of course the ultimate insurance would have been using my tripod, but at 3 AM in Miami's Design District, breaking out equipment at a grand scale isn't advisable.
 
-{% img center https://s3.amazonaws.com/dvblog/dof_rev-7894.jpg 640 960 'W210 Design District Miami 50 1.2 L' %}
+{% img center https://s3.amazonaws.com/dvblog/dof_rev-7894.jpg 960 640 'W210 Design District Miami 50 1.2 L' %}
 
 Not out of any sense of danger really, but more out of a sense of "It's 3 in the morning and I don't want to rig up a tripod for a test photo..."
 
