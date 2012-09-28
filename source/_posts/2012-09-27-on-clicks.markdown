@@ -25,6 +25,8 @@ I first noticed something was amiss when I could not login to the forum's admini
 
 So, I started a little investigating.
 
+__Disclaimer: I am not a real computer security expert. I just know things and get by with a little help from my friends. I assume no liability for what is below. Posting this to help the community. YMMV. Thanks!__
+
 Random things of this nature have happened before, and usually the culprit is a line or two of code that is inserted at the top of a page. This code typically points to malware, but in this case, it didn't. I used the UNIX tool "cURL" to investigate. cURL will render an HTML document in your Terminal window at the code level. cURL is basically a command-line browser. 
 
 {% codeblock %}

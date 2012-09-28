@@ -4,7 +4,7 @@
   <title><![CDATA[DV Digital]]></title>
   <link href="http://www.dan-vidal.com//atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-09-27T23:28:12-04:00</updated>
+  <updated>2012-09-27T23:51:55-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -36,6 +36,8 @@
 <p>I first noticed something was amiss when I could not login to the forum&#8217;s administrative control panel. Well, I could login, but the page failed to render properly. I then noticed some suspicious redirects going on in my browser&#8217;s status bar. The redirects were pointing towards a site called &#8220;clickspro.org&#8221;. Now, since I helped build TNL, I know each and every aspect of it&#8217;s functionality. And, clickspro.org was not part of that functionality. Plus, Ryan would not have implemented something new on TNL, since he is not really paid to do that, and if he did, he would have notified me, especially considering it&#8217;s been over three years since TNL has explicitly seen any new features.</p>
 
 <p>So, I started a little investigating.</p>
+
+<p><strong>Disclaimer: I am not a real computer security expert. I just know things and get by with a little help from my friends. I assume no liability for what is below. Posting this to help the community. YMMV. Thanks!</strong></p>
 
 <p>Random things of this nature have happened before, and usually the culprit is a line or two of code that is inserted at the top of a page. This code typically points to malware, but in this case, it didn&#8217;t. I used the UNIX tool &#8220;cURL&#8221; to investigate. cURL will render an HTML document in your Terminal window at the code level. cURL is basically a command-line browser.</p>
 
