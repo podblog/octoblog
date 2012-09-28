@@ -1,3 +1,8 @@
+# syntax {% vimeo numeric_vimeo_id %}
+# Example - {% vimeo 46506653 %} for https://vimeo.com/46506653
+
+
+
 module Jekyll
   class Vimeo < Liquid::Tag
     @width = 960

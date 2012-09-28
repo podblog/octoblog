@@ -15,3 +15,6 @@ Why?
 
 <!-- more -->
 
+It plays your content, and gets out of the way. Anything beyond that is up to you. 
+
+And yes, the plugin works.
