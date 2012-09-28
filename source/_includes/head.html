@@ -24,6 +24,11 @@
   <script src="{{ root_url }}/javascripts/ender.js"></script>
   <script src="octopress.js" type="text/javascript"></script>
   <script src="{{ root_url }}/javascripts/audio.min.js"></script>
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
   <link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
   {% include custom/head.html %}
   {% include google_analytics.html %}

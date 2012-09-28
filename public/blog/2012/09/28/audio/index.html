@@ -9,7 +9,7 @@
   <meta name="author" content="Dan Vidal - Pod">
 
   
-  <meta name="description" content=" Does this work? ">
+  <meta name="description" content=" Does this work? Maybe it needs to be initialised. ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -25,6 +25,11 @@
   <script src="/javascripts/ender.js"></script>
   <script src="octopress.js" type="text/javascript"></script>
   <script src="/javascripts/audio.min.js"></script>
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
   <link href="/atom.xml" rel="alternate" title="DV Digital" type="application/atom+xml">
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
@@ -103,7 +108,7 @@
 </center>
 <p/>
 
-Does this work?
+Does this work? Maybe it needs to be initialised.
 
 </div>
 

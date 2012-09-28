@@ -8,5 +8,5 @@ sharing: true
 ---
 {% audio https://s3.amazonaws.com/dvblog/1620.mp3 %}
 
-Does this work?
+Does this work? Maybe it needs to be initialised.
 
