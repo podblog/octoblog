@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: dj mix | DV Digital]]></title>
+  <link href="http://www.dan-vidal.com//blog/categories/dj-mix/atom.xml" rel="self"/>
+  <link href="http://www.dan-vidal.com//"/>
+  <updated>2012-09-28T11:36:15-04:00</updated>
+  <id>http://www.dan-vidal.com//</id>
+  <author>
+    <name><![CDATA[Dan Vidal - Pod]]></name>
+    <email><![CDATA[dan@dan-vidal.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A little mix to kick off the weekend...]]></title>
+    <link href="http://www.dan-vidal.com//blog/2012/09/28/a-little-mix-to-kick-off-the-weekend-dot-dot-dot/"/>
+    <updated>2012-09-28T11:23:00-04:00</updated>
+    <id>http://www.dan-vidal.com//blog/2012/09/28/a-little-mix-to-kick-off-the-weekend-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>Well, I figured out the audio player thing. Just a little work with the includes was all I needed to do to make it all come together...</p>
+
+<!-- more -->
+
+
+<p>So, with that, I'm gonna post a mix for you all to enjoy. This one, is done by some friends of mine, the duo <a href="https://www.facebook.com/DJSESSANDEMM">Ess &amp; Emm</a>. Sasha and Michelle mix up some nu-disco and more for your listening enjoyment. Press play, the audio player works! And yes, all things considered, if I was a DJ, I'd play nu-disco. Just the way it is.</p>
+
+<p><p/>
+<center>
+<audio src="https://s3.amazonaws.com/dvblog/essemm.mp3" preload="none" />
+</center>
+<p/></p>
+
+<p>They will be providing the soundtrack this evening at Chalk, just in time for the <a href="http://forum.talknightlife.com/viewtopic.php?f=3&t=20004">TNL 5th Anniversary</a> Unofficial Official Party. Hell, it's technically their party, "Beaver Feaver", we're just imposing on it. Sorry about that, girls. But that's how we roll.</p>
+
+<p><img class="center" src="https://s3.amazonaws.com/dvblog/bf.jpg" width="621" height="960" title="'BF'" ></p>
+]]></content>
+  </entry>
+  
+</feed>
