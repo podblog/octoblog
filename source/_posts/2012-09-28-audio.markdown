@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Audio."
+date: 2012-09-28 01:14
+comments: true
+categories: [testing, audio]
+sharing: true
+---
+{% audio https://s3.amazonaws.com/dvblog/1620.mp3 %}
+
+Does this work?
+

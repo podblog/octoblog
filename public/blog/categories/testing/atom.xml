@@ -4,7 +4,7 @@
   <title><![CDATA[Category: testing | DV Digital]]></title>
   <link href="http://www.dan-vidal.com//blog/categories/testing/atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-09-28T01:08:42-04:00</updated>
+  <updated>2012-09-28T01:16:41-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Audio.]]></title>
+    <link href="http://www.dan-vidal.com//blog/2012/09/28/audio/"/>
+    <updated>2012-09-28T01:14:00-04:00</updated>
+    <id>http://www.dan-vidal.com//blog/2012/09/28/audio</id>
+    <content type="html"><![CDATA[<p><p/>
+<center>
+<audio src="https://s3.amazonaws.com/dvblog/1620.mp3" preload="none" />
+</center>
+<p/></p>
+
+<p>Does this work?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Instagram Embedding.]]></title>
