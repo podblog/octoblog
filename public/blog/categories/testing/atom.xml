@@ -4,7 +4,7 @@
   <title><![CDATA[Category: testing | DV Digital]]></title>
   <link href="http://www.dan-vidal.com//blog/categories/testing/atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-09-28T14:06:09-04:00</updated>
+  <updated>2012-09-28T14:12:50-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[I like Vimeo.]]></title>
+    <link href="http://www.dan-vidal.com//blog/2012/09/28/i-like-vimeo/"/>
+    <updated>2012-09-28T14:11:00-04:00</updated>
+    <id>http://www.dan-vidal.com//blog/2012/09/28/i-like-vimeo</id>
+    <content type="html"><![CDATA[<p><iframe width="" height="" src="http://player.vimeo.com/video/46506653 " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
+
+<p>Vimeo is the superior video sharing platform, in my opinion.</p>
+
+<p>Why?</p>
+
+<!-- more -->
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Audio.]]></title>
