@@ -10,3 +10,15 @@ sharing: true
 
 Does this work? Maybe it needs to be initialised.
 
+<!-- more -->
+
+And we have audio!
+
+Thank you to <a href="http://blog.micronarrativ.org/blog/2012/09/06/wordpress-til-octopress-audio">Daniel at Micronarrativ</a> for the initial work. 
+
+I knew there had to be a simple audio player. 
+
+Now I'm gonna go post a mix. 
+
+
+

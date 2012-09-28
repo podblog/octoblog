@@ -4,7 +4,7 @@
   <title><![CDATA[Category: testing | DV Digital]]></title>
   <link href="http://www.dan-vidal.com//blog/categories/testing/atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-09-28T01:46:14-04:00</updated>
+  <updated>2012-09-28T01:50:15-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -25,6 +25,17 @@
 <p/></p>
 
 <p>Does this work? Maybe it needs to be initialised.</p>
+
+<!-- more -->
+
+
+<p>And we have audio!</p>
+
+<p>Thank you to <a href="http://blog.micronarrativ.org/blog/2012/09/06/wordpress-til-octopress-audio">Daniel at Micronarrativ</a> for the initial work.</p>
+
+<p>I knew there had to be a simple audio player.</p>
+
+<p>Now I'm gonna go post a mix.</p>
 ]]></content>
   </entry>
   
