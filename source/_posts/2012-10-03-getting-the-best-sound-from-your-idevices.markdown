@@ -9,7 +9,7 @@ sharing: true
 
 {% img center https://s3.amazonaws.com/dvblog/eq.jpg 640 960 'EQ' %}
 
-Being able to take a significant portion of, or the entirety of, your audio library is a wonderful thing. Of course the primary means of doing this for most people is via their iPhone, iPod, or iPad. And, I suppose, some people draft their Android devices into unwilling audio playback devices. And there's probably one person who uses their BlackBerry for this function, maybe. Regardless, iDevices reign supreme nowadays for mobile audio. And, Apple themselves have a host of applications for the Mac, dedicated to making the best audio possible. 
+Being able to take a significant portion of, or the entirety of, your audio library on the road is a wonderful thing. Of course the primary means of doing this for most people is via their iPhone, iPod, or iPad. And, I suppose, some people draft their Android devices into unwilling audio playback devices. And there's probably one person who uses their BlackBerry for this function, maybe. Regardless, iDevices reign supreme nowadays for mobile audio. And, Apple themselves have a host of applications for the Mac, dedicated to making the best audio possible. 
 
 Then, why are the default audio optimization options for iOS so miserable? 
 
