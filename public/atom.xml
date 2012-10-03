@@ -4,7 +4,7 @@
   <title><![CDATA[DV Digital]]></title>
   <link href="http://www.dan-vidal.com//atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-10-02T18:12:20-04:00</updated>
+  <updated>2012-10-03T02:17:41-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -12,6 +12,48 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Getting the best sound from your iDevices.]]></title>
+    <link href="http://www.dan-vidal.com//blog/2012/10/03/getting-the-best-sound-from-your-idevices/"/>
+    <updated>2012-10-03T01:28:00-04:00</updated>
+    <id>http://www.dan-vidal.com//blog/2012/10/03/getting-the-best-sound-from-your-idevices</id>
+    <content type="html"><![CDATA[<p><img class="center" src="https://s3.amazonaws.com/dvblog/eq.jpg" width="640" height="960" title="'EQ'" ></p>
+
+<p>Being able to take a significant portion of, or the entirety of, your audio library is a wonderful thing. Of course the primary means of doing this for most people is via their iPhone, iPod, or iPad. And, I suppose, some people draft their Android devices into unwilling audio playback devices. And there&#8217;s probably one person who uses their BlackBerry for this function, maybe. Regardless, iDevices reign supreme nowadays for mobile audio. And, Apple themselves have a host of applications for the Mac, dedicated to making the best audio possible.</p>
+
+<p>Then, why are the default audio optimization options for iOS so miserable?</p>
+
+<!-- more -->
+
+
+<p>That does baffle me. Apple, as a company, develops and produces applications like <a href="http://www.apple.com/logicpro/">Logic Pro</a>, which is a well-regarded audio production application. But I guess that side of the house doesn&#8217;t liase with the side of Apple dedicated to their mobile devices. The EQ options never are 100% perfect, and the included earbuds, even the new &#8220;EarPods&#8221;, are horrendous.</p>
+
+<p>So, what&#8217;s a picky audiophile on-the-go to do?</p>
+
+<p>Surprisingly, car audio is easy. Any decent head unit nowadays has an iOS-compatible USB port, and some manufacturers include iOS compatibility in their stock systems. The huge advantage here is that your iDevice turns into a mere storage unit, and all the decoding and heavy lifting is done in the head unit of your car.</p>
+
+<p><img class="center" src="https://s3.amazonaws.com/dvblog/dof-7823.jpg" width="960" height="640" title="'DEH-4400'" ></p>
+
+<p>In general, the digital-to-analog converter (DAC) in your car&#8217;s head unit, is superior in quality to the one that ships with an iDevice. It&#8217;s a $2 part, that probably does a lot of other things as well, in your iPod, and in your Pioneer head unit, for example, it&#8217;s a $10 discrete component. The advantage here is that your iDevice sends the audio as pure data, and you can then use your head unit&#8217;s more precise EQ (even a three-band one helps!) for better audio quality.</p>
+
+<p>Now, we&#8217;re not always in our cars when we&#8217;re on the go. In an urban area we might be on a bus, walking, jogging, or cycling. Fortunately, one can acquire a decent pair of earbuds for under $60. I&#8217;m not going to really argue which one is superior here, since everyone&#8217;s hearing is different. I personally use the <a href="http://www.polkaudio.com/products/ultrafit500">Polk Audio UF500s.</a> They come with several bud attachments so they&#8217;re not flying away in the middle of a workout, for example. At a certain point a headphone is a headphone is a headphone when it comes to in-ear types. If I&#8217;m doing critical listening I&#8217;ll have a pair of studio cans like the Sony MDR-7509s (say no to celebrity headphones!) handy.</p>
+
+<p>But, even the best headphones need a good signal to work with it. And on an iDevice, the default EQ options don&#8217;t cut it. So I did some poking around, and i found several apps. The one that &#8220;stuck&#8221; with me the most was <a href="http://itunes.apple.com/us/app/equ-the-quality-equalizer/id403704212?mt=8">EQu</a>.</p>
+
+<p><img class="center" src="https://s3.amazonaws.com/dvblog/ozz.jpg" width="640" height="960" title="'EQu'" ></p>
+
+<p>Developed by <a href="http://www.elephantcandy.com/">elephantcandy</a> out of Amsterdam, EQu gives you a full graphic-equalizer control for your iDevice. You can use one of the many available preset EQ curves, or roll your own. I like crisp lows and well-defined highs (without getting too technical), and this little app let me do it. Your iOS presets usually sacrifice one for the other. But this app gives you full control, beyond even having a bunch of faders. In a nutshell, I get decent quality audio, while I&#8217;m on the go. More than sufficient for mobile use. I won&#8217;t power a sound system out of my headphone port with this app, but I&#8217;ll gladly use this while running or cycling. The app was last updated in July of 2012, so while it isn&#8217;t explicitly optimized for the iPhone 5 or iOS 6 yet, it will work on the 5, or a device running iOS 6. The developer appears to still be in business, so I&#8217;m sure a new version is forthcoming.</p>
+
+<p>But, that being said, it does reveal one weakness, and that&#8217;s the inherent flaws in the files themselves. I&#8217;ve noticed on some of my songs purchased from the iTunes Music Store, that the low end tends to distort when amplified. You can actually view this in action on the app, it will flash red if the signal is peaking in any respect. However, I do have some straight WAV files from Beatport, which come through with their full fidelity in this app. The app definitely exposes the weaknesses of compressed audio. Shit in, shit out, as they say. Also, the app only works with your music files. Any other audio from any other app/source on your iDevice is subject to the defaults in iOS.</p>
+
+<p>Some users report increased battery consumption with this app. That may be the case, but I&#8217;m usually never using it for more than two hours, and it performs just fine in my unscientific testing. Also, any ITMS file purchased before 2009 may not play back due to Apple&#8217;s DRM at the time, since the app is it&#8217;s own audio player, and not an EQ for the existing iOS playback app.</p>
+
+<p>A third option exists, for the truly hardcore mobile audiophiles, the <a href="http://v-moda.com/vamp/">VAMP by V-MODA</a>. I had the pleasure during the 2009 Tiësto tour to spend time with Val Kolton, the founder of V-MODA, and he definitely takes his audio seriously. The Vamp reflects this. It&#8217;s an external DAC/amplifier for the iPhone/iPod, and also acts as a battery too. However, at $600, it&#8217;s a little rich for my blood. And there&#8217;s no model for the iPhone 5 yet. I may live a little and consider it after I upgrade, it seems like a badass option, and there are occasions where I&#8217;m around the apt and not wanting to disturb the neighbors with my speakers, but I do want mobility. Or for when I&#8217;m on a plane and have a pair of 7509s. I love the concept, but I&#8217;ll reserve judgement until they roll one for the 5.</p>
+
+<p>But, for those of us on a budget, a good pair of earbuds, and the EQu app are a great combo for when you&#8217;re on the go. It&#8217;s just too bad you have to spend extra money, whether it&#8217;s for a head unit in your car with a USB port, the combination of EQu and a decent pair of earbuds, or going full-throttle with a VAMP, to get decent audio out of your iDevice. Apple has the chops in pro audio, it should trickle down to their iDevices. At the least, give us a systemwide graphic equalizer.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[From the weekend.]]></title>
@@ -870,36 +912,6 @@ Hm, maybe the community spirit is still around in a way. That&#8217;s something.
 <p>Sidebar: Yes, I&#8217;m aware the issues mentioned here are old. But these first few articles on my blog are kind of for SEO purposes, as well as stuff that is on my mind, regardless of when it happened. It&#8217;s my blog, after all.</p>
 
 <p>Sidebar 2: Yes, this devolved into a rant. In a nutshell, I did have fun at Artwalk. The food truck area is a great concept. Get &#8216;em all in one place. Also, good seeing the <a href="http://car2go.com/">Miami Car2Go</a> people out&#8230;thanks for the T-shirt guys.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[On the premise of exclusivity]]></title>
-    <link href="http://www.dan-vidal.com//blog/2012/09/06/on-the-premise-of-exclusivity/"/>
-    <updated>2012-09-06T19:12:00-04:00</updated>
-    <id>http://www.dan-vidal.com//blog/2012/09/06/on-the-premise-of-exclusivity</id>
-    <content type="html"><![CDATA[<p><img class="center" src="https://s3.amazonaws.com/dvblog/ex.jpg" width="960" height="640" title="'MK II overlooking Space'" ></p>
-
-<p>Over the years, a lot of people have been under the mistaken assumption that I&#8217;ve been the &#8220;exclusive&#8221; photographer for venues and events I&#8217;ve worked with.</p>
-
-<p>I don&#8217;t enforce or expect exclusivity, and here&#8217;s why&#8230;</p>
-
-<!-- more -->
-
-
-<p>At the root of it all, I&#8217;m only one person. I can only be in so many places within a venue at once, especially if it&#8217;s a large scale venue such as Space. I&#8217;ll be upstairs on the Terrace, but the Loft might be uncovered, or the Ballroom. There isn&#8217;t money in the budget to clone me.</p>
-
-<p>Also, the fact that photographers prior to me didn&#8217;t enforce exclusivity with their venue clients was an enormous boost to me being able to do what I do today. If they hadn&#8217;t left that door open, I might not have been as far along as I am today. However, back when I got started, the position/gig of &#8220;club photographer&#8221; was a rare one indeed. More on that in a minute.</p>
-
-<p>And, if I were a large-scale venue manager/owner, and I had it in the budget, I would definitely want multiple photographic perspectives on what was going on that evening. Each and every person who picks up a camera has their own thoughts and ideas on how an image should come out, and it is a definite advertising boon to have those multiple perspectives represented. And in the case of email-harvesting sites posing as photo sites, the venue gets multiple sources of data. I don&#8217;t necessarily approve of the tactic, but it is what it is, and if I were a venue owner or manager, I would avail myself of a few of those sites.</p>
-
-<p>Finally, to be honest, enforcing exclusivity and being &#8220;the guy&#8221; is a real <em>pain</em>. You&#8217;re expected to be everywhere at once, cover the event exactly in the style the client wants, which may not be your style, and the task of club photographer rapidly turns from a fun profession to a &#8220;job&#8221;, i.e. something you have to do to make money. And, frankly, I can think of many healthier activities that aren&#8217;t fun to do at all, that would earn me the same money or more that I do documenting the nightclub scene. I do it primarily because I love to do it, and the financial benefits are just the icing on the cake. You don&#8217;t see people clamoring to spend thousands of dollars on camera equipment just to take it into a smoke-filled room with loud music and sloppy drunk people because it&#8217;s a job.</p>
-
-<p>However, the situation today could be regarded as a little different. Since I got started, the position of club photographer has gone from a rare job description, to one of almost ubiquity. Often, the last thing a party would consider is booking a photographer to document an event. It was usually a &#8220;6 PM on the night of the event&#8221; request, if they thought about it at all. Of course the internet changed that.</p>
-
-<p>Now, if you throw a party at a club, it&#8217;s expected that you will have at least one or two guys on hand to document the event. However, some venues tend to go a little overboard, thinking any exposure is good, and let any guy with an SLR and an excuse into the venue. With the modern set of circumstances in mind, I&#8217;d at least require that the shooter have a full-fledged website (and not just a Facebook page or Flickr gallery) with which their images were to be posted. And, I&#8217;d probably cap the amount of shooters within a venue to a certain amount to avoid &#8220;shooting gallery&#8221; syndrome where there is, in fact, ten or more shooters in a venue. So, exclusivity on one person, not so much, but not overkill like some places are now. Especially if you add in everyone with their iPhones blazing away. But that&#8217;s for another rant.</p>
-
-<p>If you&#8217;re in the club shooting world, keep shooting. Don&#8217;t expect or enforce exclusivity though, it&#8217;s not practical and definitely not in the spirit of things. There&#8217;s enough subject matter for all (well, most) of us.</p>
 ]]></content>
   </entry>
   
