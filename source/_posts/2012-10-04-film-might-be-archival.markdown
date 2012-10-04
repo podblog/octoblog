@@ -7,7 +7,7 @@ categories: [instagram, lord kelvin, film, photo, miami, wmc, throwback, agalmic
 sharing: true
 ---
 
-{% instagram 293536081507385613_31120127 %}
+{% instagram 294520652042469913_31120127 %}
 
 Even though I think social networking is mainly a lot of hype, snake oil, and the dumbing down of the narcissistic masses even further, I'll gladly admit my addiction to Instagram. At least to do something meaningful with it, you have to overcome the limitations of your iPhone camera, and go for what's there. It's part of the challenge, to me. Plus, I like the UI and the way it sends your photo while you think of some pithy caption, so it almost appears to upload at warp speed. 
 
@@ -23,7 +23,9 @@ Now, I know what is being asked, "Hey, Pod, didn't you save the files you made f
 
 Well, actually I only saved the final JPEG files, which in those days I only saved them at 320 px across in the long dimension to fit the specs for CJ. It wasn't worth saving the TIFF files since if I was printing, I would just do it at the pro lab I worked at at the time on their Frontier system or traditional darkroom. And the only reason to go to TIFF was for archival reasons, and if you had the negs and chromes (which I do), you already had an archive. However, that archive might as well be on the moon as far as quickly accessing it is concerned. 
 
-That being said, I did a fun trick for the Tiësto image at the start of this article. I made a pure white block on my Macbook Air's monitor, and laid the chrome of Tijs over it. The white light shines through the chrome, making it visible. Then I used my iPhone camera to take a photo of the chrome laid over the white block. Insta-lightbox-low-res-social-media-scanner. And if you want to do a "scan" of a negative, you just do the same thing, export to Photoshop, invert the colors, do some balancing, and you've got yourself a quick and dirty capture of an old analog image. It's not Imacon quality (but then again, what else is?), but to impress all your friends and mindless followers on Instagram, it's definitely sufficient. A step up would be to rig up your DSLR and do it at a higher resolution. However, then you are picking up the individual elements of the screen unless you have a Retina display. At that point you should probably just secure a lightbox from eBay. Hmm, wait... 
+That being said, I did a fun trick for the Tiësto image at the start of this article. That one is from 2002. Nick sent me out to this Nettwerk America record label event at the Aqua Hotel on Collins Avenue, to take photos of "this Tiësto guy", while a writer he drafted interviewed him. Hah, the days of real interviews.
+
+Anyways...what I did to get this "digital" was that I made a pure white block on my Macbook Air's monitor, and laid the chrome of Tijs over it. The white light shines through the chrome, making it visible. Then I used my iPhone camera to take a photo of the chrome laid over the white block. Insta-lightbox-low-res-social-media-scanner. And if you want to do a "scan" of a negative, you just do the same thing, export to Photoshop, invert the colors, do some balancing, and you've got yourself a quick and dirty capture of an old analog image. It's not Imacon quality (but then again, what else is?), but to impress all your friends and mindless followers on Instagram, it's definitely sufficient. A step up would be to rig up your DSLR and do it at a higher resolution. However, then you are picking up the individual elements of the screen unless you have a Retina display. At that point you should probably just secure a lightbox from eBay. Hmm, wait... 
 
 Since this blog is partially educational, I'm putting this idea out to the community free of charge. All I ask is if you use this technique, just tag your Instagrams with #podscan and @pod_gram. Attribution is always welcome, and it's what people used to do. Your image and caption can be a throwback! 
 
