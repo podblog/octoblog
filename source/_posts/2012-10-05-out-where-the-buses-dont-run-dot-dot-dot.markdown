@@ -27,5 +27,5 @@ This is a 30 second exposure from the side of US 27 heading northbound just over
 
 I'm sure the truckers were wondering what I was doing at 1:30 in the morning on the side of the road. Protip, bring a flashlight, and just point it at the ground when vehicles are coming close.
 
-I'll be putting this one up for sale soon at my <a href="http://dan-vidal.fineartamerica.com/">FAA</a>site. 
+I'll be putting this one up for sale soon at my <a href="http://dan-vidal.fineartamerica.com/">FAA</a> site. 
 
