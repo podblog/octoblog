@@ -4,7 +4,7 @@
   <title><![CDATA[Category: earlybird | DV Digital]]></title>
   <link href="http://www.dan-vidal.com//blog/categories/earlybird/atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-10-04T02:25:07-04:00</updated>
+  <updated>2012-10-05T15:25:10-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -18,7 +18,7 @@
     <link href="http://www.dan-vidal.com//blog/2012/09/11/instagram-embedding/"/>
     <updated>2012-09-11T11:59:00-04:00</updated>
     <id>http://www.dan-vidal.com//blog/2012/09/11/instagram-embedding</id>
-    <content type="html"><![CDATA[<p><p><a href='/blog/2012/09/11//' data-instagram-url='http://instagr.am/p/PbIV-nAgDn/' class='instagram-image'><img src='http://distilleryimage3.s3.amazonaws.com/9255154afbd411e1b2f422000a1e9a50_7.jpg' alt='Not quite a throwback but remember this @jacquejaxx ?' height='612' width='612' /></a><br/>Filtered with <a href='/blog/categories/earlybird'>Earlybird</a> through <a href='/blog/categories/instagram'>Instagram</a></p><!--more--><p><a href='http://maps.google.com?q=25.835243225,-80.182678222'><img border='0' src='http://maps.googleapis.com/maps/api/staticmap?center=25.835243225,-80.182678222&markers=25.835243225,-80.182678222&zoom=14&size=612x200&sensor=false' alt='25.835243225,-80.182678222' /></a></p><p class='instagram-comment-holder'><a href='https://instagram.com/oauth/authorize/?client_id=082223ce4af44db2a4b0440fd98957c9&redirect_uri=http://www.dan-vidal.com/#access_token=31120127.082223c.33c03a5584f54c3494027e191a8d7b73}&response_type=token&scope=likes+comments' id='277852496720953575_31120127' class='instagram-comment-link'>Sign in with Instagram to view Likes and Comments</a></p></p>
+    <content type="html"><![CDATA[<p><p><a href='/blog/2012/09/11//' data-instagram-url='http://instagr.am/p/PbIV-nAgDn/' class='instagram-image'><img src='http://distilleryimage3.s3.amazonaws.com/9255154afbd411e1b2f422000a1e9a50_7.jpg' alt='Not quite a throwback but remember this @jacquejaxx ?' height='612' width='612' /></a><br/>Filtered with <a href='/blog/categories/earlybird'>Earlybird</a> through <a href='/blog/categories/instagram'>Instagram</a></p><!--more--><p><a href='http://maps.google.com?q=25.835243225,-80.182678222'><img border='0' src='http://maps.googleapis.com/maps/api/staticmap?center=25.835243225,-80.182678222&markers=25.835243225,-80.182678222&zoom=14&size=612x200&sensor=false' alt='25.835243225,-80.182678222' /></a></p><p class='instagram-comment-holder'><a href='https://instagram.com/oauth/authorize/?client_id=082223ce4af44db2a4b0440fd98957c9&redirect_uri=http://www.dan-vidal.com/#access_token=31120127.082223c.33c03a5584f54c3494027e191a8d7b73&response_type=token&scope=likes+comments' id='277852496720953575_31120127' class='instagram-comment-link'>Sign in with Instagram to view Likes and Comments</a></p></p>
 
 <p>Works in a way. I have to retrieve the media_id for each Instagram photo. It's not implicit in the URL. Hi Jacque.</p>
 
