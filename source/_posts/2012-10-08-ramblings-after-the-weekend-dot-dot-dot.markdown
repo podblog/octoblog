@@ -37,7 +37,7 @@ That being said, I definitely had "more creative energy" by that Saturday night.
 
 {% instagram 296706232201379873_31120127 %}
 
-Car 2 Go is saving me so much money in cab fare. It's amazing. Plus, they never thought of my use case until I told them. Agalmic cowboy diplomacy. 
+Car 2 Go is saving me so much money in cab fare. It's amazing. Plus, they never thought of my use case until I told them. They posted on Facebook about using their service to get to the Brickell Oktoberfest party, and taking the safe way (a cab) home. Agalmic cowboy diplomacy. 
 
 {% img center https://s3.amazonaws.com/dvblog/lostios2012-9217.jpg 960 640 'Hi Jordyn' %}
 
