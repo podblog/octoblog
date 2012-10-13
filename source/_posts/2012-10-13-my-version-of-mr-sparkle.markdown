@@ -6,7 +6,7 @@ comments: true
 categories: [photo, miami, miami beach, pepsico, mirinda, singapore, instagram] 
 ---
 
-{% img center https://s3.amazonaws.com/dvblog/niceday-1479.jpg 640 960 'ISO 50 1/8000 f1.2 hah' %}
+{% img center https://s3.amazonaws.com/dvblog/niceday-1479.jpg 640 960 'Mirinda' %}
 
 It was a positively stunning day here in South Florida, so I jumped in the 210 and went out for a bit. 
 
@@ -16,7 +16,7 @@ I made my usual Saturday stop at Whole Foods, this time the South Beach one. The
 
 After my tuna wrap, I proceeded up Collins to the Ocean Terrace around 74th Street. I figured I'd try to get some shallow DOF shots out on the sand. I was experimenting with trying to capture one breaking wave, when an orange can thumped into my foot. 
 
-{% img center https://s3.amazonaws.com/dvblog/niceday-1476.jpg 960 640 'ISO 50 1/8000 f1.2 hah' %}
+{% img center https://s3.amazonaws.com/dvblog/niceday-1476.jpg 960 640 'Mirinda' %}
 
 "Mirinda?" I thought, "What the hell is Mirinda?"
 
