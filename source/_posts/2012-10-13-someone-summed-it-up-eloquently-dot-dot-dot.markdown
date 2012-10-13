@@ -45,6 +45,10 @@ And yes, that's it. Minus the technical details, which, if anyone asks, I'll gla
 
 Now, if I can summarize this post, it would be, "A different perspective always helps..."
 
+Oh, and Ade, thanks!
+
+
+
 
 
 
