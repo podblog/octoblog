@@ -17,7 +17,7 @@ However, someone summarized what I do so well for me just a few minutes ago...
 
 <!-- more -->
 
-{% blockquote Adriana D %}
+{% blockquote Adriana D, a phone conversation 12 October 2012 %}
 You have a vision and you wait for the world to fall in line and then you capture it...
 {% endblockquote %}
 
@@ -31,13 +31,13 @@ It actually speaks volumes about having an outside opinion.
 
 I had just come back from a nighttime run (yes Ryan, I do run around this neighborhood at 1 AM) and I picked up a text conversation where I had left it off earlier. My friend Adriana had just moved from the construction mess called Brickell, to a cozy new joint on Collins Avenue in "Condo Canyon" with her boyfriend. She was inviting me over for a little housewarming thing tomorrow, and she mentioned the last thing she had picked up from her old apt was a piece of mine that she purchased back in 2009: 
 
-{% img center https://s3.amazonaws.com/dvblog/frances_2008.jpg 960 640 'Frances at Space - 2008' %}
+{% img center https://s3.amazonaws.com/dvblog/frances_2008.jpg 640 960 'Frances at Space - 2008' %}
 
 I had done an exhibit of some of my "dancer photos" at the first <a href="http://lifeisart.org">Life Is Art</a> exhibit in Wynwood. Life is Art, by <a href="http://soulofmiami.org">Soul of Miami</a> founder James Echols, is a local organization that supports up-and-coming artists of all stripes. Since that first open show in 2009, they've come a long way and are quite renowned in the art community, especially amongst artists who may not be "hip" enough to warrant the attention of some of the more corporate art organizations in town. Adriana, at the time, was their treasurer, and had expressed an interest in obtaining a print of one of my images, specifically the one above. So, her mom took it upon herself to pull me aside and purchase it from me for her. As my exhibit was digital (I didn't have the budget to produce 20 prints of size), I took the "order" and contacted my print provider to generate a canvas-framed print for me of this piece. A few weeks later, it was delivered to Adriana, to much acclaim. Oddly enough it's the only "dancer" piece I have ever sold. Either I just haven't marketed them properly or people don't go for half-naked girls in smoky nightclubs as _objets d'art_.  
 
 Fast-forward to today. As pieces of art are often delicate, they are usually transported separately from other items in a moving adventure. Anyways, in a conversation about that piece tonight, Adriana was asking me about how I capture moments like that, and I did have a hard time summarizing it up. So, she put it into words that had previously escaped me:
 
-{% blockquote Adriana D %}
+{% blockquote Adriana D, a phone conversation 12 October 2012 %}
 You have a vision and you wait for the world to fall in line and then you capture it...
 {% endblockquote %}
 
