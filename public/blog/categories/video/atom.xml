@@ -4,7 +4,7 @@
   <title><![CDATA[Category: video | DV Digital]]></title>
   <link href="http://www.dan-vidal.com//blog/categories/video/atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-10-13T18:41:27-04:00</updated>
+  <updated>2012-10-17T11:03:50-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[GoPro has had a busy week...]]></title>
+    <link href="http://www.dan-vidal.com//blog/2012/10/17/gopro-has-had-a-busy-week-dot-dot-dot/"/>
+    <updated>2012-10-17T10:32:00-04:00</updated>
+    <id>http://www.dan-vidal.com//blog/2012/10/17/gopro-has-had-a-busy-week-dot-dot-dot</id>
+    <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/51601636?title=1&amp;byline=1&amp;portrait=1" width="720" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p> <p><a href="http://vimeo.com/51601636">• GoPro Hero 2 Protune Test - Nighttime Drive •</a> from <a href="http://vimeo.com/dvdigital">Dan V</a> on <a href="http://vimeo.com">Vimeo</a>.</p></p>
+
+<p>The fine folks at GoPro have had a busy week. For existing owners of the Hero2, they released a new firmware set, which included a new set of shooting modes collectively grouped under the name 'Protune'. Protune basically doubles the bitrate of the GoPro's recorded files to 35 Mbps, and produces a more 'flat' file with no in-camera color corrections or sharpening. And, in bigger news, they rolled the GoPro Hero 3 last night, which adds built-in WiFi, 4K video recording (albeit at 15 FPS), all packaged in a smaller-profile body...</p>
+
+<!-- more -->
+
+
+<p>However, the Hero 3 just went on sale for pre-order, so I obviously don't have one on hand yet. I was this "&lt;>" close to buying a Hero 2, but fortunately I didn't. I have the wedding of my great friends and neighbors Tal and Erick to shoot this weekend up in North Carolina, and I wanted to strap a GoPro next to the "altar" and record the vows portion from an alternate angle, so I was going to pull the trigger and buy a Hero 2. Fortunately, time kind of ran out on me, so I had to make do with borrowing <a href="http://weekendweapons.com/">Travis'</a> Hero 2. I told him I'd upgrade it to the Protune firmware while I was at it.</p>
+
+<p>So, with that in mind, I figured I'd take Protune for a spin.</p>
+
+<p><p><a href='/blog/2012/10/16//' data-instagram-url='http://instagr.am/p/Q3gj9EggEx/' class='instagram-image'><img src='http://distilleryimage5.s3.amazonaws.com/a2921adc180511e2a46d1231381b4837_7.jpg' alt='A #protune test of @gopro !' height='612' width='612' /></a><br/>Filtered with <a href='/blog/categories/normal'>Normal</a> through <a href='/blog/categories/instagram'>Instagram</a></p><!--more--><p><a href='http://maps.google.com?q=25.835181305,-80.182557106'><img border='0' src='http://maps.googleapis.com/maps/api/staticmap?center=25.835181305,-80.182557106&markers=25.835181305,-80.182557106&zoom=14&size=612x200&sensor=false' alt='Talk Nightlife' /></a><br/>Taken at Talk Nightlife</p><p class='instagram-comment-holder'><a href='https://instagram.com/oauth/authorize/?client_id=082223ce4af44db2a4b0440fd98957c9&redirect_uri=http://www.dan-vidal.com/#access_token=31120127.082223c.33c03a5584f54c3494027e191a8d7b73&response_type=token&scope=likes+comments' id='303854708114719025_31120127' class='instagram-comment-link'>Sign in with Instagram to view Likes and Comments</a></p></p>
+
+<p>I strapped the Hero 2 to the front left bumper of the 210, and proceeded to record my drive down to Blue Martini in Brickell for my "Tuesday Tradition" shooting session over at Jive With The Band.</p>
+
+<p>You can see the results above, and judge for yourself. I did some basic color correction and exposure adjustment in Final Cut Pro X, and exported this to Vimeo via Compressor 4 using the standard Vimeo preset.</p>
+
+<p>The unaltered video out of the camera is very noisy. This was to be expected, since Protune deactivates all in-camera processing, including noise reduction. It's about as close to RAW video as you are likely to get out of something in the class of the GoPro. Colors were very neutral and flat. The dynamic range was increased, due to the "flat" nature of the file. At first glance, it actually appeared to be worse than the previous firmware output.</p>
+
+<p>However, this was the expected result. Ideally, if you can't get true RAW output out of your camera, you want a file that is as untouched and as uncompressed as possible, to allow for these adjustments to be made with more precise tools present on your laptop. Which is exactly what Protune accommodates, as much as possible. Also, it does reveal the limitations of the tiny sensor in the camera. It's a noisy mess, and GoPro is definitely to be commended for developing decent in-camera noise reduction and sharpening techniques for their standard firmware. FYI, you can turn Protune off and go back to the standard modes at any time.</p>
+
+<p>That being said, for anyone remotely interested in video, I don't recommend it. You can really make the output of the GoPro shine with Protune, using your choice of post-production software, whether it's Final Cut Pro X, or GoPro's own Cineform. Once you understand the purpose of Protune, it is definitely a winner. It gets the camera's ideas about things out of the way of your workflow, and lets you make the decisions on color correction, sharpening, noise, and so on.</p>
+
+<p>For a $300 unit, the GoPro Hero 2 with Protune is a winner in my book. I'll be doing some daylight tests today and tomorrow, which I will post about soon thereafter.</p>
+
+<p>As for the Hero 3? That will most likely make it into my bag in short order. GoPro, if you pick this up, I'm always game to beat around a demo unit.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Shooting video wide open.]]></title>
@@ -130,44 +167,6 @@
 <p>And this is just on the video side. The audio side is a whole other ball of wax. I record with a basic Sennheiser stereo mic, though I do want to progress to one of their wireless kits where I take a feed straight from the FOH mixer at the bar. That is a $600 investment though, and I'm currently not shooting enough live music events to justify the outlay. It's an amazing widget regardless, though.</p>
 
 <p>Regardless, if you are a photographer getting into video, just remember to think fourth-dimensionally. You are composing a project that exists not only in space, but in time.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[We can't make art from air.]]></title>
-    <link href="http://www.dan-vidal.com//blog/2012/08/13/we-cant-make-art-from-air/"/>
-    <updated>2012-08-13T22:44:00-04:00</updated>
-    <id>http://www.dan-vidal.com//blog/2012/08/13/we-cant-make-art-from-air</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://distilleryimage8.instagram.com/5ba9a3d8e32611e1a4431231381407ca_7.jpg" width="612" height="612" title="'Gear and girl'" ></p>
-
-<p>I got into a discussion just now over on <a href="http://forum.talknightlife.com/viewtopic.php?f=6&t=19857">Talk Nightlife</a> with James, founder of <a href="http://soulofmiami.org/">Soul of Miami</a> about some of the trials and tribulations of the photographers and photo editors in the Olympics. I linked on over to a <a href="http://blogs.reuters.com/photographers-blog/2012/08/10/click-edit-crop-or-drop/">blog post on Reuters</a> about the workflow of their on-site photo team. James' comment was that it was fascinating, but essentially <strong>"It really does not seem like they could possibly be getting paid enough for that."</strong></p>
-
-<!-- more -->
-
-
-<p>
-Sadly, that is the truth. However, most of us whom are into the photo and video industries aren't into it for a big payday. Sure, income is nice, but at the end of the day, a photo career is a lot of hard work, and is often times frustrating, and the income rarely is there.</p>
-
-<p>Sure, every guy and girl behind the lens has fantasies of one day making that 'big score', and not having to work again, but in most cases, that never happens. They might make what would be equivalent to mid-to-high five figures on average per year, but most of that money gets eaten up in taxes, reinvesting in the business, and general expenses associated with running said business. It's why if you see a photographer with a bunch of fancy non-photo-related toys, chances are that he or she probably has a second source of money, whether it's a "real job", another business that pays real money, or comes from money and happens to have a "hobby". And yes, there's always the slight chance that they scored and are living quite well off of their photo incomes.</p>
-
-<p>Since the digital revolution, the intrinsic monetary value of photography has gone down enormously. A lot of shooters struggle to stay afloat and often have to make concessions and do other things to make ends meet. I'm a perfect example. I earn money from photography and video, but I have to tinker with websites and take on odd tasks related to the web to make ends meet. I'm very frugal but things still cost money. Also, it is a bit more costly to obtain basic health insurance on your own, than it is if you are part of a standard corporate entity.</p>
-
-<p>It's actually why I've come around a bit on the whole government-provided healthcare issue actually. I'm for small government, but I do think one of the duties of the government is to take care of it's taxpayers. I think that if we're taken care of on a basic level by state health insurance, that would actually free us, as a people, up to take more risks in business and our personal lives. I know a lot of people with big ideas and dreams, who don't want to leave their corporate gigs, because said gigs provide the benefit of health insurance. And, obviously those corporate gigs demand a fair share of one's time and energy. But the healthcare rant is another post entirely. Hey, it's my blog, I don't have to necessarily adhere to standard editorial guidelines.</p>
-
-<p>But anyways, society as a whole has come to devalue the work of photographers. Now, at no point has a photography career ever been a sure path to untold riches or success. Whether the workflow was analog or digital, it's always been the rare person who made their millions off of photography. And if they did make their millions off of it, chances are they are dead or pretty close to it, and the value of their work has increased by virtue of that. Suffice to say, the quickest way to increase the value of your photography is to die, preferably in a dramatic fashion.</p>
-
-<p>All jokes aside though, the value, and the respect of the art has been diminished somewhat over the past decade. And it has been a two-pronged assault, from without, and from within. From without, it's been clients seeking the cheap way out. Even the most professional organizations expect to be able to pay only a pittance for work. A campaign that might cost thousands on the part of the photographer to execute, the client might only be willing to pay a few hundred dollars for. Of course everyone wants to spend as little as possible, but there is a point where the client base does need to remember that 'they get what they pay for'. You only pay a few hundred dollars, well, that is about all the work you will get. Someone recently offered me $50 and a bucket of booze to shoot a party. I blew them off, it wasn't even worth a response. Everyone knows I like to have a drink or two, but I won't work for that sort of thing. I have bills to pay. And $50 would not cover my own nightly expenses, as the gig was on South Beach (no Car2Go), and of course my time in post and editing.
-If you want to pay me $50, I'd expect a chauffeured ride to and from the venue, and I'll probably take three photos, steal your girlfriend, and not bother delivering the edit (1 photo) until sometime in 2025.</p>
-
-<p>And that's just the problem from without. The problem from within is almost as bad. The digital revolution has put quality imaging tools into the hands of all. For $400 or less (say, a used Drebel kit), one can obtain a quality digital SLR with a basic lens. Under decent lighting conditions, this kit can objectively shoot great images, even in the hands of an amateur. And said images could conceivably be used for commercial purposes with the right editing and post production. So, now, businesses can hire "some guy they know", or "do it in-house" (though there's nothing wrong with an staff shooter in some instances, as long as rights and releases are fair), and attempt to save a buck or two, and have "some guy they know" fix any of the problems later, or leave the fixing to some beleaguered designer at a graphic design firm somewhere. Sidebar: graphic designers hate that.</p>
-
-<p>When confronted, the businesses and the shooters themselves will often plead ignorance, or claim that "this is the way things are now, deal with it".
-Understandably, the dynamics of the digital economy have changed things, but photographers and other visual professionals do need to have an income to survive and keep providing these services to clients. If all photography was cheap and/or free, eventually there would be no photographers to generate the images clients require and need. And computer rendering of realistic scenes is far more expensive (to do right) than booking the services of a photographer, so don't try to get me there!</p>
-
-<p>What's even worse is the lack of understanding of licensing and rights, as well. Very few businesses understand this. They treat all photographic work for them as work-for-hire, with unlimited use. To them, once the photo is taken, it is theirs. It doesn't work that way. Licensing and sale is one of the only ways a photographer can stand a chance of making a reasonable living nowadays, especially in the situations I've described above. And very few photographers understand it as well as they should. It took me awhile to get a handle on it, but once one understands the ins and outs of it, it's easy to figure out.
-In this case, Google is your friend. Search for "editorial photography rate guidelines" and go from there. I'm not being lazy, there is just a huge amount of information on pricing your work accordingly. FYI, it's why a decent-sized print of mine will run you a few hundred dollars or more at <a href="http://dan-vidal.fineartamerica.com/">my Fine Art America</a> page.</p>
-
-<p>Again, we're in this because we love to do it, not because we're seeking a route to glorious riches and untold glory. All anyone behind the lens asks for is just compensation to cover the costs of doing business, and enjoy life while we're at it. I don't think there's many photographers out there whom are greedy and driven by dollar signs. Even we like to put the camera down sometimes and take a little vacation somewhere. With a smaller camera of course, we might see something interesting along the way.</p>
 ]]></content>
   </entry>
   
