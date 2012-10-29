@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photo | DV Digital]]></title>
   <link href="http://www.dan-vidal.com//blog/categories/photo/atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-10-29T14:47:42-04:00</updated>
+  <updated>2012-10-29T14:48:36-04:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -12,6 +12,73 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The virtues of open-source...]]></title>
+    <link href="http://www.dan-vidal.com//blog/2012/10/29/the-virtues-of-open-source-dot-dot-dot/"/>
+    <updated>2012-10-29T13:12:00-04:00</updated>
+    <id>http://www.dan-vidal.com//blog/2012/10/29/the-virtues-of-open-source-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p><img class="center" src="https://s3.amazonaws.com/dvblog/ruby.png" width="679" height="410" title="'Coding'" ></p>
+
+<p>Sorry about the dearth of updates over the past few days. The wedding edit took some time, as well as real-life things having to happen as well. And then Halloween. The biggest, most interesting challenge, however, was the selection and deployment of a web application to display the edited photos from Tal and Erick's wedding...</p>
+
+<!-- more -->
+
+
+<p>The edit itself went flawlessly. With my MacBook Air being a completely solid-state system, the actual rendering and editing took no time at all. Any time spent was purely on creative decisions. Protip - double-check that your sensor is clean. Cloudless blue skies make for wonderful wedding backdrops, but every little dust particle shows up. And the ultrasonic cleaner will not get them all. I spent a good amount of time spotting each photo. I usually check my sensor, but my MK II has the cleaning system, so I thought nothing of it. Wrong. Dust still adheres to the sensor surface.</p>
+
+<p>I teased the bride and groom with little Instagram previews of my progress. It was a photo of a photo, but they got a kick out of it.</p>
+
+<p><p><a href='/blog/2012/10/23//' data-instagram-url='http://instagr.am/p/RJTU0XAgCa/' class='instagram-image'><img src='http://distilleryimage2.s3.amazonaws.com/ba2799ba1d7311e2959322000a1e9e0c_7.jpg' alt='Your turn in the render render @simply_sarah7' height='612' width='612' /></a><br/>Filtered with <a href='/blog/categories/normal'>Normal</a> through <a href='/blog/categories/instagram'>Instagram</a></p><!--more--><p><a href='http://maps.google.com?q=25.835181305,-80.182557106'><img border='0' src='http://maps.googleapis.com/maps/api/staticmap?center=25.835181305,-80.182557106&markers=25.835181305,-80.182557106&zoom=14&size=612x200&sensor=false' alt='Talk Nightlife' /></a><br/>Taken at Talk Nightlife</p><p class='instagram-comment-holder'><a href='https://instagram.com/oauth/authorize/?client_id=082223ce4af44db2a4b0440fd98957c9&redirect_uri=http://www.dan-vidal.com/#access_token=31120127.082223c.33c03a5584f54c3494027e191a8d7b73&response_type=token&scope=likes+comments' id='308863042945417370_31120127' class='instagram-comment-link'>Sign in with Instagram to view Likes and Comments</a></p></p>
+
+<p>Finally, I completed the edit, and then had to tackle the task of how best to display the photos.</p>
+
+<p>Now, the obvious solution would have been to just use a canned solution like Flickr, or 500 px. While both services have their strong points, the fact that I don't have direct control over my content did give me cause for concern. Plus, with my recent forays into the world of building web applications and coding, I wanted to roll my own solution as much as possible.</p>
+
+<p>Initially, I wanted to present the site via Octopress. I have experience in Octopress now, because of this blog, and several photo display plugins have been written for the platform.</p>
+
+<p>I had done some research, and found that the web app <a href="http://fancyapps.com/fancybox">Fancybox</a> integrated somewhat smoothly with Octopress. Also, a fellow Octopress user, <a href="http://tritarget.org/blog/2012/05/07/integrating-photos-into-octopress-using-fancybox-and-plugin/">Tritarget</a> had written a pretty good plugin which made the display of photos even easier, since it utilized simple Markdown tags, rather than coding raw HTML.</p>
+
+<p>To make things easy, and not interfere with the operation of this blog, I chose to spin up another instance on my <a href="http://heroku.com/">Heroku</a> account. Heroku is the ideal choice for this and other projects of mine because I can spin up as many instances as I want, and only accrue charges for the total amount of resources (regardless of the number of apps) that I consume. After a little tweaking and adjustments, I got Fancybox and the plugin to play nice with Octopress.</p>
+
+<p>Fancybox is probably the best-looking HTML-based photo display app out there. Slick transitions, a great UI, and easy implementation (mostly), make for a great quick-and-dirty display solution. However, the downside is, there is no practical way, that I found, to do a "gallery". And a gallery was needed since my final edit came to 530 photos.</p>
+
+<p><img class="center" src="https://s3.amazonaws.com/dvblog/preview_collage.jpg" width="960" height="960" title="'Previews'" ></p>
+
+<p>And I certainly wasn't going to manually input the Markdown tags for 530 photos. So, with that in mind, I decided to divest my thoughts of using Octopress. I set out to find a dedicated photo display solution. Some enterprising individuals had written plugins which can read Flickr sets, but I didn't want to host on Flickr, for copyright and personal reasons. So, I googled around a bit and found several Rails-based photo gallery apps.</p>
+
+<p>Now, some of you may ask, why wouldn't I just use the Rails-based photo gallery app that I had already, i.e. <a href="http://seenightlife.com/">See Nightlife</a>?</p>
+
+<p>Well, to be honest, See Nightlife is broken. I can upload and display, but all organizational tools are offline. It's a "write once" solution as it stands. I can't even delete photos. Also, Ryan and I simply haven't had the time to fix it. Plus, the app it was based on, <a href="https://github.com/rapind/albumdy">Albumdy</a> is no longer being maintained.</p>
+
+<p>As this was to display the wedding photos of two of my closest friends, something a little more reliable needed to be found. These are wedding photos, not a bunch of images of kids blindly worshipping some guy playing music off of his Mac.</p>
+
+<p>So, with that in mind, I settled on a fairly popular Rails app called <a href="http://balderapp.com/">Balder.</a></p>
+
+<p>Developed and maintained by Espen Antonsen out of Norway, Balder is a currently-maintained-and-produced Rails app for displaying photos in a collection/album format. And it fit my use case perfectly, as I wanted to host my photos on S3, and have the app live on Heroku. Heroku is more for running applications, and not storage. S3 is eminently more suited to storage, hence "Simple Storage Service" (S3). Espen himself uses this setup, and even provided a howto guide <a href="http://blog.inspired.no/rails-photo-gallery-balder-on-heroku-and-s3-726/">on his blog</a> on how to do it. In a nutshell, you provide Balder your S3 key, secret, and bucket name in a config file, commit to Heroku, and go from there. The one stumbling block I encountered is that the uploader itself tries to call an EXIF display module, which is dependent on a UNIX executable, which to my knowledge, cannot be installed on Heroku. So, even though the initial deployment was fast, the actual implementation wasn't.</p>
+
+<p>Now, where the virtues of open source kick in is that I had the code for Balder on my local machine. Through Heroku's logging, I could see where the app was breaking uploads. I'm still a 'babe in the woods' when it comes to coding, but I can read what the code is doing. I saw where it was getting hung up, but had no idea on how to fix it, or comment it out, since I specifically didn't need EXIF data to be displayed. For those who may not be familiar, EXIF data is basically metadata contained in a JPEG file, which shows things like the camera type, exposure settings, and so on. You can see the EXIF data of a photo by doing the "File Info" function on your operating system of choice.</p>
+
+<p><img class="center" src="https://s3.amazonaws.com/dvblog/exif.png" width="964" height="541" title="'Coding'" ></p>
+
+<p>So, via the <a href="https://github.com/espen/balder">issues tracker in the Github repository for Balder</a>, I submitted a request for support from the developer. Now, since the app is free, and Espen derives no income from it, he was under zero obligation to respond to me. Since it was the weekend, I didn't expect much right away. But, by this morning, he had filed a response to my request:</p>
+
+<p><blockquote><p></p></p><p><p>Try commenting out "before_create :exif_read" in the photo model. I will look into this later but currently too busy with other work.</p></p><p><p></p><footer><strong>Espen Antonsen</strong> <cite><a href='https://github.com/espen/balder/issues/36'>HTML5 Uploader Generates HTTP Error</a></cite></footer></blockquote></p>
+
+<p>I appreciated his honesty, that's for sure. Way more than I expected. Most free open-source projects are one-shot deals where the developer does the initial work, and then forgets about it. So, I was pleasantly surprised at a reply.</p>
+
+<p>And fortunately, his solution worked. I commented out a call to the non-existent EXIF module, and successfully uploaded some photos as a test. After confidently seeing that they displayed and cycled according to my wishes, I then began to upload the wedding photos in earnest. Balder has an excellent organizational structure. I can create a collection, let's call it "Wedding", and then albums for each portion of the event. Very slick. Five stars. And wonderful support from someone whom isn't even obligated to do so.</p>
+
+<p>Now, if this was a closed-source solution or a problem with a hosted service like Flickr, I would have had no way of figuring out what was wrong. I would have had to email their support, wait, and hope they could get to the issue in time. With open-source, I can peek under the hood, make some educated assessments as to what the issue is, and attempt a fix on my own. Or at the least, get concrete info that the developer understands so he or she can make a more effective fix. Plus, I got to learn a little more about just what makes a Rails-based web app tick.</p>
+
+<p>Right now, the app is deployed to Heroku, and running smoothly. I plan on using Balder in general, from here on out and whenever possible for my hosting needs. Open source for the win, as they say.</p>
+
+<ul>
+<li>Sidebar: I'd love to show you guys the results of the wedding, but since it was a personal affair, I would rather receive clearance before I share the results with the public. Thanks for understanding, all.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A classic sunset...]]></title>
@@ -184,60 +251,6 @@
 <p>Now, if I can summarize this post, it would be, "A different perspective always helps..."</p>
 
 <p>Oh, and Ade, thanks!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ramblings after the weekend...]]></title>
-    <link href="http://www.dan-vidal.com//blog/2012/10/08/ramblings-after-the-weekend-dot-dot-dot/"/>
-    <updated>2012-10-08T23:42:00-04:00</updated>
-    <id>http://www.dan-vidal.com//blog/2012/10/08/ramblings-after-the-weekend-dot-dot-dot</id>
-    <content type="html"><![CDATA[<p><img class="center" src="https://s3.amazonaws.com/dvblog/lostios2012-9386.jpg" width="960" height="640" title="'Still here at 9 AM?'" ></p>
-
-<p>It was one of those random "on and off" weekends.</p>
-
-<!-- more -->
-
-
-<p>Much like any other mental factor, creativity seems to have a finite supply of sorts, and can be slow to replenish. Thursday, I shot a scenic I'm really proud of, the aptly-titled (yes, I'm totally being narcissistic here) "Where The Buses Don't Run".</p>
-
-<p><img class="center" src="https://s3.amazonaws.com/dvblog/outwhere_rev-8882.jpg" width="960" height="640" title="'US 27 Northbound Broward County'" ></p>
-
-<p>I did this on a Thursday night/Friday morning, and I did the editing and "mastering" work on Friday. When I intend to sell a print, I tend to nitpick. I'll obsess over minute color corrections, lens flares, and wish for things like my print provider accepting TIFF uploads on the off chance there's some minor compression artifacts which could be visible at a large enough print size.</p>
-
-<p>Oh, and by the way, "Out Where The Buses Don't Run" is for sale on my <a href="http://dan-vidal.fineartamerica.com/">Fine Art America</a> site, along with eight other pieces I consider potential sellers. I'm getting more and more into shooting nighttime scenics. Though I could do without the bugs in the Everglades. There was a mosquito in the 210 on my way home that night. The hardest part was concentrating on keeping steady at 130 km/h while hoping the little bastard would just go away. I did the "open all windows and go even faster" trick and that seemed to help.</p>
-
-<p>That being said, I was fully intent on going back out to shoot more scenics on Friday, but that actually never panned out. I couldn't think of a location to scope out. I might try west this week, now that I think about it.</p>
-
-<p>Saturday was my usual club night over at <a href="http://clubspace.com/">Space</a>. Two of my favorites, Chus + Ceballos, were on hand to provide an extended musical soundtrack to the evening. These guys "get it", they know they are there to keep the crowd moving, and they provide an excellent musical selection over the course of ten or more hours on the decks. Great guys in person, too. They're always game for the photo op, and they actually love to meet their fans. They <a href="http://www.dan-vidal.com/blog/2012/09/06/the-musical-ecosystem/">know their place in the musical ecosystem</a>.</p>
-
-<p><img class="center" src="https://s3.amazonaws.com/dvblog/lostios2012-9091.jpg" width="960" height="640" title="'That Nikon is like a periscope'" ></p>
-
-<p><p><a href='/blog/2012/10/08//' data-instagram-url='http://instagr.am/p/QiwaZHAgNP/' class='instagram-image'><img src='http://distilleryimage3.s3.amazonaws.com/5be1081a11b011e2aeda22000a1de2e0_7.jpg' alt='Los Tios @chuslesteban @clubspacemiami @jhartlein @ppod @travisrogersmia More at http://seenightlife.com/users/pod/albums/chus-and-ceballos-return-to-space#5' height='612' width='612' /></a><br/>Filtered with <a href='/blog/categories/normal'>Normal</a> through <a href='/blog/categories/instagram'>Instagram</a></p><!--more--><p><a href='http://maps.google.com?q=25.784715407,-80.193181247'><img border='0' src='http://maps.googleapis.com/maps/api/staticmap?center=25.784715407,-80.193181247&markers=25.784715407,-80.193181247&zoom=14&size=612x200&sensor=false' alt='Club Space' /></a><br/>Taken at Club Space</p><p class='instagram-comment-holder'><a href='https://instagram.com/oauth/authorize/?client_id=082223ce4af44db2a4b0440fd98957c9&redirect_uri=http://www.dan-vidal.com/#access_token=31120127.082223c.33c03a5584f54c3494027e191a8d7b73&response_type=token&scope=likes+comments' id='298013445259920207_31120127' class='instagram-comment-link'>Sign in with Instagram to view Likes and Comments</a></p></p>
-
-<p>I still have to figure out how to derive that media_id without having to manually kick the Instagram API. If anyone knows how, let me know.</p>
-
-<p>That being said, I definitely had "more creative energy" by that Saturday night. Some plans for early hours didn't materialize. I was supposed to attend a bachelor/bachelorette party at Scarlett's up in Hollywood, but the "confirmation" message never arrived that the people were actually gonna go. By then, it was 1:30 in the morning and I was already framing my mind from staring at desperate girls on the pole to actually doing something productive. So, I kind of said "the hell with it", jumped into a <a href="http://miami.car2go.com/">Car 2 Go</a>, and drove on over to Space.</p>
-
-<p><p><a href='/blog/2012/10/07//' data-instagram-url='http://instagr.am/p/QeHL8FAgAh/' class='instagram-image'><img src='http://distilleryimage5.s3.amazonaws.com/88cd369e104511e2b7ea22000a1fc2ec_7.jpg' alt='Saddle up. @car2gomiami to @clubspacemiami' height='612' width='612' /></a><br/>Filtered with <a href='/blog/categories/normal'>Normal</a> through <a href='/blog/categories/instagram'>Instagram</a></p><!--more--><p><a href='http://maps.google.com?q=25.835181305,-80.182557106'><img border='0' src='http://maps.googleapis.com/maps/api/staticmap?center=25.835181305,-80.182557106&markers=25.835181305,-80.182557106&zoom=14&size=612x200&sensor=false' alt='Talk Nightlife' /></a><br/>Taken at Talk Nightlife</p><p class='instagram-comment-holder'><a href='https://instagram.com/oauth/authorize/?client_id=082223ce4af44db2a4b0440fd98957c9&redirect_uri=http://www.dan-vidal.com/#access_token=31120127.082223c.33c03a5584f54c3494027e191a8d7b73&response_type=token&scope=likes+comments' id='296706232201379873_31120127' class='instagram-comment-link'>Sign in with Instagram to view Likes and Comments</a></p></p>
-
-<p>Car 2 Go is saving me so much money in cab fare. It's amazing. Plus, they never thought of my use case until I told them. They posted on Facebook about using their service to get to the Brickell Oktoberfest party, and taking the safe way (a cab) home. Agalmic cowboy diplomacy.</p>
-
-<p><img class="center" src="https://s3.amazonaws.com/dvblog/lostios2012-9217.jpg" width="960" height="640" title="'Hi Jordyn'" ></p>
-
-<p>Anyways, Space was the usual 'rock' of Miami nightlife this past weekend. Great atmosphere, an interesting crowd, and great music. It's not a trendy VIP club, and it doesn't aspire to be. In my mind it's the heart of Miami nightlife. It is one venue you can go to without even bothering to check their website to see who is playing. A friend of mine suggested that their marketing campaign should be "Space: We're fucking open."</p>
-
-<p>I did my usual rounds at the venue, including switching out to the 50 1.2 L as the morning rolled on. It's a learning curve, but one I'm glad to participate in. It's a great lens and you can do amazing things with it wide open. Every Canon user should have it in their arsenal.</p>
-
-<p><img class="center" src="https://s3.amazonaws.com/dvblog/lostios2012-9335.jpg" width="960" height="640" title="'Lucy I'm Home'" ></p>
-
-<p>At 1.2, you will have throwaway images. Nature of the beast in a nightclub. Just keep shooting, but don't turn it into a Golden BB spray-and-pray affair. If the shot doesn't happen, it doesn't happen.</p>
-
-<p>I left a little after 9 AM Sunday morning. I woke up Sunday afternoon, since I had a Keys trip planned, but the weather totally did not cooperate. I ended up turning around on the Turnpike Extension after a huge downpour kicked in, with more forecast for Monday. Though Monday turned out to be a rather nice day. Such is luck I guess.</p>
-
-<p>I'll try to make it down again in the next few weeks. Maybe after Halloween Weekend.</p>
-
-<p>Totally random weekend.</p>
 ]]></content>
   </entry>
   

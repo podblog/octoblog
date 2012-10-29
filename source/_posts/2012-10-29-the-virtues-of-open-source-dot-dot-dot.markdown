@@ -3,7 +3,8 @@ layout: post
 title: "The virtues of open-source..."
 date: 2012-10-29 13:12
 comments: true
-categories: 
+categories: [agalmic, open-source, photo, ]
+sharing: true
 ---
 
 {% img center https://s3.amazonaws.com/dvblog/ruby.png 679 410 'Coding' %}
