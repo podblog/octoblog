@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Communities and Conduct..."
-date: 2012-10-31 12:48
+date: 2012-11-01 02:48
 comments: true
 categories: [randomness, social, miami, rants]
 sharing: true
@@ -9,10 +9,9 @@ sharing: true
 
 {% img center https://s3.amazonaws.com/dvblog/appnet.png 781 446 'alpha dot app dot net slash pod' %}
 
-I've recently jumped onto a new social networking service called <a href="http://join.app.net/">app.net</a>. Founded by <a href="http://daltoncaldwell.com/">Dalton Caldwell, app.net is, at a basic level, an ad-free version of Twitter. You basically pay $5 a month or $36 a year to join, and from there it's pretty smooth sailing. Like any new service online, there's a small fanatical userbase laying the groundwork for the new community, including the "tone"...
+I've recently jumped onto a new social networking service called <a href="http://join.app.net/">app.net</a>. Founded by <a href="http://daltoncaldwell.com/">Dalton Caldwell</a>, app.net is, at a basic level, an ad-free version of Twitter. You basically pay $5 a month or $36 a year to join, and from there it's pretty smooth sailing. Like any new service online, there's a small fanatical userbase laying the groundwork for the new community, including the "tone"...
 
 <!-- more -->
-
 A few years ago, when <a href="http://www.technogeno.us/">Ryan</a> and I were kicking off <a href="http://talknightlife.com/">TNL</a>, one of the things we thought about was setting the standard for discourse in the community. The initial way we did this was via an invite system. We basically told people we knew and liked about the new site, gave them the gateway password, and told them to have at it while we built it. We invited people we knew were capable of intelligent discourse, as well as deliberately inviting a few "disruptive" elements, just to see if our little idea of the community setting the tone worked. For the most part, it did. Where our previous community frequently walked the line with porn, spam, and some pretty vicious personal battles, the TNL experiment proved to be mild in comparison. (Yes, mild...I wish we exported the blue site DB before we got shown the door, there were some real gems in there!) However, in general, it seemed to prove a point that an online community, especially a niche one, is capable of being largely self-regulating. 
 
 But, if a community grows to be amazingly large, can it self-police? It's hard to say. Look at Facebook. Even if you have a limited friend list, you are still subject to the content they post, and they generally take influence from their friends, and so on. So, Facebook has devolved into a mindless mash of memes, chain letters, tabloid news, and general idiocy. However, objectively, sometimes general idiocy can be fun. I'll gladly admit to laughing at the latest meme. I love "Me Gusta" ragefaces and the "Because 'Fuck You', That's Why!" meme actually kind of sums up how I feel about most things I do. However, the general tone of Facebook is one of a shopping mall with disinterested mall cops who only do what they have to do, in order to keep their jobs. And the self-policing actions are generally arbitrary. People will laugh at a video of a guy getting hit by a train, but not if it originated from someone they have a problem with. Then it's game on, they're clicking "hide/report" for all it's worth. 
