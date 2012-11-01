@@ -7,7 +7,7 @@ categories: [randomness, social, miami, rants]
 sharing: true
 ---
 
-{% img center https://s3.amazonaws.com/dvblog/ruby.png 781 446 'alpha dot app dot net slash pod' %}
+{% img center https://s3.amazonaws.com/dvblog/appnet.png 781 446 'alpha dot app dot net slash pod' %}
 
 I've recently jumped onto a new social networking service called <a href="http://join.app.net/">app.net</a>. Founded by <a href="http://daltoncaldwell.com/">Dalton Caldwell, app.net is, at a basic level, an ad-free version of Twitter. You basically pay $5 a month or $36 a year to join, and from there it's pretty smooth sailing. Like any new service online, there's a small fanatical userbase laying the groundwork for the new community, including the "tone"...
 
