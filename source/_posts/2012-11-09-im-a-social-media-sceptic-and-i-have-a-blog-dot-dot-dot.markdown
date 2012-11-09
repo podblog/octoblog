@@ -1,0 +1,35 @@
+---
+layout: post
+title: "I'm a social media sceptic and I have a blog..."
+date: 2012-11-09 11:44
+comments: true
+categories: [meta, miami, randomness, agalmic]
+sharing: true 
+---
+
+{% img center https://s3.amazonaws.com/dvblog/blog-5407.jpg 960 640 'OCP' %}
+
+This morning, when I woke up, a post on Facebook by <a href="http://helloimscott.com/">Scott Alexander</a> caught my eye. 
+
+{% blockquote Scott Alexander, a Facebook Post %}
+A good article for photographers and artists of any medium, really. While you're on Edin's site reading this, I highly recommend checking out the rest of his site. Great photographer with a superb eye.
+
+{% endblockquote %}
+
+<!-- more -->
+
+The post linked to <a href="http://www.edinchavez.com/blog/why-should-i-start-a-blog/">an article by local photographer Edin Chavez</a>, on why a photographer should have a blog. The reasons are pretty obvious, ranging from showcasing your work to SEO, and, most importantly, _control_.
+
+Now, maybe it sounds a little obsessive, but at the end of the day, having a slice of web property you control from top to bottom is important, especially if you are in the creative field. And, unfortunately, there's quite a large amount of creative types who don't have a web property that they explicitly have ownership of. I know more than a few working photographers who only use social media to showcase their works, for example. This can be dangerous. 
+
+I'm a "social media sceptic". I've been on the internet in one way or another since 1992, around the time the World Wide Web was born. And yes, there was an <a href="http://www.dan-vidal.com/blog/2012/08/22/how-it-was/">internet before then</a>. My dad was/is a network engineer, so we always had some form of basic online access. In general, we passed on the walled-garden online services of the day like AOL, Compu$erve, and so on. I actually preferred local dialup BBSes, which, in a way, were primitive social networks. 
+
+You could post up content, chat with other users, and transfer files around. It was basically a text-mode Facebook, if you think about it. However, after a few years, the era of the BBS faded, replaced by easy internet access and the rise of consumer usage of the WWW. Once people got situated and used to "dot com", soon after came the rise of user-provided content, i.e. the first blogs. Blogging was around before the term was coined (a lot of personal websites had a running journal of the owner's thoughts...), but with the advent of primitive <a href="http://www.movabletype.org/">CMS</a> systems, publishing content became a trivial point and shoot exercise. Then, of course, that was extended into social networking as we know it. Friendster kicked off the craze, then MySpace, then proceeding on to Twitter and Facebook, with of course Google constantly on the move to be "the" internet.
+
+However, through all those trends and sea changes, the ability to host and publish your own content on your own web property has remained. I know a few "social media managers" (the title is largely meaningless), and their biggest challenge is keeping up with the trends in services and platforms. Today it is Facebook, tomorrow it could (hopefully) be <a href="http://join.app.net/">app.net</a>, or a move to the <a href="https://joindiaspora.com/">Diaspora</a> model of community-run distributed social networking. Nonetheless, it's a lot to digest and keep up with. It's the nature of the beast, as it were. 
+
+And therein lies the problem. I see a lot of people who rely and base their businesses on a specific form of social media. A few years ago, I knew people who made businesses based on doing MySpace profile templates, and they acted as if it was their gateway to untold riches. Now, you have companies building applications around Facebook, acting in much the same way. With the cyclical trendy nature of social media, most of these companies are destined to fail, or disappear, due to their reliance on someone else's platform for their business. It's akin to relying on General Motors cars exclusively for your delivery business, rather than any operational vehicle.
+
+Now, one could drive themselves crazy keeping up with these social media trends. Every so often, you have to convert and repost your content. One bulwark against that, (to bring it all home!), is having your own web property. Now, <a href="http://www.edinchavez.com/blog/why-should-i-start-a-blog/">Edin espouses Wordpress and/or Blogger</a> as a publishing platform, and I of course champion <a href="http://octopress.org/">Octopress</a>, but that battle is more of a technical one than a political one. 
+
+The key is, hosting your content on your own systems, and using social media to drive people to those systems. I know with Octopress it will be a trivial matter to write a plug-in to support broadcasting to any future social network, due to it's open-source nature. And even though Wordpress is rather closed in comparison, some enterprising developer will link WP with whichever future social network becomes ascendent. But, at the end of the day, with having your own domain, own hosting, and own content, one can make themselves immune from the often-flaky, trendy, and chaotic world of social media. 
