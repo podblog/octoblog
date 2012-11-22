@@ -25,19 +25,19 @@ And, in the spirt of Small Business Saturday and also the holidays, why not supp
 
 {% img https://s3.amazonaws.com/dvblog/bridge-4199_blog.jpg 960 640 'Islamorada Crossing' %}
 
-<center>_Islamorada Crossing_</center>
+<center><i>Islamorada Crossing</i></center>
 
 {% img center https://s3.amazonaws.com/dvblog/keys-4648.jpg 960 1440 'Fire away' %}
 
-<center>_Indian Key Channel_</center>
+<center><i>Indian Key Channel</i></center>
 
 {% img center https://s3.amazonaws.com/dvblog/outwhere_rev-8882.jpg 960 640 'US 27 Northbound Broward County' %}
 
-<center>_Out Where The Buses Don't Run_</center>
+<center><i>Out Where The Buses Don't Run</i></center>
 
 ...and quite a few more. 
 
-<a href="http://dan-vidal.fineartamerica.com">Click on over to my print store to purchase</a>. Don't forget code 'ZESNLP' at checkout for the 20 percent discount. Shipping times are reasonable but may back up a bit closer to the end of December.
+<a href="http://dan-vidal.fineartamerica.com">Click on over to my print store to purchase</a>. Don't forget code 'ZESNLP' at checkout for the 20 percent discount. Shipping times are reasonable but may back up a bit closer to the end of December, and specialty orders like gallery wraps take an extra day or so to prepare...
 
 Yes, this is me being a little commercial.
 
