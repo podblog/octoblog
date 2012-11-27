@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-{% img https://s3.amazonaws.com/dvblog/coolhead.jpg 960 203 'w210 Action' %}
+{% img https://s3.amazonaws.com/dvblog/coolhead1.jpg 960 290 'W210 all the way up by that beach' %}
 
 
 No venture can be done alone. You always gotta ask someone for help. It's terribly unhip these days to acknowledge your crew on your own website, but I'm a caveman in terms of the internet (ca. 1992) so I'm gonna do it how I think it should be done, and it was done. Back in the day, you used to give a little shout-out to the people and things who made your slice of life possible.
@@ -22,6 +22,8 @@ And in no particular order, so guys, don't fight. Actually, fight, it'd be humor
 <a href="http://soulofmiami.org/">**James Echols - Soul of Miami**</a> - James was another person whom provided leverage for me to get off my ass and start a blog. I'm hideously late to the game but here we are, and thanks! Oh, and his blog's pretty useful if you want to know what's going on aside from club events in Miami.
 
 <a href="http://talknightlife.com/">**Talk Nightlife - The Community**</a> - As I stated in my post about <a href="http://www.dan-vidal.com/blog/2012/09/10/the-free-flow-of-opinion/">The Free Flow Of Opinion</a>, I help maintain and run the Miami-based club gossip forum, Talk Nightlife. I generally refer to the regulars on there as __"The Community"__. They provide a lot of the source inspiration for my posts and of course continued viewership and support of my endeavours visual and otherwise. And some of them are even friends of mine. Scary, huh? But if you've got some spine and are in the mood for a good laugh, go check it out. It's free to sign up, though I monitor all new logins to make sure they aren't spammers. Just say "Pod sent me" or something in the "Why Are You Here?" field in the signup form, and I'll sort it out.
+
+**Mom and Dad** - Duh. I'm a horrible son but I promise to make it up to you guys somehow. 
 
 There's other cool helpful people, of course, but they don't have blogs or sites per se really, and linking to their social media profiles doesn't do much since they are private. But you all know who you are. Thanks!
 
