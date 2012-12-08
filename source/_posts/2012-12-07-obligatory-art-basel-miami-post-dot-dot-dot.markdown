@@ -41,5 +41,12 @@ If you are here for Basel, welcome. Just don't bullshit a bullshitter, and be ho
 
 {% img center https://s3.amazonaws.com/dvblog/wood.jpg 960 208 'Wood iPhone Pano' %}
 
+{% instagram 340924678078071418_31120127 %}
+
+{% instagram 340960469256897399_31120127 %}
+
+{% instagram 340986020654874644_31120127 %}
+
+
 Oh and yes, all the prior images were shot with my iPhone. It's a fun challenge maxing out the sensor.
 
