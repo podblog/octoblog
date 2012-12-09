@@ -3,14 +3,14 @@ layout: post
 title: "Around Wynwood For Art Basel 2012..."
 date: 2012-12-08 21:25
 comments: true
-categories: [art basel, miami, randomness, ramblings, instagram, normal, wynwood, asif,]
+categories: [art basel, miami, randomness, ramblings, instagram, normal, wynwood, asif, car2go]
 sharing: true
 ---
 
 {% img center https://s3.amazonaws.com/dvblog/wynwood960.jpg 960 960 'Wynwood Saturday Night December 8' %}
 
 
-Proprietor of <a href="http://thevagabondmiami.com/">The Vagabond</a> and friend of mine, Carmel Ophir, had this to say about Basel...
+Proprietor of <a href="http://thevagabondmiami.com/" target="_blank">The Vagabond</a> and friend of mine, Carmel Ophir, had this to say about Basel...
 
 {% blockquote Carmel Ophir https://www.facebook.com/carmelophir/posts/10152329760025065 On Art Basel Miami %}
 Take a walk, alone... Go into the small random galleries, warehouses, and storefronts. Pick any art fair and not worry about paying the admission fee. Walk around, and take in some of the most incredible creative works in the world. Don't fret about where your friends are and what they may be doing, or what's the cool/hip place to be.
@@ -57,7 +57,7 @@ And, of course, there were plenty of street performers as well. I was glad to se
 
 {% img center https://s3.amazonaws.com/dvblog/wynwood-9711.jpg 960 640 'Asif's Guns Wynwood' %}
 
-I did my part, and checked out a lot of random little galleries and one-off events. My favorite by far was <a href="http://www.primaryprojectspace.com/artbasel/asifsguns">Asif's Guns</a>. In a nutshell, Asif produced accurate cardboard models of popular firearms, including Walther, GLOCK, H&K, and the ubiquitous AK-47. It was a riff on US gun culture, and a parody of a US gun store. While I might not see eye-to-eye with him on his gun politics (he calls for more controls, whereas I advocate better enforcement of existing statutes), it was really the highlight of my little run through Wynwood. A 400-square foot setup off to the side somewhere. Carmel's advice paid off. I even bought a T-shirt. I'm sure it will be a hit tomorrow morning...
+I did my part, and checked out a lot of random little galleries and one-off events. My favorite by far was <a href="http://www.primaryprojectspace.com/artbasel/asifsguns" target="blank">Asif's Guns</a>. In a nutshell, Asif produced accurate cardboard models of popular firearms, including Walther, GLOCK, H&K, and the ubiquitous AK-47. It was a riff on US gun culture, and a parody of a US gun store. While I might not see eye-to-eye with him on his gun politics (he calls for more controls, whereas I advocate better enforcement of existing statutes), it was really the highlight of my little run through Wynwood. A 400-square foot setup off to the side somewhere. Carmel's advice paid off. I even bought a T-shirt. I'm sure it will be a hit tomorrow morning...
 
 {% instagram 342227720975024893_31120127 %}
 
