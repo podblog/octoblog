@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Instagram And Their New Terms And Conditions..."
+title: "Instagram And Their New Terms And Conditions...(Updated!)"
 date: 2012-12-18 16:21
 comments: true
 categories: [randomness, instagram, normal, miami, photo, agalmic]
@@ -8,6 +8,8 @@ sharing: true
 ---
 
 {% instagram 349294637422346666_31120127 %}
+
+Scroll to the bottom, Instagram appears to be backtracking, or clarifying.
 
 Over the past few days, there's been a bit of a furor over the changed Terms & Conditions over at <a href="http://instagram.com/">Instagram</a>. As an avid user of the service, hell, it's pretty much the only major social media service I don't have a huge dislike for, I was, of course, a little concerned... 
 
@@ -76,6 +78,21 @@ So yeah, I think I'll keep on Instagramming. I know how to mess up my images jus
 Follow me at <a href="http://instagram.com/pod_gram">instagram.com/pod_gram</a> - haha!
 
 And yes, I'm aware of the irony of me, the anti-Facebook guy, using Instagram, a Facebook division. There's alternatives out there I'm exploring, don't worry. 
+
+Update 2012-12-18 21:03
+
+Instagram appears to be backtracking, according to Kevin's latest <a href="http://blog.instagram.com/post/38252135408/thank-you-and-were-listening">blog post</a>.
+{% blockquote Kevin Systrom http://blog.instagram.com/post/38252135408/thank-you-and-were-listening Thank You And We're Listening %}
+Ownership Rights Instagram users own their content and Instagram does not claim any ownership rights over your photos. Nothing about this has changed. We respect that there are creative artists and hobbyists alike that pour their heart into creating beautiful photos, and we respect that your photos are your photos. Period.
+
+I always want you to feel comfortable sharing your photos on Instagram and we will always work hard to foster and respect our community and go out of our way to support its rights.
+
+{% endblockquote %}
+
+He also goes on to explain that yes, they are a business, and they need to make money. So, for now, it appears that content uploaded to Instagram is safe. I'm not saying Instagram won't change their minds again, or be forced to by Facebook, but at least for now it appears that the more questionable changes to the T&C have been modified and/or clarified. So there's that, and Kevin is a good person for at least speaking out, even if it took the slight threat of a user revolt to do so. 
+
+
+
 
 Oh, and happy holidays to my readership. The blog has been a fun adventure over the past few months!
 
